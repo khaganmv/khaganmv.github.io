@@ -1,0 +1,30 @@
+* {
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: small;
+    color: white;
+}
+
+td:first-child {
+    font-family: Consolas, monaco, monospace;
+}
+
+.slot-button {
+    background-color: rgb(80, 80, 80);
+}
+
+.activeButton {
+    background-color: blue;
+}
+
+#body {
+    background-color: rgb(40, 40, 40);
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(80, 80, 80);
+    text-align: center;
+}
