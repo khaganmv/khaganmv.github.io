@@ -1,31 +1,31 @@
 const catalog = {
     "face": undefined, 
-    "feet": undefined, 
-    "head": undefined, 
-    "inner-torso": undefined, 
-    "legs": undefined, 
-    "outer-torso": undefined, 
-    "outfit": undefined,
+    // "feet": undefined, 
+    // "head": undefined, 
+    // "inner-torso": undefined, 
+    // "legs": undefined, 
+    // "outer-torso": undefined, 
+    // "outfit": undefined,
 };
 
 const tables = {
     "face": undefined, 
-    "feet": undefined, 
-    "head": undefined, 
-    "inner-torso": undefined, 
-    "legs": undefined, 
-    "outer-torso": undefined, 
-    "outfit": undefined,
+    // "feet": undefined, 
+    // "head": undefined, 
+    // "inner-torso": undefined, 
+    // "legs": undefined, 
+    // "outer-torso": undefined, 
+    // "outfit": undefined,
 };
 
 const buttons = {
     "face": undefined, 
-    "feet": undefined, 
-    "head": undefined, 
-    "inner-torso": undefined, 
-    "legs": undefined, 
-    "outer-torso": undefined, 
-    "outfit": undefined,
+    // "feet": undefined, 
+    // "head": undefined, 
+    // "inner-torso": undefined, 
+    // "legs": undefined, 
+    // "outer-torso": undefined, 
+    // "outfit": undefined,
 };
 
 var active = "face";
@@ -110,7 +110,17 @@ function initTables() {
             
             for (var attr in catalog[slot][item]) {
                 const td = document.createElement("td");
-                td.textContent = catalog[slot][item][attr];
+
+                if (attr === "image_male" || attr === "image_female") {
+                    const img = document.createElement("img");
+                    img.src = catalog[slot][item][attr];
+                    img.width = 400;
+                    img.height = 400;
+                    td.appendChild(img);
+                } else {
+                    td.textContent = catalog[slot][item][attr];
+                }
+
                 tr.appendChild(td);
             }
 

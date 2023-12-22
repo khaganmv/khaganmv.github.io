@@ -62,26 +62,12 @@
         "name_female": "AOI TORA ENHANCED BD WREATH",
         "image_female": "catalog/face/Items.Tech_02_basic_01_female.png"
     },
-    "Items.Tech_02_basic_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Tech_02_basic_01_Crafting\", 1)",
-        "name_male": "AOI TORA ENHANCED BD WREATH",
-        "image_male": "catalog/face/Items.Tech_02_basic_01_Crafting_male.png",
-        "name_female": "AOI TORA ENHANCED BD WREATH",
-        "image_female": "catalog/face/Items.Tech_02_basic_01_Crafting_female.png"
-    },
     "Items.Visor_02_basic_02": {
         "command": "Game.AddToInventory(\"Items.Visor_02_basic_02\", 1)",
         "name_male": "ARASAKA TACTICAL TECHGOGS",
         "image_male": "catalog/face/Items.Visor_02_basic_02_male.png",
         "name_female": "ARASAKA TACTICAL TECHGOGS",
         "image_female": "catalog/face/Items.Visor_02_basic_02_female.png"
-    },
-    "Items.Visor_02_basic_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Visor_02_basic_02_Crafting\", 1)",
-        "name_male": "ARASAKA TACTICAL TECHGOGS",
-        "image_male": "catalog/face/Items.Visor_02_basic_02_Crafting_male.png",
-        "name_female": "ARASAKA TACTICAL TECHGOGS",
-        "image_female": "catalog/face/Items.Visor_02_basic_02_Crafting_female.png"
     },
     "Items.Mask_02_rich_01": {
         "command": "Game.AddToInventory(\"Items.Mask_02_rich_01\", 1)",
@@ -138,20 +124,6 @@
         "image_male": "catalog/face/Items.Visor_02_basic_01_male.png",
         "name_female": "BOOSTKNIT-POLYMER MILITARY TECHGOGS",
         "image_female": "catalog/face/Items.Visor_02_basic_01_female.png"
-    },
-    "Items.Hard_30_Reflex_Face": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_Reflex_Face\", 1)",
-        "name_male": "BOOSTKNIT-POLYMER MILITARY TECHGOGS",
-        "image_male": "catalog/face/Items.Hard_30_Reflex_Face_male.png",
-        "name_female": "BOOSTKNIT-POLYMER MILITARY TECHGOGS",
-        "image_female": "catalog/face/Items.Hard_30_Reflex_Face_female.png"
-    },
-    "Items.VHard_50_RefBody_Face": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_RefBody_Face\", 1)",
-        "name_male": "BOOSTKNIT-POLYMER MILITARY TECHGOGS",
-        "image_male": "catalog/face/Items.VHard_50_RefBody_Face_male.png",
-        "name_female": "BOOSTKNIT-POLYMER MILITARY TECHGOGS",
-        "image_female": "catalog/face/Items.VHard_50_RefBody_Face_female.png"
     },
     "Items.Visor_02_old_01": {
         "command": "Game.AddToInventory(\"Items.Visor_02_old_01\", 1)",
@@ -244,13 +216,6 @@
         "name_female": "DARKER SPEED SQUARE GLASSES",
         "image_female": "catalog/face/Items.Glasses_03_basic_01_female.png"
     },
-    "Items.Hard_30_IntBody_Face": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_IntBody_Face\", 1)",
-        "name_male": "DARKER SPEED SQUARE GLASSES",
-        "image_male": "catalog/face/Items.Hard_30_IntBody_Face_male.png",
-        "name_female": "DARKER SPEED SQUARE GLASSES",
-        "image_female": "catalog/face/Items.Hard_30_IntBody_Face_female.png"
-    },
     "Items.Tech_02_old_01": {
         "command": "Game.AddToInventory(\"Items.Tech_02_old_01\", 1)",
         "name_male": "DATED BD WREATH",
@@ -286,13 +251,6 @@
         "name_female": "ELEGANT SEPIA VISION AVIATORS WITH REINFORCED LENSES",
         "image_female": "catalog/face/Items.Glasses_01_basic_02_female.png"
     },
-    "Items.Q301_Nomad_WA_Face": {
-        "command": "Game.AddToInventory(\"Items.Q301_Nomad_WA_Face\", 1)",
-        "name_male": "ELEGANT SEPIA VISION AVIATORS WITH REINFORCED LENSES",
-        "image_male": "catalog/face/Items.Q301_Nomad_WA_Face_male.png",
-        "name_female": "ELEGANT SEPIA VISION AVIATORS WITH REINFORCED LENSES",
-        "image_female": "catalog/face/Items.Q301_Nomad_WA_Face_female.png"
-    },
     "Items.Mask_04_rich_05": {
         "command": "Game.AddToInventory(\"Items.Mask_04_rich_05\", 1)",
         "name_male": "ERGONOMIC BALLISTIC GAS MASK",
@@ -314,68 +272,12 @@
         "name_female": "FULL-FACE ANTICORROSIVE BALLISTIC MASK",
         "image_female": "catalog/face/Items.Mask_04_rich_04_female.png"
     },
-    "Items.VHard_50_CoolRef_Face": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_CoolRef_Face\", 1)",
-        "name_male": "FULL-FACE ANTICORROSIVE BALLISTIC MASK",
-        "image_male": "catalog/face/Items.VHard_50_CoolRef_Face_male.png",
-        "name_female": "FULL-FACE ANTICORROSIVE BALLISTIC MASK",
-        "image_female": "catalog/face/Items.VHard_50_CoolRef_Face_female.png"
-    },
     "Items.Glasses_01_basic_03": {
         "command": "Game.AddToInventory(\"Items.Glasses_01_basic_03\", 1)",
         "name_male": "GOLD PUNK AVIATORS WITH COATED GLASS",
         "image_male": "catalog/face/Items.Glasses_01_basic_03_male.png",
         "name_female": "GOLD PUNK AVIATORS WITH COATED GLASS",
         "image_female": "catalog/face/Items.Glasses_01_basic_03_female.png"
-    },
-    "Items.Glasses_01_basic_03_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Glasses_01_basic_03_Crafting\", 1)",
-        "name_male": "GOLD PUNK AVIATORS WITH COATED GLASS",
-        "image_male": "catalog/face/Items.Glasses_01_basic_03_Crafting_male.png",
-        "name_female": "GOLD PUNK AVIATORS WITH COATED GLASS",
-        "image_female": "catalog/face/Items.Glasses_01_basic_03_Crafting_female.png"
-    },
-    "Items.Hard_20_Body_Face": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Body_Face\", 1)",
-        "name_male": "GOLD PUNK AVIATORS WITH COATED GLASS",
-        "image_male": "catalog/face/Items.Hard_20_Body_Face_male.png",
-        "name_female": "GOLD PUNK AVIATORS WITH COATED GLASS",
-        "image_female": "catalog/face/Items.Hard_20_Body_Face_female.png"
-    },
-    "Items.Hard_30_BodyTech_Face": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_BodyTech_Face\", 1)",
-        "name_male": "GOLD PUNK AVIATORS WITH COATED GLASS",
-        "image_male": "catalog/face/Items.Hard_30_BodyTech_Face_male.png",
-        "name_female": "GOLD PUNK AVIATORS WITH COATED GLASS",
-        "image_female": "catalog/face/Items.Hard_30_BodyTech_Face_female.png"
-    },
-    "Items.Normal_20_Ranged_Face": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Ranged_Face\", 1)",
-        "name_male": "GOLD PUNK AVIATORS WITH COATED GLASS",
-        "image_male": "catalog/face/Items.Normal_20_Ranged_Face_male.png",
-        "name_female": "GOLD PUNK AVIATORS WITH COATED GLASS",
-        "image_female": "catalog/face/Items.Normal_20_Ranged_Face_female.png"
-    },
-    "Items.Q301_Nomad_MA_Face": {
-        "command": "Game.AddToInventory(\"Items.Q301_Nomad_MA_Face\", 1)",
-        "name_male": "GOLD PUNK AVIATORS WITH COATED GLASS",
-        "image_male": "catalog/face/Items.Q301_Nomad_MA_Face_male.png",
-        "name_female": "GOLD PUNK AVIATORS WITH COATED GLASS",
-        "image_female": "catalog/face/Items.Q301_Nomad_MA_Face_female.png"
-    },
-    "Items.Str_10_Tank_Face": {
-        "command": "Game.AddToInventory(\"Items.Str_10_Tank_Face\", 1)",
-        "name_male": "GOLD PUNK AVIATORS WITH COATED GLASS",
-        "image_male": "catalog/face/Items.Str_10_Tank_Face_male.png",
-        "name_female": "GOLD PUNK AVIATORS WITH COATED GLASS",
-        "image_female": "catalog/face/Items.Str_10_Tank_Face_female.png"
-    },
-    "Items.Str_5_Tank_Face": {
-        "command": "Game.AddToInventory(\"Items.Str_5_Tank_Face\", 1)",
-        "name_male": "GOLD PUNK AVIATORS WITH COATED GLASS",
-        "image_male": "catalog/face/Items.Str_5_Tank_Face_male.png",
-        "name_female": "GOLD PUNK AVIATORS WITH COATED GLASS",
-        "image_female": "catalog/face/Items.Str_5_Tank_Face_female.png"
     },
     "Items.Glasses_03_basic_02": {
         "command": "Game.AddToInventory(\"Items.Glasses_03_basic_02\", 1)",
@@ -419,33 +321,12 @@
         "name_female": "ILLEGALLY MODIFIED MILITARY INFOVISOR",
         "image_female": "catalog/face/Items.Visor_01_basic_02_female.png"
     },
-    "Items.VHard_50_IntTech_Face": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_IntTech_Face\", 1)",
-        "name_male": "ILLEGALLY MODIFIED MILITARY INFOVISOR",
-        "image_male": "catalog/face/Items.VHard_50_IntTech_Face_male.png",
-        "name_female": "ILLEGALLY MODIFIED MILITARY INFOVISOR",
-        "image_female": "catalog/face/Items.VHard_50_IntTech_Face_female.png"
-    },
     "Items.Glasses_03_basic_08": {
         "command": "Game.AddToInventory(\"Items.Glasses_03_basic_08\", 1)",
         "name_male": "IMPACT-RESISTANT TACTICAL GLASSES",
         "image_male": "catalog/face/Items.Glasses_03_basic_08_male.png",
         "name_female": "IMPACT-RESISTANT TACTICAL GLASSES",
         "image_female": "catalog/face/Items.Glasses_03_basic_08_female.png"
-    },
-    "Items.Hard_20_Intelligence_Face": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Intelligence_Face\", 1)",
-        "name_male": "IMPACT-RESISTANT TACTICAL GLASSES",
-        "image_male": "catalog/face/Items.Hard_20_Intelligence_Face_male.png",
-        "name_female": "IMPACT-RESISTANT TACTICAL GLASSES",
-        "image_female": "catalog/face/Items.Hard_20_Intelligence_Face_female.png"
-    },
-    "Items.Str_30_Cool_Assassin_Face": {
-        "command": "Game.AddToInventory(\"Items.Str_30_Cool_Assassin_Face\", 1)",
-        "name_male": "IMPACT-RESISTANT TACTICAL GLASSES",
-        "image_male": "catalog/face/Items.Str_30_Cool_Assassin_Face_male.png",
-        "name_female": "IMPACT-RESISTANT TACTICAL GLASSES",
-        "image_female": "catalog/face/Items.Str_30_Cool_Assassin_Face_female.png"
     },
     "Items.Mask_03_rich_01": {
         "command": "Game.AddToInventory(\"Items.Mask_03_rich_01\", 1)",
@@ -460,20 +341,6 @@
         "image_male": "catalog/face/Items.Q005_Johnny_Glasses_male.png",
         "name_female": "JOHNNY'S AVIATORS",
         "image_female": "catalog/face/Items.Q005_Johnny_Glasses_female.png"
-    },
-    "Items.Q005_Johnny_Glasses_Epic": {
-        "command": "Game.AddToInventory(\"Items.Q005_Johnny_Glasses_Epic\", 1)",
-        "name_male": "JOHNNY'S AVIATORS",
-        "image_male": "catalog/face/Items.Q005_Johnny_Glasses_Epic_male.png",
-        "name_female": "JOHNNY'S AVIATORS",
-        "image_female": "catalog/face/Items.Q005_Johnny_Glasses_Epic_female.png"
-    },
-    "Items.Q005_Johnny_Glasses_Legendary": {
-        "command": "Game.AddToInventory(\"Items.Q005_Johnny_Glasses_Legendary\", 1)",
-        "name_male": "JOHNNY'S AVIATORS",
-        "image_male": "catalog/face/Items.Q005_Johnny_Glasses_Legendary_male.png",
-        "name_female": "JOHNNY'S AVIATORS",
-        "image_female": "catalog/face/Items.Q005_Johnny_Glasses_Legendary_female.png"
     },
     "Items.Tech_01_rich_01": {
         "command": "Game.AddToInventory(\"Items.Tech_01_rich_01\", 1)",
@@ -496,13 +363,6 @@
         "name_female": "LAMINATED ICE-PROTECTED TECHIE OCUSET",
         "image_female": "catalog/face/Items.Techie_01_Set_Tech_female.png"
     },
-    "Items.Proficiency_Tech_02_basic_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_Tech_02_basic_02_Crafting\", 1)",
-        "name_male": "LIGHTWEIGHT TUNGSTEN-STEEL BD WREATH",
-        "image_male": "catalog/face/Items.Proficiency_Tech_02_basic_02_Crafting_male.png",
-        "name_female": "LIGHTWEIGHT TUNGSTEN-STEEL BD WREATH",
-        "image_female": "catalog/face/Items.Proficiency_Tech_02_basic_02_Crafting_female.png"
-    },
     "Items.Tech_02_basic_02": {
         "command": "Game.AddToInventory(\"Items.Tech_02_basic_02\", 1)",
         "name_male": "LIGHTWEIGHT TUNGSTEN-STEEL BD WREATH",
@@ -510,33 +370,12 @@
         "name_female": "LIGHTWEIGHT TUNGSTEN-STEEL BD WREATH",
         "image_female": "catalog/face/Items.Tech_02_basic_02_female.png"
     },
-    "Items.Q301_Street_MA_Face": {
-        "command": "Game.AddToInventory(\"Items.Q301_Street_MA_Face\", 1)",
-        "name_male": "LIGHTWEIGHT TUNGSTEN-STEEL BD WREATH",
-        "image_male": "catalog/face/Items.Q301_Street_MA_Face_male.png",
-        "name_female": "LIGHTWEIGHT TUNGSTEN-STEEL BD WREATH",
-        "image_female": "catalog/face/Items.Q301_Street_MA_Face_female.png"
-    },
-    "Items.Q301_Street_WA_Face": {
-        "command": "Game.AddToInventory(\"Items.Q301_Street_WA_Face\", 1)",
-        "name_male": "LIGHTWEIGHT TUNGSTEN-STEEL BD WREATH",
-        "image_male": "catalog/face/Items.Q301_Street_WA_Face_male.png",
-        "name_female": "LIGHTWEIGHT TUNGSTEN-STEEL BD WREATH",
-        "image_female": "catalog/face/Items.Q301_Street_WA_Face_female.png"
-    },
     "Items.Mask_02_basic_02": {
         "command": "Game.AddToInventory(\"Items.Mask_02_basic_02\", 1)",
         "name_male": "MAKESHIFT MAELSTROM GAS MASK",
         "image_male": "catalog/face/Items.Mask_02_basic_02_male.png",
         "name_female": "MAKESHIFT MAELSTROM GAS MASK",
         "image_female": "catalog/face/Items.Mask_02_basic_02_female.png"
-    },
-    "Items.Normal_20_Melee_Face": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Melee_Face\", 1)",
-        "name_male": "MAKESHIFT MAELSTROM GAS MASK",
-        "image_male": "catalog/face/Items.Normal_20_Melee_Face_male.png",
-        "name_female": "MAKESHIFT MAELSTROM GAS MASK",
-        "image_female": "catalog/face/Items.Normal_20_Melee_Face_female.png"
     },
     "Items.Glasses_05_basic_03": {
         "command": "Game.AddToInventory(\"Items.Glasses_05_basic_03\", 1)",
@@ -566,13 +405,6 @@
         "name_female": "MENPO WITH PROTECTIVE PADDING",
         "image_female": "catalog/face/Items.Mask_03_basic_02_female.png"
     },
-    "Items.Mask_03_basic_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Mask_03_basic_02_Crafting\", 1)",
-        "name_male": "MENP\u014c WITH PROTECTIVE PADDING",
-        "image_male": "catalog/face/Items.Mask_03_basic_02_Crafting_male.png",
-        "name_female": "MENP\u014c WITH PROTECTIVE PADDING",
-        "image_female": "catalog/face/Items.Mask_03_basic_02_Crafting_female.png"
-    },
     "Items.Mask_03_old_02": {
         "command": "Game.AddToInventory(\"Items.Mask_03_old_02\", 1)",
         "name_male": "MENPO WITH REACTIVE LAYER",
@@ -594,26 +426,12 @@
         "name_female": "MODULAR TECHNOSIGHT WITH 16X DIGITAL ZOOM",
         "image_female": "catalog/face/Items.Tech_04_rich_03_female.png"
     },
-    "Items.VHard_50_IntRef_Face": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_IntRef_Face\", 1)",
-        "name_male": "MODULAR TECHNOSIGHT WITH 16X DIGITAL ZOOM",
-        "image_male": "catalog/face/Items.VHard_50_IntRef_Face_male.png",
-        "name_female": "MODULAR TECHNOSIGHT WITH 16X DIGITAL ZOOM",
-        "image_female": "catalog/face/Items.VHard_50_IntRef_Face_female.png"
-    },
     "Items.Mask_02_rich_02": {
         "command": "Game.AddToInventory(\"Items.Mask_02_rich_02\", 1)",
         "name_male": "MOX GAS MASK WITH CUSTOM PROTECTIVE LAYER",
         "image_male": "catalog/face/Items.Mask_02_rich_02_male.png",
         "name_female": "MOX GAS MASK WITH CUSTOM PROTECTIVE LAYER",
         "image_female": "catalog/face/Items.Mask_02_rich_02_female.png"
-    },
-    "Items.Mask_02_rich_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Mask_02_rich_02_Crafting\", 1)",
-        "name_male": "MOX GAS MASK WITH CUSTOM PROTECTIVE LAYER",
-        "image_male": "catalog/face/Items.Mask_02_rich_02_Crafting_male.png",
-        "name_female": "MOX GAS MASK WITH CUSTOM PROTECTIVE LAYER",
-        "image_female": "catalog/face/Items.Mask_02_rich_02_Crafting_female.png"
     },
     "Items.Tech_01_rich_02": {
         "command": "Game.AddToInventory(\"Items.Tech_01_rich_02\", 1)",
@@ -699,20 +517,6 @@
         "name_female": "POLYCARBONATE SPORT SUNGLASSES",
         "image_female": "catalog/face/Items.Glasses_03_basic_05_female.png"
     },
-    "Items.Q301_Corpo_MA_Face": {
-        "command": "Game.AddToInventory(\"Items.Q301_Corpo_MA_Face\", 1)",
-        "name_male": "POLYCARBONATE SPORT SUNGLASSES",
-        "image_male": "catalog/face/Items.Q301_Corpo_MA_Face_male.png",
-        "name_female": "POLYCARBONATE SPORT SUNGLASSES",
-        "image_female": "catalog/face/Items.Q301_Corpo_MA_Face_female.png"
-    },
-    "Items.Q301_Corpo_WA_Face": {
-        "command": "Game.AddToInventory(\"Items.Q301_Corpo_WA_Face\", 1)",
-        "name_male": "POLYCARBONATE SPORT SUNGLASSES",
-        "image_male": "catalog/face/Items.Q301_Corpo_WA_Face_male.png",
-        "name_female": "POLYCARBONATE SPORT SUNGLASSES",
-        "image_female": "catalog/face/Items.Q301_Corpo_WA_Face_female.png"
-    },
     "Items.Mask_04_rich_01": {
         "command": "Game.AddToInventory(\"Items.Mask_04_rich_01\", 1)",
         "name_male": "POLYETHYLENE BALLISTIC MASK WITH PHONIC MEMBRANE",
@@ -769,13 +573,6 @@
         "name_female": "SILVER POLYMER-HYBRID MILITARY AVIATORS",
         "image_female": "catalog/face/Items.Glasses_01_basic_04_female.png"
     },
-    "Items.VHard_50_BodyCool_Face": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_BodyCool_Face\", 1)",
-        "name_male": "SILVER POLYMER-HYBRID MILITARY AVIATORS",
-        "image_male": "catalog/face/Items.VHard_50_BodyCool_Face_male.png",
-        "name_female": "SILVER POLYMER-HYBRID MILITARY AVIATORS",
-        "image_female": "catalog/face/Items.VHard_50_BodyCool_Face_female.png"
-    },
     "Items.Mask_04_old_08": {
         "command": "Game.AddToInventory(\"Items.Mask_04_old_08\", 1)",
         "name_male": "SNUG PLASTIC MASK",
@@ -797,48 +594,6 @@
         "name_female": "STYLISH POLARIZED AVIATORS",
         "image_female": "catalog/face/Items.Glasses_01_basic_01_female.png"
     },
-    "Items.Hard_20_Reflex_Face": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Reflex_Face\", 1)",
-        "name_male": "STYLISH POLARIZED AVIATORS",
-        "image_male": "catalog/face/Items.Hard_20_Reflex_Face_male.png",
-        "name_female": "STYLISH POLARIZED AVIATORS",
-        "image_female": "catalog/face/Items.Hard_20_Reflex_Face_female.png"
-    },
-    "Items.Normal_20_Netrunner_Face": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Netrunner_Face\", 1)",
-        "name_male": "STYLISH POLARIZED AVIATORS",
-        "image_male": "catalog/face/Items.Normal_20_Netrunner_Face_male.png",
-        "name_female": "STYLISH POLARIZED AVIATORS",
-        "image_female": "catalog/face/Items.Normal_20_Netrunner_Face_female.png"
-    },
-    "Items.Story_5_Face": {
-        "command": "Game.AddToInventory(\"Items.Story_5_Face\", 1)",
-        "name_male": "STYLISH POLARIZED AVIATORS",
-        "image_male": "catalog/face/Items.Story_5_Face_male.png",
-        "name_female": "STYLISH POLARIZED AVIATORS",
-        "image_female": "catalog/face/Items.Story_5_Face_female.png"
-    },
-    "Items.Weak_10_Face": {
-        "command": "Game.AddToInventory(\"Items.Weak_10_Face\", 1)",
-        "name_male": "STYLISH POLARIZED AVIATORS",
-        "image_male": "catalog/face/Items.Weak_10_Face_male.png",
-        "name_female": "STYLISH POLARIZED AVIATORS",
-        "image_female": "catalog/face/Items.Weak_10_Face_female.png"
-    },
-    "Items.Weak_20_Cool_Face": {
-        "command": "Game.AddToInventory(\"Items.Weak_20_Cool_Face\", 1)",
-        "name_male": "STYLISH POLARIZED AVIATORS",
-        "image_male": "catalog/face/Items.Weak_20_Cool_Face_male.png",
-        "name_female": "STYLISH POLARIZED AVIATORS",
-        "image_female": "catalog/face/Items.Weak_20_Cool_Face_female.png"
-    },
-    "Items.Weak_30_Face": {
-        "command": "Game.AddToInventory(\"Items.Weak_30_Face\", 1)",
-        "name_male": "STYLISH POLARIZED AVIATORS",
-        "image_male": "catalog/face/Items.Weak_30_Face_male.png",
-        "name_female": "STYLISH POLARIZED AVIATORS",
-        "image_female": "catalog/face/Items.Weak_30_Face_female.png"
-    },
     "Items.Glasses_03_basic_06": {
         "command": "Game.AddToInventory(\"Items.Glasses_03_basic_06\", 1)",
         "name_male": "STYLISH TURQUOISE SPORT GLASSES",
@@ -846,26 +601,12 @@
         "name_female": "STYLISH TURQUOISE SPORT GLASSES",
         "image_female": "catalog/face/Items.Glasses_03_basic_06_female.png"
     },
-    "Items.Glasses_03_basic_06_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Glasses_03_basic_06_Crafting\", 1)",
-        "name_male": "STYLISH TURQUOISE SPORT GLASSES",
-        "image_male": "catalog/face/Items.Glasses_03_basic_06_Crafting_male.png",
-        "name_female": "STYLISH TURQUOISE SPORT GLASSES",
-        "image_female": "catalog/face/Items.Glasses_03_basic_06_Crafting_female.png"
-    },
     "Items.Visor_01_basic_05": {
         "command": "Game.AddToInventory(\"Items.Visor_01_basic_05\", 1)",
         "name_male": "SUN SPARK THERMOSET CHEMGLASS INFOVISOR",
         "image_male": "catalog/face/Items.Visor_01_basic_05_male.png",
         "name_female": "SUN SPARK THERMOSET CHEMGLASS INFOVISOR",
         "image_female": "catalog/face/Items.Visor_01_basic_05_female.png"
-    },
-    "Items.Visor_01_basic_05_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Visor_01_basic_05_Crafting\", 1)",
-        "name_male": "SUN SPARK THERMOSET CHEMGLASS INFOVISOR",
-        "image_male": "catalog/face/Items.Visor_01_basic_05_Crafting_male.png",
-        "name_female": "SUN SPARK THERMOSET CHEMGLASS INFOVISOR",
-        "image_female": "catalog/face/Items.Visor_01_basic_05_Crafting_female.png"
     },
     "Items.Mask_04_old_05": {
         "command": "Game.AddToInventory(\"Items.Mask_04_old_05\", 1)",
@@ -888,13 +629,6 @@
         "name_female": "SYNLEATHER PLASTIC GOGGLES",
         "image_female": "catalog/face/Items.Glasses_05_basic_01_female.png"
     },
-    "Items.Proficiency_Glasses_05_basic_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_Glasses_05_basic_01_Crafting\", 1)",
-        "name_male": "SYN-LEATHER PLASTIC GOGGLES",
-        "image_male": "catalog/face/Items.Proficiency_Glasses_05_basic_01_Crafting_male.png",
-        "name_female": "SYNLEATHER PLASTIC GOGGLES",
-        "image_female": "catalog/face/Items.Proficiency_Glasses_05_basic_01_Crafting_female.png"
-    },
     "Items.Corporate_01_Set_Glasses": {
         "command": "Game.AddToInventory(\"Items.Corporate_01_Set_Glasses\", 1)",
         "name_male": "TACTICAL HYBRID-GLASS CORPORATE GLASSES",
@@ -915,27 +649,6 @@
         "image_male": "catalog/face/Items.Visor_01_basic_01_male.png",
         "name_female": "TECHNOPOLYMER LAB INFOVISOR",
         "image_female": "catalog/face/Items.Visor_01_basic_01_female.png"
-    },
-    "Items.Avg_10_Int_Netrunner_Face_1": {
-        "command": "Game.AddToInventory(\"Items.Avg_10_Int_Netrunner_Face_1\", 1)",
-        "name_male": "TECHNOPOLYMER LAB INFOVISOR",
-        "image_male": "catalog/face/Items.Avg_10_Int_Netrunner_Face_1_male.png",
-        "name_female": "TECHNOPOLYMER LAB INFOVISOR",
-        "image_female": "catalog/face/Items.Avg_10_Int_Netrunner_Face_1_female.png"
-    },
-    "Items.VHard_50_TechCool_Face": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_TechCool_Face\", 1)",
-        "name_male": "TECHNOPOLYMER LAB INFOVISOR",
-        "image_male": "catalog/face/Items.VHard_50_TechCool_Face_male.png",
-        "name_female": "TECHNOPOLYMER LAB INFOVISOR",
-        "image_female": "catalog/face/Items.VHard_50_TechCool_Face_female.png"
-    },
-    "TEST.ItemPass_FaceArmor": {
-        "command": "Game.AddToInventory(\"TEST.ItemPass_FaceArmor\", 1)",
-        "name_male": "TECHNOPOLYMER LAB INFOVISOR",
-        "image_male": "catalog/face/TEST.ItemPass_FaceArmor_male.png",
-        "name_female": "TECHNOPOLYMER LAB INFOVISOR",
-        "image_female": "catalog/face/TEST.ItemPass_FaceArmor_female.png"
     },
     "Items.Tech_04_basic_03": {
         "command": "Game.AddToInventory(\"Items.Tech_04_basic_03\", 1)",
@@ -979,13 +692,6 @@
         "name_female": "TITANIUM-REINFORCED GAS MASK",
         "image_female": "catalog/face/Items.Mask_02_basic_01_female.png"
     },
-    "Items.Proficiency_Mask_02_basic_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_Mask_02_basic_01_Crafting\", 1)",
-        "name_male": "TITANIUM-REINFORCED GAS MASK",
-        "image_male": "catalog/face/Items.Proficiency_Mask_02_basic_01_Crafting_male.png",
-        "name_female": "TITANIUM-REINFORCED GAS MASK",
-        "image_female": "catalog/face/Items.Proficiency_Mask_02_basic_01_Crafting_female.png"
-    },
     "Items.Tech_04_old_03": {
         "command": "Game.AddToInventory(\"Items.Tech_04_old_03\", 1)",
         "name_male": "TOY TECHNOSIGHT",
@@ -1013,13 +719,6 @@
         "image_male": "catalog/face/Items.Tech_01_basic_01_male.png",
         "name_female": "TRILAYER STEEL OCUSET",
         "image_female": "catalog/face/Items.Tech_01_basic_01_female.png"
-    },
-    "Items.Tech_01_basic_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Tech_01_basic_01_Crafting\", 1)",
-        "name_male": "TRILAYER STEEL OCUSET",
-        "image_male": "catalog/face/Items.Tech_01_basic_01_Crafting_male.png",
-        "name_female": "TRILAYER STEEL OCUSET",
-        "image_female": "catalog/face/Items.Tech_01_basic_01_Crafting_female.png"
     },
     "Items.Tech_03_old_02": {
         "command": "Game.AddToInventory(\"Items.Tech_03_old_02\", 1)",
@@ -1070,26 +769,12 @@
         "name_female": "WORN-DOWN MASK",
         "image_female": "catalog/face/Items.Mask_04_old_07_female.png"
     },
-    "Items.VHard_50_RefTech_Face": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_RefTech_Face\", 1)",
-        "name_male": "WRAITHS GAS MASK",
-        "image_male": "catalog/face/Items.VHard_50_RefTech_Face_male.png",
-        "name_female": "WRAITHS GAS MASK",
-        "image_female": "catalog/face/Items.VHard_50_RefTech_Face_female.png"
-    },
     "Items.SQ004_RaffenShiv_Mask": {
         "command": "Game.AddToInventory(\"Items.SQ004_RaffenShiv_Mask\", 1)",
         "name_male": "WRAITHS GAS MASK",
         "image_male": "catalog/face/Items.SQ004_RaffenShiv_Mask_male.png",
         "name_female": "WRAITHS GAS MASK",
         "image_female": "catalog/face/Items.SQ004_RaffenShiv_Mask_female.png"
-    },
-    "Items.Proficiency_Visor_02_rich_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_Visor_02_rich_01_Crafting\", 1)",
-        "name_male": "YAMORI TUNGSTEN-STEEL BIKER TECHGOGS",
-        "image_male": "catalog/face/Items.Proficiency_Visor_02_rich_01_Crafting_male.png",
-        "name_female": "YAMORI TUNGSTEN-STEEL BIKER TECHGOGS",
-        "image_female": "catalog/face/Items.Proficiency_Visor_02_rich_01_Crafting_female.png"
     },
     "Items.Visor_02_rich_01": {
         "command": "Game.AddToInventory(\"Items.Visor_02_rich_01\", 1)",
