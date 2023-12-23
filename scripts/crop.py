@@ -14,7 +14,8 @@ def crop_image(file):
     top = 0
     bottom = 1080
     cropped = image.crop((left, top, right, bottom))
-    cropped.resize(()).save(DIR + file)
+    cropped.convert("RGB").save(DIR + file.rsplit(".", 1)[0] + ".jpeg")
+    os.remove(DIR + file)
 
 
 files = [file for file in os.listdir(DIR) if file != "catalog.json"]

@@ -18,7 +18,7 @@ else:
         case "face":
             for item, image in zip(catalog, images):
                 image_male = catalog[item]["image_male"]
-                os.rename(DIR + image, image_male)
+                os.rename(DIR + image, image_male.rsplit(".", 1)[0] + ".png")
                 
             print("synced.")
         case _:
