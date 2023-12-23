@@ -55,20 +55,6 @@
         "name_female": "ARAMID-WEAVE TACTICAL TURTLENECK",
         "image_female": "catalog/inner-torso/Items.Shirt_02_old_01_female.jpeg"
     },
-    "Items.VHard_50_RefBody_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_RefBody_InnerToso\", 1)",
-        "name_male": "ARAMID-WEAVE TACTICAL TURTLENECK",
-        "image_male": "catalog/inner-torso/Items.VHard_50_RefBody_InnerToso_male.jpeg",
-        "name_female": "ARAMID-WEAVE TACTICAL TURTLENECK",
-        "image_female": "catalog/inner-torso/Items.VHard_50_RefBody_InnerToso_female.jpeg"
-    },
-    "Items.VHard_50_RefTech_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_RefTech_InnerToso\", 1)",
-        "name_male": "ARASAKA WATERPROOF COMBAT TURTLENECK",
-        "image_male": "catalog/inner-torso/Items.VHard_50_RefTech_InnerToso_male.jpeg",
-        "name_female": "ARASAKA WATERPROOF COMBAT TURTLENECK",
-        "image_female": "catalog/inner-torso/Items.VHard_50_RefTech_InnerToso_female.jpeg"
-    },
     "Items.Shirt_02_basic_03": {
         "command": "Game.AddToInventory(\"Items.Shirt_02_basic_03\", 1)",
         "name_male": "ARASAKA WATERPROOF COMBAT TURTLENECK",
@@ -97,13 +83,6 @@
         "name_female": "ATOMIC BLAST COMPOSITE ARMOR-WEAVE COMBAT SHIRT",
         "image_female": "catalog/inner-torso/Items.Shirt_03_rich_02_female.jpeg"
     },
-    "Items.SQ021_Wraiths_Vest": {
-        "command": "Game.AddToInventory(\"Items.SQ021_Wraiths_Vest\", 1)",
-        "name_male": "BAD MOTHERFUCKER VEST",
-        "image_male": "catalog/inner-torso/Items.SQ021_Wraiths_Vest_male.jpeg",
-        "name_female": "BAD MOTHERFUCKER VEST",
-        "image_female": "catalog/inner-torso/Items.SQ021_Wraiths_Vest_female.jpeg"
-    },
     "Items.Undershirt_03_basic_02": {
         "command": "Game.AddToInventory(\"Items.Undershirt_03_basic_02\", 1)",
         "name_male": "BARA KAIKA SYN-LEATHER BUSTIER",
@@ -124,13 +103,6 @@
         "image_male": "catalog/inner-torso/Items.TShirt_06_basic_02_male.jpeg",
         "name_female": "BERMUDA TRIANGLE PROTECTIVE-MESH MUSCLE TANK",
         "image_female": "catalog/inner-torso/Items.TShirt_06_basic_02_female.jpeg"
-    },
-    "Items.Q301_Street_WA_InnerTorso": {
-        "command": "Game.AddToInventory(\"Items.Q301_Street_WA_InnerTorso\", 1)",
-        "name_male": "BERMUDA TRIANGLE PROTECTIVE-MESH MUSCLE TANK",
-        "image_male": "catalog/inner-torso/Items.Q301_Street_WA_InnerTorso_male.jpeg",
-        "name_female": "BERMUDA TRIANGLE PROTECTIVE-MESH MUSCLE TANK",
-        "image_female": "catalog/inner-torso/Items.Q301_Street_WA_InnerTorso_female.jpeg"
     },
     "Items.TShirt_04_old_03": {
         "command": "Game.AddToInventory(\"Items.TShirt_04_old_03\", 1)",
@@ -160,55 +132,6 @@
         "name_female": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
         "image_female": "catalog/inner-torso/Items.Shirt_01_basic_01_female.jpeg"
     },
-    "Items.Avg_10_Int_Netrunner_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Avg_10_Int_Netrunner_InnerToso\", 1)",
-        "name_male": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
-        "image_male": "catalog/inner-torso/Items.Avg_10_Int_Netrunner_InnerToso_male.jpeg",
-        "name_female": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
-        "image_female": "catalog/inner-torso/Items.Avg_10_Int_Netrunner_InnerToso_female.jpeg"
-    },
-    "Items.Hard_20_Reflex_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Reflex_InnerToso\", 1)",
-        "name_male": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
-        "image_male": "catalog/inner-torso/Items.Hard_20_Reflex_InnerToso_male.jpeg",
-        "name_female": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
-        "image_female": "catalog/inner-torso/Items.Hard_20_Reflex_InnerToso_female.jpeg"
-    },
-    "Items.Normal_20_Netrunner_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Netrunner_InnerToso\", 1)",
-        "name_male": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
-        "image_male": "catalog/inner-torso/Items.Normal_20_Netrunner_InnerToso_male.jpeg",
-        "name_female": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
-        "image_female": "catalog/inner-torso/Items.Normal_20_Netrunner_InnerToso_female.jpeg"
-    },
-    "Items.Story_5_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Story_5_InnerToso\", 1)",
-        "name_male": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
-        "image_male": "catalog/inner-torso/Items.Story_5_InnerToso_male.jpeg",
-        "name_female": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
-        "image_female": "catalog/inner-torso/Items.Story_5_InnerToso_female.jpeg"
-    },
-    "Items.Weak_10_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Weak_10_InnerToso\", 1)",
-        "name_male": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
-        "image_male": "catalog/inner-torso/Items.Weak_10_InnerToso_male.jpeg",
-        "name_female": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
-        "image_female": "catalog/inner-torso/Items.Weak_10_InnerToso_female.jpeg"
-    },
-    "Items.Weak_30_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Weak_30_InnerToso\", 1)",
-        "name_male": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
-        "image_male": "catalog/inner-torso/Items.Weak_30_InnerToso_male.jpeg",
-        "name_female": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
-        "image_female": "catalog/inner-torso/Items.Weak_30_InnerToso_female.jpeg"
-    },
-    "TEST.ItemPass_InnerChestArmor": {
-        "command": "Game.AddToInventory(\"TEST.ItemPass_InnerChestArmor\", 1)",
-        "name_male": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
-        "image_male": "catalog/inner-torso/TEST.ItemPass_InnerChestArmor_male.jpeg",
-        "name_female": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
-        "image_female": "catalog/inner-torso/TEST.ItemPass_InnerChestArmor_female.jpeg"
-    },
     "Items.TightJumpsuit_02_basic_04": {
         "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_basic_04\", 1)",
         "name_male": "BREATHABLE UNITARD WITH MICOPORE FOIL",
@@ -229,13 +152,6 @@
         "image_male": "catalog/inner-torso/Items.TShirt_03_basic_03_male.jpeg",
         "name_female": "CANINE POWER DUOLAYER TANK TOP",
         "image_female": "catalog/inner-torso/Items.TShirt_03_basic_03_female.jpeg"
-    },
-    "Items.Normal_20_Melee_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Melee_InnerToso\", 1)",
-        "name_male": "CANINE POWER DUOLAYER TANK TOP",
-        "image_male": "catalog/inner-torso/Items.Normal_20_Melee_InnerToso_male.jpeg",
-        "name_female": "CANINE POWER DUOLAYER TANK TOP",
-        "image_female": "catalog/inner-torso/Items.Normal_20_Melee_InnerToso_female.jpeg"
     },
     "Items.Corporate_01_Set_FormalShirt": {
         "command": "Game.AddToInventory(\"Items.Corporate_01_Set_FormalShirt\", 1)",
@@ -265,26 +181,12 @@
         "name_female": "COMPOSITE ARASAKA NETRUNNING NANOWEAVE SUIT",
         "image_female": "catalog/inner-torso/Items.TightJumpsuit_01_rich_01_female.jpeg"
     },
-    "Items.VHard_50_IntRef_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_IntRef_InnerToso\", 1)",
-        "name_male": "COMPOSITE ARASAKA NETRUNNING NANOWEAVE SUIT",
-        "image_male": "catalog/inner-torso/Items.VHard_50_IntRef_InnerToso_male.jpeg",
-        "name_female": "COMPOSITE ARASAKA NETRUNNING NANOWEAVE SUIT",
-        "image_female": "catalog/inner-torso/Items.VHard_50_IntRef_InnerToso_female.jpeg"
-    },
     "Items.Shirt_03_basic_02": {
         "command": "Game.AddToInventory(\"Items.Shirt_03_basic_02\", 1)",
         "name_male": "COMPOSITE GEISHA COMBAT SHIRT",
         "image_male": "catalog/inner-torso/Items.Shirt_03_basic_02_male.jpeg",
         "name_female": "COMPOSITE GEISHA COMBAT SHIRT",
         "image_female": "catalog/inner-torso/Items.Shirt_03_basic_02_female.jpeg"
-    },
-    "Items.Shirt_03_basic_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Shirt_03_basic_02_Crafting\", 1)",
-        "name_male": "COMPOSITE GEISHA COMBAT SHIRT",
-        "image_male": "catalog/inner-torso/Items.Shirt_03_basic_02_Crafting_male.jpeg",
-        "name_female": "COMPOSITE GEISHA COMBAT SHIRT",
-        "image_female": "catalog/inner-torso/Items.Shirt_03_basic_02_Crafting_female.jpeg"
     },
     "Items.TShirt_02_rich_03": {
         "command": "Game.AddToInventory(\"Items.TShirt_02_rich_03\", 1)",
@@ -299,13 +201,6 @@
         "image_male": "catalog/inner-torso/Items.Shirt_01_old_01_male.jpeg",
         "name_female": "COTTON LONG-SLEEVE",
         "image_female": "catalog/inner-torso/Items.Shirt_01_old_01_female.jpeg"
-    },
-    "Items.VHard_50_TechCool_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_TechCool_InnerToso\", 1)",
-        "name_male": "COTTON LONG-SLEEVE",
-        "image_male": "catalog/inner-torso/Items.VHard_50_TechCool_InnerToso_male.jpeg",
-        "name_female": "COTTON LONG-SLEEVE",
-        "image_female": "catalog/inner-torso/Items.VHard_50_TechCool_InnerToso_female.jpeg"
     },
     "Items.FormalShirt_01_old_01": {
         "command": "Game.AddToInventory(\"Items.FormalShirt_01_old_01\", 1)",
@@ -328,13 +223,6 @@
         "name_female": "DAEMON HUNTER RESISTANCE-COATED TANK TOP",
         "image_female": "catalog/inner-torso/Items.TShirt_01_rich_02_female.jpeg"
     },
-    "Items.TShirt_01_rich_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.TShirt_01_rich_02_Crafting\", 1)",
-        "name_male": "DAEMON HUNTER RESISTANCE-COATED TANK TOP",
-        "image_male": "catalog/inner-torso/Items.TShirt_01_rich_02_Crafting_male.jpeg",
-        "name_female": "DAEMON HUNTER RESISTANCE-COATED TANK TOP",
-        "image_female": "catalog/inner-torso/Items.TShirt_01_rich_02_Crafting_female.jpeg"
-    },
     "Items.FormalShirt_01_rich_01": {
         "command": "Game.AddToInventory(\"Items.FormalShirt_01_rich_01\", 1)",
         "name_male": "DANDY CLASSICO SHIRT WITH FIBROTUBE WEAVE",
@@ -348,34 +236,6 @@
         "image_male": "catalog/inner-torso/Items.Shirt_03_rich_03_male.jpeg",
         "name_female": "DECADENCIA VERDE HEAVY PLATE-WEAVE COMBAT SHIRT",
         "image_female": "catalog/inner-torso/Items.Shirt_03_rich_03_female.jpeg"
-    },
-    "Items.Hard_20_Body_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Body_InnerToso\", 1)",
-        "name_male": "DECADENCIA VERDE HEAVY PLATE-WEAVE COMBAT SHIRT",
-        "image_male": "catalog/inner-torso/Items.Hard_20_Body_InnerToso_male.jpeg",
-        "name_female": "DECADENCIA VERDE HEAVY PLATE-WEAVE COMBAT SHIRT",
-        "image_female": "catalog/inner-torso/Items.Hard_20_Body_InnerToso_female.jpeg"
-    },
-    "Items.Hard_30_BodyTech_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_BodyTech_InnerToso\", 1)",
-        "name_male": "DECADENCIA VERDE HEAVY PLATE-WEAVE COMBAT SHIRT",
-        "image_male": "catalog/inner-torso/Items.Hard_30_BodyTech_InnerToso_male.jpeg",
-        "name_female": "DECADENCIA VERDE HEAVY PLATE-WEAVE COMBAT SHIRT",
-        "image_female": "catalog/inner-torso/Items.Hard_30_BodyTech_InnerToso_female.jpeg"
-    },
-    "Items.Str_10_Tank_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Str_10_Tank_InnerToso\", 1)",
-        "name_male": "DECADENCIA VERDE HEAVY PLATE-WEAVE COMBAT SHIRT",
-        "image_male": "catalog/inner-torso/Items.Str_10_Tank_InnerToso_male.jpeg",
-        "name_female": "DECADENCIA VERDE HEAVY PLATE-WEAVE COMBAT SHIRT",
-        "image_female": "catalog/inner-torso/Items.Str_10_Tank_InnerToso_female.jpeg"
-    },
-    "Items.Str_5_Tank_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Str_5_Tank_InnerToso\", 1)",
-        "name_male": "DECADENCIA VERDE HEAVY PLATE-WEAVE COMBAT SHIRT",
-        "image_male": "catalog/inner-torso/Items.Str_5_Tank_InnerToso_male.jpeg",
-        "name_female": "DECADENCIA VERDE HEAVY PLATE-WEAVE COMBAT SHIRT",
-        "image_female": "catalog/inner-torso/Items.Str_5_Tank_InnerToso_female.jpeg"
     },
     "Items.TShirt_02_basic_03": {
         "command": "Game.AddToInventory(\"Items.TShirt_02_basic_03\", 1)",
@@ -503,33 +363,12 @@
         "name_female": "FUCK YOU DURABLE-WEAVE TANK TOP",
         "image_female": "catalog/inner-torso/Items.TShirt_10_basic_01_female.jpeg"
     },
-    "Items.GOG_Galaxy_TShirt_Crafted": {
-        "command": "Game.AddToInventory(\"Items.GOG_Galaxy_TShirt_Crafted\", 1)",
-        "name_male": "GALAXY T-SHIRT",
-        "image_male": "catalog/inner-torso/Items.GOG_Galaxy_TShirt_Crafted_male.jpeg",
-        "name_female": "GALAXY T-SHIRT",
-        "image_female": "catalog/inner-torso/Items.GOG_Galaxy_TShirt_Crafted_female.jpeg"
-    },
     "Items.GOG_Galaxy_TShirt": {
         "command": "Game.AddToInventory(\"Items.GOG_Galaxy_TShirt\", 1)",
         "name_male": "GALAXY T-SHIRT",
         "image_male": "catalog/inner-torso/Items.GOG_Galaxy_TShirt_male.jpeg",
         "name_female": "GALAXY T-SHIRT",
         "image_female": "catalog/inner-torso/Items.GOG_Galaxy_TShirt_female.jpeg"
-    },
-    "Items.GOG_Galaxy_TShirt_Epic": {
-        "command": "Game.AddToInventory(\"Items.GOG_Galaxy_TShirt_Epic\", 1)",
-        "name_male": "GALAXY T-SHIRT",
-        "image_male": "catalog/inner-torso/Items.GOG_Galaxy_TShirt_Epic_male.jpeg",
-        "name_female": "GALAXY T-SHIRT",
-        "image_female": "catalog/inner-torso/Items.GOG_Galaxy_TShirt_Epic_female.jpeg"
-    },
-    "Items.GOG_Galaxy_TShirt_Legendary": {
-        "command": "Game.AddToInventory(\"Items.GOG_Galaxy_TShirt_Legendary\", 1)",
-        "name_male": "GALAXY T-SHIRT",
-        "image_male": "catalog/inner-torso/Items.GOG_Galaxy_TShirt_Legendary_male.jpeg",
-        "name_female": "GALAXY T-SHIRT",
-        "image_female": "catalog/inner-torso/Items.GOG_Galaxy_TShirt_Legendary_female.jpeg"
     },
     "Items.Shirt_01_rich_02": {
         "command": "Game.AddToInventory(\"Items.Shirt_01_rich_02\", 1)",
@@ -622,20 +461,6 @@
         "name_female": "JOHNNY'S TANK TOP",
         "image_female": "catalog/inner-torso/Items.Q005_Johnny_Shirt_female.jpeg"
     },
-    "Items.Q005_Johnny_Shirt_Epic": {
-        "command": "Game.AddToInventory(\"Items.Q005_Johnny_Shirt_Epic\", 1)",
-        "name_male": "JOHNNY'S TANK TOP",
-        "image_male": "catalog/inner-torso/Items.Q005_Johnny_Shirt_Epic_male.jpeg",
-        "name_female": "JOHNNY'S TANK TOP",
-        "image_female": "catalog/inner-torso/Items.Q005_Johnny_Shirt_Epic_female.jpeg"
-    },
-    "Items.Q005_Johnny_Shirt_Legendary": {
-        "command": "Game.AddToInventory(\"Items.Q005_Johnny_Shirt_Legendary\", 1)",
-        "name_male": "JOHNNY'S TANK TOP",
-        "image_male": "catalog/inner-torso/Items.Q005_Johnny_Shirt_Legendary_male.jpeg",
-        "name_female": "JOHNNY'S TANK TOP",
-        "image_female": "catalog/inner-torso/Items.Q005_Johnny_Shirt_Legendary_female.jpeg"
-    },
     "Items.TShirt_08_basic_01": {
         "command": "Game.AddToInventory(\"Items.TShirt_08_basic_01\", 1)",
         "name_male": "KNOTTED ARMOR WEAVE TANK",
@@ -713,26 +538,12 @@
         "name_female": "MILITARY-GRADE ARAMID NETRUNNING SUIT",
         "image_female": "catalog/inner-torso/Items.TightJumpsuit_01_basic_01_female.jpeg"
     },
-    "Items.VHard_50_IntTech_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_IntTech_InnerToso\", 1)",
-        "name_male": "MILITARY-GRADE ARAMID NETRUNNING SUIT",
-        "image_male": "catalog/inner-torso/Items.VHard_50_IntTech_InnerToso_male.jpeg",
-        "name_female": "MILITARY-GRADE ARAMID NETRUNNING SUIT",
-        "image_female": "catalog/inner-torso/Items.VHard_50_IntTech_InnerToso_female.jpeg"
-    },
     "Items.TShirt_03_old_03": {
         "command": "Game.AddToInventory(\"Items.TShirt_03_old_03\", 1)",
         "name_male": "MOX ULTRALIGHT TANK TOP WITH MICROMESH LAYER",
         "image_male": "catalog/inner-torso/Items.TShirt_03_old_03_male.jpeg",
         "name_female": "MOX ULTRALIGHT TANK TOP WITH MICROMESH LAYER",
         "image_female": "catalog/inner-torso/Items.TShirt_03_old_03_female.jpeg"
-    },
-    "Items.Hard_30_Reflex_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_Reflex_InnerToso\", 1)",
-        "name_male": "MOX ULTRALIGHT TANK TOP WITH MICROMESH LAYER",
-        "image_male": "catalog/inner-torso/Items.Hard_30_Reflex_InnerToso_male.jpeg",
-        "name_female": "MOX ULTRALIGHT TANK TOP WITH MICROMESH LAYER",
-        "image_female": "catalog/inner-torso/Items.Hard_30_Reflex_InnerToso_female.jpeg"
     },
     "Items.TShirt_08_rich_02": {
         "command": "Game.AddToInventory(\"Items.TShirt_08_rich_02\", 1)",
@@ -818,13 +629,6 @@
         "name_female": "PADDED DENKI HACHI HYBRID-WEAVE BRA",
         "image_female": "catalog/inner-torso/Items.Undershirt_02_rich_02_female.jpeg"
     },
-    "Items.Undershirt_02_rich_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Undershirt_02_rich_02_Crafting\", 1)",
-        "name_male": "PADDED DENKI HACHI HYBRID-WEAVE BRA",
-        "image_male": "catalog/inner-torso/Items.Undershirt_02_rich_02_Crafting_male.jpeg",
-        "name_female": "PADDED DENKI HACHI HYBRID-WEAVE BRA",
-        "image_female": "catalog/inner-torso/Items.Undershirt_02_rich_02_Crafting_female.jpeg"
-    },
     "Items.Shirt_03_basic_03": {
         "command": "Game.AddToInventory(\"Items.Shirt_03_basic_03\", 1)",
         "name_male": "PADDED SYN-FIBER COMBAT SHIRT",
@@ -852,13 +656,6 @@
         "image_male": "catalog/inner-torso/Items.FormalShirt_01_rich_06_male.jpeg",
         "name_female": "PARIS BLUE OFFICE SHIRT AND VEST WITH REINFORCED SEAMS",
         "image_female": "catalog/inner-torso/Items.FormalShirt_01_rich_06_female.jpeg"
-    },
-    "Items.FormalShirt_01_rich_06_Crafting": {
-        "command": "Game.AddToInventory(\"Items.FormalShirt_01_rich_06_Crafting\", 1)",
-        "name_male": "PARIS BLUE OFFICE SHIRT AND VEST WITH REINFORCED SEAMS",
-        "image_male": "catalog/inner-torso/Items.FormalShirt_01_rich_06_Crafting_male.jpeg",
-        "name_female": "PARIS BLUE OFFICE SHIRT AND VEST WITH REINFORCED SEAMS",
-        "image_female": "catalog/inner-torso/Items.FormalShirt_01_rich_06_Crafting_female.jpeg"
     },
     "Items.FormalShirt_01_old_03": {
         "command": "Game.AddToInventory(\"Items.FormalShirt_01_old_03\", 1)",
@@ -902,13 +699,6 @@
         "name_female": "PSYCHO FLEXIWEAVE LONG-SLEEVE",
         "image_female": "catalog/inner-torso/Items.Shirt_01_basic_02_female.jpeg"
     },
-    "Items.Shirt_01_basic_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Shirt_01_basic_02_Crafting\", 1)",
-        "name_male": "PSYCHO FLEXIWEAVE LONG-SLEEVE",
-        "image_male": "catalog/inner-torso/Items.Shirt_01_basic_02_Crafting_male.jpeg",
-        "name_female": "PSYCHO FLEXIWEAVE LONG-SLEEVE",
-        "image_female": "catalog/inner-torso/Items.Shirt_01_basic_02_Crafting_female.jpeg"
-    },
     "Items.TShirt_02_rich_01": {
         "command": "Game.AddToInventory(\"Items.TShirt_02_rich_01\", 1)",
         "name_male": "PSYCHO IMPACT-ABSORBENT NANOWEAVE T-SHIRT",
@@ -930,33 +720,12 @@
         "name_female": "PUNCTURE-RESISTANT NUSA T-SHIRT",
         "image_female": "catalog/inner-torso/Items.TShirt_02_basic_04_female.jpeg"
     },
-    "Items.TShirt_02_basic_04_Crafting": {
-        "command": "Game.AddToInventory(\"Items.TShirt_02_basic_04_Crafting\", 1)",
-        "name_male": "PUNCTURE-RESISTANT NUSA T-SHIRT",
-        "image_male": "catalog/inner-torso/Items.TShirt_02_basic_04_Crafting_male.jpeg",
-        "name_female": "PUNCTURE-RESISTANT NUSA T-SHIRT",
-        "image_female": "catalog/inner-torso/Items.TShirt_02_basic_04_Crafting_female.jpeg"
-    },
     "Items.TShirt_11_old_01": {
         "command": "Game.AddToInventory(\"Items.TShirt_11_old_01\", 1)",
         "name_male": "PUNK DUOLAYER TANK TOP",
         "image_male": "catalog/inner-torso/Items.TShirt_11_old_01_male.jpeg",
         "name_female": "PUNK DUOLAYER TANK TOP",
         "image_female": "catalog/inner-torso/Items.TShirt_11_old_01_female.jpeg"
-    },
-    "Items.Q301_Nomad_MA_InnerTorso": {
-        "command": "Game.AddToInventory(\"Items.Q301_Nomad_MA_InnerTorso\", 1)",
-        "name_male": "PUNK DUOLAYER TANK TOP",
-        "image_male": "catalog/inner-torso/Items.Q301_Nomad_MA_InnerTorso_male.jpeg",
-        "name_female": "PUNK DUOLAYER TANK TOP",
-        "image_female": "catalog/inner-torso/Items.Q301_Nomad_MA_InnerTorso_female.jpeg"
-    },
-    "Items.Q301_Street_MA_InnerTorso": {
-        "command": "Game.AddToInventory(\"Items.Q301_Street_MA_InnerTorso\", 1)",
-        "name_male": "PUNK DUOLAYER TANK TOP",
-        "image_male": "catalog/inner-torso/Items.Q301_Street_MA_InnerTorso_male.jpeg",
-        "name_female": "PUNK DUOLAYER TANK TOP",
-        "image_female": "catalog/inner-torso/Items.Q301_Street_MA_InnerTorso_female.jpeg"
     },
     "Items.TShirt_01_old_02": {
         "command": "Game.AddToInventory(\"Items.TShirt_01_old_02\", 1)",
@@ -993,13 +762,6 @@
         "name_female": "QUICK-DRY COMPOSITE T-SHIRT",
         "image_female": "catalog/inner-torso/Items.Tshirt_12_old_04_female.jpeg"
     },
-    "Items.Proficiency_TightJumpsuit_01_rich_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_TightJumpsuit_01_rich_02_Crafting\", 1)",
-        "name_male": "RED ALERT ANTI-SURGE NETRUNNING SUIT",
-        "image_male": "catalog/inner-torso/Items.Proficiency_TightJumpsuit_01_rich_02_Crafting_male.jpeg",
-        "name_female": "RED ALERT ANTI-SURGE NETRUNNING SUIT",
-        "image_female": "catalog/inner-torso/Items.Proficiency_TightJumpsuit_01_rich_02_Crafting_female.jpeg"
-    },
     "Items.TightJumpsuit_01_rich_02": {
         "command": "Game.AddToInventory(\"Items.TightJumpsuit_01_rich_02\", 1)",
         "name_male": "RED ALERT ANTI-SURGE NETRUNNING SUIT",
@@ -1007,26 +769,12 @@
         "name_female": "RED ALERT ANTI-SURGE NETRUNNING SUIT",
         "image_female": "catalog/inner-torso/Items.TightJumpsuit_01_rich_02_female.jpeg"
     },
-    "Items.TightJumpsuit_01_test_01": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_01_test_01\", 1)",
-        "name_male": "RED ALERT ANTI-SURGE NETRUNNING SUIT",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_01_test_01_male.jpeg",
-        "name_female": "RED ALERT ANTI-SURGE NETRUNNING SUIT",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_01_test_01_female.jpeg"
-    },
     "Items.FormalShirt_02_basic_03": {
         "command": "Game.AddToInventory(\"Items.FormalShirt_02_basic_03\", 1)",
         "name_male": "RED LEOPARD BUTTON-UP WITH COMPOSITE INSERT",
         "image_male": "catalog/inner-torso/Items.FormalShirt_02_basic_03_male.jpeg",
         "name_female": "RED LEOPARD BUTTON-UP WITH COMPOSITE INSERT",
         "image_female": "catalog/inner-torso/Items.FormalShirt_02_basic_03_female.jpeg"
-    },
-    "Items.FormalShirt_02_basic_03_Crafting": {
-        "command": "Game.AddToInventory(\"Items.FormalShirt_02_basic_03_Crafting\", 1)",
-        "name_male": "RED LEOPARD BUTTON-UP WITH COMPOSITE INSERT",
-        "image_male": "catalog/inner-torso/Items.FormalShirt_02_basic_03_Crafting_male.jpeg",
-        "name_female": "RED LEOPARD BUTTON-UP WITH COMPOSITE INSERT",
-        "image_female": "catalog/inner-torso/Items.FormalShirt_02_basic_03_Crafting_female.jpeg"
     },
     "Items.Undershirt_03_rich_02": {
         "command": "Game.AddToInventory(\"Items.Undershirt_03_rich_02\", 1)",
@@ -1041,20 +789,6 @@
         "image_male": "catalog/inner-torso/Items.FormalShirt_01_basic_02_male.jpeg",
         "name_female": "REINFORCED BREATHABLE DRESS SHIRT",
         "image_female": "catalog/inner-torso/Items.FormalShirt_01_basic_02_female.jpeg"
-    },
-    "Items.Q301_Corpo_MA_InnerTorso": {
-        "command": "Game.AddToInventory(\"Items.Q301_Corpo_MA_InnerTorso\", 1)",
-        "name_male": "REINFORCED BREATHABLE DRESS SHIRT",
-        "image_male": "catalog/inner-torso/Items.Q301_Corpo_MA_InnerTorso_male.jpeg",
-        "name_female": "REINFORCED BREATHABLE DRESS SHIRT",
-        "image_female": "catalog/inner-torso/Items.Q301_Corpo_MA_InnerTorso_female.jpeg"
-    },
-    "Items.Q301_Corpo_WA_InnerTorso": {
-        "command": "Game.AddToInventory(\"Items.Q301_Corpo_WA_InnerTorso\", 1)",
-        "name_male": "REINFORCED BREATHABLE DRESS SHIRT",
-        "image_male": "catalog/inner-torso/Items.Q301_Corpo_WA_InnerTorso_male.jpeg",
-        "name_female": "REINFORCED BREATHABLE DRESS SHIRT",
-        "image_female": "catalog/inner-torso/Items.Q301_Corpo_WA_InnerTorso_female.jpeg"
     },
     "Items.Undershirt_02_basic_01": {
         "command": "Game.AddToInventory(\"Items.Undershirt_02_basic_01\", 1)",
@@ -1168,26 +902,12 @@
         "name_female": "SEMI-FORMAL SYNFIBER BUTTON-UP",
         "image_female": "catalog/inner-torso/Items.FormalShirt_02_basic_01_female.jpeg"
     },
-    "Items.VHard_50_CoolRef_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_CoolRef_InnerToso\", 1)",
-        "name_male": "SEMI-FORMAL SYNFIBER BUTTON-UP",
-        "image_male": "catalog/inner-torso/Items.VHard_50_CoolRef_InnerToso_male.jpeg",
-        "name_female": "SEMI-FORMAL SYNFIBER BUTTON-UP",
-        "image_female": "catalog/inner-torso/Items.VHard_50_CoolRef_InnerToso_female.jpeg"
-    },
     "Items.Tshirt_12_old_03": {
         "command": "Game.AddToInventory(\"Items.Tshirt_12_old_03\", 1)",
         "name_male": "SHABBY SYNCOTTON T-SHIRT",
         "image_male": "catalog/inner-torso/Items.Tshirt_12_old_03_male.jpeg",
         "name_female": "SHABBY SYNCOTTON T-SHIRT",
         "image_female": "catalog/inner-torso/Items.Tshirt_12_old_03_female.jpeg"
-    },
-    "Items.Proficiency_Shirt_02_basic_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_Shirt_02_basic_02_Crafting\", 1)",
-        "name_male": "SIMPLE BIKER ARAMID-WEAVE TURTLENECK",
-        "image_male": "catalog/inner-torso/Items.Proficiency_Shirt_02_basic_02_Crafting_male.jpeg",
-        "name_female": "SIMPLE BIKER ARAMID-WEAVE TURTLENECK",
-        "image_female": "catalog/inner-torso/Items.Proficiency_Shirt_02_basic_02_Crafting_female.jpeg"
     },
     "Items.Shirt_02_basic_02": {
         "command": "Game.AddToInventory(\"Items.Shirt_02_basic_02\", 1)",
@@ -1217,26 +937,12 @@
         "name_female": "SPORTY DARRA-POLYTECHNIC FLEXI-WEAVE TURTLENECK",
         "image_female": "catalog/inner-torso/Items.Shirt_02_basic_01_female.jpeg"
     },
-    "Items.Hard_30_IntBody_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_IntBody_InnerToso\", 1)",
-        "name_male": "SPORTY DARRA-POLYTECHNIC FLEXI-WEAVE TURTLENECK",
-        "image_male": "catalog/inner-torso/Items.Hard_30_IntBody_InnerToso_male.jpeg",
-        "name_female": "SPORTY DARRA-POLYTECHNIC FLEXI-WEAVE TURTLENECK",
-        "image_female": "catalog/inner-torso/Items.Hard_30_IntBody_InnerToso_female.jpeg"
-    },
     "Items.Undershirt_03_basic_04": {
         "command": "Game.AddToInventory(\"Items.Undershirt_03_basic_04\", 1)",
         "name_male": "SPOTTED FLEXI-MEMBRANE BUSTIER",
         "image_male": "catalog/inner-torso/Items.Undershirt_03_basic_04_male.jpeg",
         "name_female": "SPOTTED FLEXI-MEMBRANE BUSTIER",
         "image_female": "catalog/inner-torso/Items.Undershirt_03_basic_04_female.jpeg"
-    },
-    "Items.Undershirt_03_basic_04_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Undershirt_03_basic_04_Crafting\", 1)",
-        "name_male": "SPOTTED FLEXI-MEMBRANE BUSTIER",
-        "image_male": "catalog/inner-torso/Items.Undershirt_03_basic_04_Crafting_male.jpeg",
-        "name_female": "SPOTTED FLEXI-MEMBRANE BUSTIER",
-        "image_female": "catalog/inner-torso/Items.Undershirt_03_basic_04_Crafting_female.jpeg"
     },
     "Items.TShirt_03_old_01": {
         "command": "Game.AddToInventory(\"Items.TShirt_03_old_01\", 1)",
@@ -1258,13 +964,6 @@
         "image_male": "catalog/inner-torso/Items.TShirt_04_old_06_male.jpeg",
         "name_female": "STURDI-WEAVE CUTOUT TANK",
         "image_female": "catalog/inner-torso/Items.TShirt_04_old_06_female.jpeg"
-    },
-    "Items.Proficiency_Undershirt_03_basic_03_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_Undershirt_03_basic_03_Crafting\", 1)",
-        "name_male": "STYLISH ATOMIC BLAST COMPOSITE BUSTIER",
-        "image_male": "catalog/inner-torso/Items.Proficiency_Undershirt_03_basic_03_Crafting_male.jpeg",
-        "name_female": "STYLISH ATOMIC BLAST COMPOSITE BUSTIER",
-        "image_female": "catalog/inner-torso/Items.Proficiency_Undershirt_03_basic_03_Crafting_female.jpeg"
     },
     "Items.Undershirt_03_basic_03": {
         "command": "Game.AddToInventory(\"Items.Undershirt_03_basic_03\", 1)",
@@ -1301,33 +1000,12 @@
         "name_female": "SUICHU YOGAN SYN-FIBER COMBAT SHIRT",
         "image_female": "catalog/inner-torso/Items.Shirt_03_basic_01_female.jpeg"
     },
-    "Items.Normal_20_Ranged_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Ranged_InnerToso\", 1)",
-        "name_male": "SUICH\u016a Y\u014cGAN SYN-FIBER COMBAT SHIRT",
-        "image_male": "catalog/inner-torso/Items.Normal_20_Ranged_InnerToso_male.jpeg",
-        "name_female": "SUICH\u016a Y\u014cGAN SYN-FIBER COMBAT SHIRT",
-        "image_female": "catalog/inner-torso/Items.Normal_20_Ranged_InnerToso_female.jpeg"
-    },
-    "Items.Weak_20_Cool_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Weak_20_Cool_InnerToso\", 1)",
-        "name_male": "SUICH\u016a Y\u014cGAN SYN-FIBER COMBAT SHIRT",
-        "image_male": "catalog/inner-torso/Items.Weak_20_Cool_InnerToso_male.jpeg",
-        "name_female": "SUICH\u016a Y\u014cGAN SYN-FIBER COMBAT SHIRT",
-        "image_female": "catalog/inner-torso/Items.Weak_20_Cool_InnerToso_female.jpeg"
-    },
     "Items.Tshirt_12_basic_09": {
         "command": "Game.AddToInventory(\"Items.Tshirt_12_basic_09\", 1)",
         "name_male": "TACTICAL T-SHIRT WITH ANATOMICAL EMBOSSING",
         "image_male": "catalog/inner-torso/Items.Tshirt_12_basic_09_male.jpeg",
         "name_female": "TACTICAL T-SHIRT WITH ANATOMICAL EMBOSSING",
         "image_female": "catalog/inner-torso/Items.Tshirt_12_basic_09_female.jpeg"
-    },
-    "Items.Q301_Nomad_WA_InnerTorso": {
-        "command": "Game.AddToInventory(\"Items.Q301_Nomad_WA_InnerTorso\", 1)",
-        "name_male": "TACTI-FIBER RACERBACK TANK",
-        "image_male": "catalog/inner-torso/Items.Q301_Nomad_WA_InnerTorso_male.jpeg",
-        "name_female": "TACTI-FIBER RACERBACK TANK",
-        "image_female": "catalog/inner-torso/Items.Q301_Nomad_WA_InnerTorso_female.jpeg"
     },
     "Items.TShirt_07_old_01": {
         "command": "Game.AddToInventory(\"Items.TShirt_07_old_01\", 1)",
@@ -1392,13 +1070,6 @@
         "name_female": "TORN BURN CORPO SHIT COMPOSITE T-SHIRT",
         "image_female": "catalog/inner-torso/Items.TShirt_05_old_01_female.jpeg"
     },
-    "Items.VHard_50_BodyCool_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_BodyCool_InnerToso\", 1)",
-        "name_male": "TORN BURN CORPO SHIT COMPOSITE T-SHIRT",
-        "image_male": "catalog/inner-torso/Items.VHard_50_BodyCool_InnerToso_male.jpeg",
-        "name_female": "TORN BURN CORPO SHIT COMPOSITE T-SHIRT",
-        "image_female": "catalog/inner-torso/Items.VHard_50_BodyCool_InnerToso_female.jpeg"
-    },
     "Items.TShirt_05_old_02": {
         "command": "Game.AddToInventory(\"Items.TShirt_05_old_02\", 1)",
         "name_male": "TORN DAEMON HUNTER POLYAMIDE T-SHIRT",
@@ -1462,20 +1133,6 @@
         "name_female": "ULTIMATE PUNCH STURDIMESH T-SHIRT",
         "image_female": "catalog/inner-torso/Items.TShirt_02_basic_02_female.jpeg"
     },
-    "Items.Hard_20_Intelligence_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Intelligence_InnerToso\", 1)",
-        "name_male": "ULTIMATE PUNCH STURDIMESH T-SHIRT",
-        "image_male": "catalog/inner-torso/Items.Hard_20_Intelligence_InnerToso_male.jpeg",
-        "name_female": "ULTIMATE PUNCH STURDIMESH T-SHIRT",
-        "image_female": "catalog/inner-torso/Items.Hard_20_Intelligence_InnerToso_female.jpeg"
-    },
-    "Items.Str_30_Cool_Assassin_InnerToso": {
-        "command": "Game.AddToInventory(\"Items.Str_30_Cool_Assassin_InnerToso\", 1)",
-        "name_male": "ULTIMATE PUNCH STURDIMESH T-SHIRT",
-        "image_male": "catalog/inner-torso/Items.Str_30_Cool_Assassin_InnerToso_male.jpeg",
-        "name_female": "ULTIMATE PUNCH STURDIMESH T-SHIRT",
-        "image_female": "catalog/inner-torso/Items.Str_30_Cool_Assassin_InnerToso_female.jpeg"
-    },
     "Items.Undershirt_02_rich_01": {
         "command": "Game.AddToInventory(\"Items.Undershirt_02_rich_01\", 1)",
         "name_male": "ULTRALIGHT AMANDE ROSE ANTI-PUNCTURE BRA",
@@ -1496,13 +1153,6 @@
         "image_male": "catalog/inner-torso/Items.Undershirt_03_rich_01_male.jpeg",
         "name_female": "ULTRALIGHT JASMIN DOUCET SYN-COTTON BUSTIER",
         "image_female": "catalog/inner-torso/Items.Undershirt_03_rich_01_female.jpeg"
-    },
-    "Items.Proficiency_TShirt_03_rich_03_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_TShirt_03_rich_03_Crafting\", 1)",
-        "name_male": "ULTRALIGHT TESTED ON ANIMALS POLYAMIDE TANK TOP",
-        "image_male": "catalog/inner-torso/Items.Proficiency_TShirt_03_rich_03_Crafting_male.jpeg",
-        "name_female": "ULTRALIGHT TESTED ON ANIMALS POLYAMIDE TANK TOP",
-        "image_female": "catalog/inner-torso/Items.Proficiency_TShirt_03_rich_03_Crafting_female.jpeg"
     },
     "Items.TShirt_03_rich_03": {
         "command": "Game.AddToInventory(\"Items.TShirt_03_rich_03\", 1)",
@@ -1602,33 +1252,12 @@
         "name_female": "WATER-REPELLENT POLYAMIDE UNITARD",
         "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_rich_02_female.jpeg"
     },
-    "Items.GOG_DLC_TShirt_Crafted": {
-        "command": "Game.AddToInventory(\"Items.GOG_DLC_TShirt_Crafted\", 1)",
-        "name_male": "WOLF SCHOOL T-SHIRT",
-        "image_male": "catalog/inner-torso/Items.GOG_DLC_TShirt_Crafted_male.jpeg",
-        "name_female": "WOLF SCHOOL T-SHIRT",
-        "image_female": "catalog/inner-torso/Items.GOG_DLC_TShirt_Crafted_female.jpeg"
-    },
     "Items.GOG_DLC_TShirt": {
         "command": "Game.AddToInventory(\"Items.GOG_DLC_TShirt\", 1)",
         "name_male": "WOLF SCHOOL T-SHIRT",
         "image_male": "catalog/inner-torso/Items.GOG_DLC_TShirt_male.jpeg",
         "name_female": "WOLF SCHOOL T-SHIRT",
         "image_female": "catalog/inner-torso/Items.GOG_DLC_TShirt_female.jpeg"
-    },
-    "Items.GOG_DLC_TShirt_Epic": {
-        "command": "Game.AddToInventory(\"Items.GOG_DLC_TShirt_Epic\", 1)",
-        "name_male": "WOLF SCHOOL T-SHIRT",
-        "image_male": "catalog/inner-torso/Items.GOG_DLC_TShirt_Epic_male.jpeg",
-        "name_female": "WOLF SCHOOL T-SHIRT",
-        "image_female": "catalog/inner-torso/Items.GOG_DLC_TShirt_Epic_female.jpeg"
-    },
-    "Items.GOG_DLC_TShirt_Legendary": {
-        "command": "Game.AddToInventory(\"Items.GOG_DLC_TShirt_Legendary\", 1)",
-        "name_male": "WOLF SCHOOL T-SHIRT",
-        "image_male": "catalog/inner-torso/Items.GOG_DLC_TShirt_Legendary_male.jpeg",
-        "name_female": "WOLF SCHOOL T-SHIRT",
-        "image_female": "catalog/inner-torso/Items.GOG_DLC_TShirt_Legendary_female.jpeg"
     },
     "Items.Tshirt_12_old_07": {
         "command": "Game.AddToInventory(\"Items.Tshirt_12_old_07\", 1)",
