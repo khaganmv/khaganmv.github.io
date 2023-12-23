@@ -1,31 +1,31 @@
-const catalog = {
+const jsonCatalog = {
     "face": undefined, 
-    // "feet": undefined, 
-    // "head": undefined, 
-    // "inner-torso": undefined, 
-    // "legs": undefined, 
-    // "outer-torso": undefined, 
-    // "outfit": undefined,
+    "feet": undefined, 
+    "head": undefined, 
+    "inner-torso": undefined, 
+    "legs": undefined, 
+    "outer-torso": undefined, 
+    "outfit": undefined,
 };
 
-const tables = {
+const subcatalogs = {
     "face": undefined, 
-    // "feet": undefined, 
-    // "head": undefined, 
-    // "inner-torso": undefined, 
-    // "legs": undefined, 
-    // "outer-torso": undefined, 
-    // "outfit": undefined,
+    "feet": undefined, 
+    "head": undefined, 
+    "inner-torso": undefined, 
+    "legs": undefined, 
+    "outer-torso": undefined, 
+    "outfit": undefined,
 };
 
 const buttons = {
     "face": undefined, 
-    // "feet": undefined, 
-    // "head": undefined, 
-    // "inner-torso": undefined, 
-    // "legs": undefined, 
-    // "outer-torso": undefined, 
-    // "outfit": undefined,
+    "feet": undefined, 
+    "head": undefined, 
+    "inner-torso": undefined, 
+    "legs": undefined, 
+    "outer-torso": undefined, 
+    "outfit": undefined,
 };
 
 var active = "face";
@@ -78,76 +78,70 @@ function slotToButton(slot) {
 }
 
 async function initCatalog() {
-    for (var slot in catalog) {
+    for (var slot in jsonCatalog) {
         const response = await fetch("catalog/" + slot + "/catalog.json");
     
         if (response.status !== 200) {
             throw response.status;
         }
     
-        catalog[slot] = await response.json()
+        jsonCatalog[slot] = await response.json()
     }
 }
 
-function initTables() {
-    const body = document.getElementById("body");
+function initSubcatalogs() {
+    const catalog = document.getElementById("catalog");
 
-    for (var slot in catalog) {
-        const table = document.createElement("table");
-        const thead = document.createElement("thead")
-        const tbody = document.createElement("tbody");
-        tables[slot] = table;
-        
-        thead.appendChild(document.createElement("th")).textContent = "Command";
-        thead.appendChild(document.createElement("th")).textContent = "Name (Male)";
-        thead.appendChild(document.createElement("th")).textContent = "Image (Male)";
-        thead.appendChild(document.createElement("th")).textContent = "Name (Female)";
-        thead.appendChild(document.createElement("th")).textContent = "Image (Female)";
-        table.append(thead);
-        
-        for (var item in catalog[slot]) {
-            const tr = document.createElement("tr");
-            
-            for (var attr in catalog[slot][item]) {
-                const td = document.createElement("td");
+    for (var slot in subcatalogs) {
+        const subcatalog = document.createElement("div");
+        subcatalog.className = "subcatalog";
+        subcatalogs[slot] = subcatalog;
 
-                if (attr === "image_male" || attr === "image_female") {
-                    const img = document.createElement("img");
-                    img.src = catalog[slot][item][attr];
-                    img.width = 400;
-                    img.height = 400;
-                    td.appendChild(img);
+        for (var item in jsonCatalog[slot]) {
+            const itemDiv = document.createElement("div");
+            const textDiv = document.createElement("div");
+            const img = document.createElement("img");
+
+            itemDiv.className = "itemDiv";
+            textDiv.textContent = jsonCatalog[slot][item]["command"];
+            textDiv.style.color = "white";
+            textDiv.style.display = "none";
+            img.src = jsonCatalog[slot][item]["image_male"];
+            img.className = "image";
+
+            itemDiv.addEventListener("click", () => {
+                if (textDiv.style.display === "none") {
+                    textDiv.style.display = "initial";
                 } else {
-                    td.textContent = catalog[slot][item][attr];
+                    textDiv.style.display = "none";
                 }
-
-                tr.appendChild(td);
-            }
-
-            tbody.appendChild(tr);
+            });
+            
+            itemDiv.appendChild(img);
+            itemDiv.appendChild(textDiv);
+            subcatalog.appendChild(itemDiv);
         }
-
-        table.append(tbody);
 
         if (slot !== "face") {
-            table.style.display = "none";
+            subcatalog.style.display = "none";
         }
 
-        body.appendChild(table);
+        catalog.appendChild(subcatalog);
     }
 }
 
-function setActiveTable(button) {
+function setActiveSubcatalog(button) {
     const slot = buttonToSlot(button.textContent);
 
-    for (var table in tables) {
-        if (table === slot) {
+    for (var subcatalog in subcatalogs) {
+        if (subcatalog === slot) {
             buttons[active].classList.toggle("activeButton");
             active = slot;
             buttons[active].classList.toggle("activeButton");
-            tables[table].style.display = "initial";
+            subcatalogs[subcatalog].style.display = "flex";
+            document.body.scrollTop = document.documentElement.scrollTop = 0;
         } else {
-            tables[table].style.display = "none";
+            subcatalogs[subcatalog].style.display = "none";
         }
     }
 }
@@ -165,14 +159,14 @@ function initButtons() {
         const button = footer.children[i];
 
         button.addEventListener("click", () => {
-            setActiveTable(button);
+            setActiveSubcatalog(button);
         });
     }
 }
 
 async function main() {
     await initCatalog();
-    initTables();
+    initSubcatalogs();
     initButtons();
     buttons[active].classList.toggle("activeButton");
 }
