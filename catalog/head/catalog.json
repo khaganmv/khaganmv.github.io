@@ -69,13 +69,6 @@
         "name_female": "ANTI-FRAG MODIFIED ABS HELMET",
         "image_female": "catalog/head/Items.Helmet_09_rich_02_female.jpeg"
     },
-    "Items.VHard_50_TechCool_Head": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_TechCool_Head\", 1)",
-        "name_male": "ANTI-FRAG MODIFIED ABS HELMET",
-        "image_male": "catalog/head/Items.VHard_50_TechCool_Head_male.jpeg",
-        "name_female": "ANTI-FRAG MODIFIED ABS HELMET",
-        "image_female": "catalog/head/Items.VHard_50_TechCool_Head_female.jpeg"
-    },
     "Items.Helmet_09_rich_05": {
         "command": "Game.AddToInventory(\"Items.Helmet_09_rich_05\", 1)",
         "name_male": "ANTI-GLARE HELMET WITH SPOILER",
@@ -117,13 +110,6 @@
         "image_male": "catalog/head/Items.Cap_04_old_02_male.jpeg",
         "name_female": "ARASAKA CAP WITH CAMERA",
         "image_female": "catalog/head/Items.Cap_04_old_02_female.jpeg"
-    },
-    "Items.VHard_50_IntTech_Head": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_IntTech_Head\", 1)",
-        "name_male": "ARASAKA CAP WITH CAMERA",
-        "image_male": "catalog/head/Items.VHard_50_IntTech_Head_male.jpeg",
-        "name_female": "ARASAKA CAP WITH CAMERA",
-        "image_female": "catalog/head/Items.VHard_50_IntTech_Head_female.jpeg"
     },
     "Items.Helmet_03_basic_02": {
         "command": "Game.AddToInventory(\"Items.Helmet_03_basic_02\", 1)",
@@ -173,13 +159,6 @@
         "image_male": "catalog/head/Items.Q301_kurt_militia_h1_male.jpeg",
         "name_female": "BARGHEST HELMET",
         "image_female": "catalog/head/Items.Q301_kurt_militia_h1_female.jpeg"
-    },
-    "Items.q301_kurts_militia_helmet": {
-        "command": "Game.AddToInventory(\"Items.q301_kurts_militia_helmet\", 1)",
-        "name_male": "BARGHEST HELMET",
-        "image_male": "catalog/head/Items.q301_kurts_militia_helmet_male.jpeg",
-        "name_female": "BARGHEST HELMET",
-        "image_female": "catalog/head/Items.q301_kurts_militia_helmet_female.jpeg"
     },
     "Items.Helmet_07_old_05": {
         "command": "Game.AddToInventory(\"Items.Helmet_07_old_05\", 1)",
@@ -244,13 +223,6 @@
         "name_female": "BOSS MAFIOSO TRILBY WITH ARMORED LINING",
         "image_female": "catalog/head/Items.Hat_01_rich_01_female.jpeg"
     },
-    "Items.Proficiency_Hat_01_rich_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_Hat_01_rich_01_Crafting\", 1)",
-        "name_male": "BOSS MAFIOSO TRILBY WITH ARMORED LINING",
-        "image_male": "catalog/head/Items.Proficiency_Hat_01_rich_01_Crafting_male.jpeg",
-        "name_female": "BOSS MAFIOSO TRILBY WITH ARMORED LINING",
-        "image_female": "catalog/head/Items.Proficiency_Hat_01_rich_01_Crafting_female.jpeg"
-    },
     "Items.Cap_01_old_02": {
         "command": "Game.AddToInventory(\"Items.Cap_01_old_02\", 1)",
         "name_male": "BRAINDANCE CAP",
@@ -260,7 +232,7 @@
     },
     "Items.Hat_06_basic_05": {
         "command": "Game.AddToInventory(\"Items.Hat_06_basic_05\", 1)",
-        "name_male": "-",
+        "name_male": "BREATHABLE FLEECE CAP",
         "image_male": "catalog/head/Items.Hat_06_basic_05_male.jpeg",
         "name_female": "BREATHABLE FLEECE CAP",
         "image_female": "catalog/head/Items.Hat_06_basic_05_female.jpeg"
@@ -349,13 +321,6 @@
         "name_female": "CLASSIC HARDENED-LEATHER FLAT CAP",
         "image_female": "catalog/head/Items.Cap_02_basic_02_female.jpeg"
     },
-    "Items.Normal_20_Ranged_Head": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Ranged_Head\", 1)",
-        "name_male": "CLASSIC HARDENED-LEATHER FLAT CAP",
-        "image_male": "catalog/head/Items.Normal_20_Ranged_Head_male.jpeg",
-        "name_female": "CLASSIC HARDENED-LEATHER FLAT CAP",
-        "image_female": "catalog/head/Items.Normal_20_Ranged_Head_female.jpeg"
-    },
     "Items.Helmet_09_basic_01": {
         "command": "Game.AddToInventory(\"Items.Helmet_09_basic_01\", 1)",
         "name_male": "CLASSIC MILITECH COMBAT HELMET",
@@ -433,13 +398,6 @@
         "name_female": "COTTON MOTORCYCLE CAP WITH PROTECTIVE INSET",
         "image_female": "catalog/head/Items.Cap_06_basic_01_female.jpeg"
     },
-    "Items.Proficiency_Cap_06_basic_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_Cap_06_basic_01_Crafting\", 1)",
-        "name_male": "COTTON MOTORCYCLE CAP WITH PROTECTIVE INSET",
-        "image_male": "catalog/head/Items.Proficiency_Cap_06_basic_01_Crafting_male.jpeg",
-        "name_female": "COTTON MOTORCYCLE CAP WITH PROTECTIVE INSET",
-        "image_female": "catalog/head/Items.Proficiency_Cap_06_basic_01_Crafting_female.jpeg"
-    },
     "Items.Hat_02_basic_01": {
         "command": "Game.AddToInventory(\"Items.Hat_02_basic_01\", 1)",
         "name_male": "COWBOY HAT WITH HARDENED-LEATHER BAND",
@@ -489,68 +447,12 @@
         "name_female": "DARRA POLYTECHNIC CAP",
         "image_female": "catalog/head/Items.Cap_01_basic_01_female.jpeg"
     },
-    "Items.Hard_20_Reflex_Head": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Reflex_Head\", 1)",
-        "name_male": "DARRA POLYTECHNIC CAP",
-        "image_male": "catalog/head/Items.Hard_20_Reflex_Head_male.jpeg",
-        "name_female": "DARRA POLYTECHNIC CAP",
-        "image_female": "catalog/head/Items.Hard_20_Reflex_Head_female.jpeg"
-    },
-    "Items.Normal_20_Netrunner_Head": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Netrunner_Head\", 1)",
-        "name_male": "DARRA POLYTECHNIC CAP",
-        "image_male": "catalog/head/Items.Normal_20_Netrunner_Head_male.jpeg",
-        "name_female": "DARRA POLYTECHNIC CAP",
-        "image_female": "catalog/head/Items.Normal_20_Netrunner_Head_female.jpeg"
-    },
-    "Items.Story_5_Head": {
-        "command": "Game.AddToInventory(\"Items.Story_5_Head\", 1)",
-        "name_male": "DARRA POLYTECHNIC CAP",
-        "image_male": "catalog/head/Items.Story_5_Head_male.jpeg",
-        "name_female": "DARRA POLYTECHNIC CAP",
-        "image_female": "catalog/head/Items.Story_5_Head_female.jpeg"
-    },
-    "Items.Weak_10_Head": {
-        "command": "Game.AddToInventory(\"Items.Weak_10_Head\", 1)",
-        "name_male": "DARRA POLYTECHNIC CAP",
-        "image_male": "catalog/head/Items.Weak_10_Head_male.jpeg",
-        "name_female": "DARRA POLYTECHNIC CAP",
-        "image_female": "catalog/head/Items.Weak_10_Head_female.jpeg"
-    },
-    "Items.Weak_30_Head": {
-        "command": "Game.AddToInventory(\"Items.Weak_30_Head\", 1)",
-        "name_male": "DARRA POLYTECHNIC CAP",
-        "image_male": "catalog/head/Items.Weak_30_Head_male.jpeg",
-        "name_female": "DARRA POLYTECHNIC CAP",
-        "image_female": "catalog/head/Items.Weak_30_Head_female.jpeg"
-    },
-    "TEST.ItemPass_HeadArmor": {
-        "command": "Game.AddToInventory(\"TEST.ItemPass_HeadArmor\", 1)",
-        "name_male": "DARRA POLYTECHNIC CAP",
-        "image_male": "catalog/head/TEST.ItemPass_HeadArmor_male.jpeg",
-        "name_female": "DARRA POLYTECHNIC CAP",
-        "image_female": "catalog/head/TEST.ItemPass_HeadArmor_female.jpeg"
-    },
     "Items.Balaclava_01_basic_02": {
         "command": "Game.AddToInventory(\"Items.Balaclava_01_basic_02\", 1)",
         "name_male": "DARRA POLYTECHNIC TACTICAL BALACLAVA",
         "image_male": "catalog/head/Items.Balaclava_01_basic_02_male.jpeg",
         "name_female": "DARRA POLYTECHNIC TACTICAL BALACLAVA",
         "image_female": "catalog/head/Items.Balaclava_01_basic_02_female.jpeg"
-    },
-    "Items.Balaclava_01_basic_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Balaclava_01_basic_02_Crafting\", 1)",
-        "name_male": "DARRA POLYTEHCNIC TACTICAL BALACLAVA",
-        "image_male": "catalog/head/Items.Balaclava_01_basic_02_Crafting_male.jpeg",
-        "name_female": "DARRA POLYTEHCNIC TACTICAL BALACLAVA",
-        "image_female": "catalog/head/Items.Balaclava_01_basic_02_Crafting_female.jpeg"
-    },
-    "Items.Normal_20_Melee_Head": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Melee_Head\", 1)",
-        "name_male": "DARRA POLYTEHCNIC TACTICAL BALACLAVA",
-        "image_male": "catalog/head/Items.Normal_20_Melee_Head_male.jpeg",
-        "name_female": "DARRA POLYTEHCNIC TACTICAL BALACLAVA",
-        "image_female": "catalog/head/Items.Normal_20_Melee_Head_female.jpeg"
     },
     "Items.Hat_06_old_01": {
         "command": "Game.AddToInventory(\"Items.Hat_06_old_01\", 1)",
@@ -565,13 +467,6 @@
         "image_male": "catalog/head/Items.Helmet_01_basic_01_male.jpeg",
         "name_female": "DOUBLE-SHELLED AT-AK MODULAR HELMET",
         "image_female": "catalog/head/Items.Helmet_01_basic_01_female.jpeg"
-    },
-    "Items.Hard_30_Reflex_Head": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_Reflex_Head\", 1)",
-        "name_male": "DOUBLE-SHELLED AT-AK MODULAR HELMET",
-        "image_male": "catalog/head/Items.Hard_30_Reflex_Head_male.jpeg",
-        "name_female": "DOUBLE-SHELLED AT-AK MODULAR HELMET",
-        "image_female": "catalog/head/Items.Hard_30_Reflex_Head_female.jpeg"
     },
     "Items.Scarf_03_basic_02": {
         "command": "Game.AddToInventory(\"Items.Scarf_03_basic_02\", 1)",
@@ -615,13 +510,6 @@
         "name_female": "DURABLE EMERALD SPEED POLYAMIDE BEANIE",
         "image_female": "catalog/head/Items.Cap_03_rich_02_female.jpeg"
     },
-    "Items.Cap_03_rich_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Cap_03_rich_02_Crafting\", 1)",
-        "name_male": "DURABLE EMERALD SPEED POLYAMIDE BEANIE",
-        "image_male": "catalog/head/Items.Cap_03_rich_02_Crafting_male.jpeg",
-        "name_female": "DURABLE EMERALD SPEED POLYAMIDE BEANIE",
-        "image_female": "catalog/head/Items.Cap_03_rich_02_Crafting_female.jpeg"
-    },
     "Items.Hat_01_old_01": {
         "command": "Game.AddToInventory(\"Items.Hat_01_old_01\", 1)",
         "name_male": "DURABLE FELT-BLEND TRILBY",
@@ -635,13 +523,6 @@
         "image_male": "catalog/head/Items.Helmet_01_basic_03_male.jpeg",
         "name_female": "DURABLE LIME SPEED MODULAR HELMET",
         "image_female": "catalog/head/Items.Helmet_01_basic_03_female.jpeg"
-    },
-    "Items.Helmet_01_basic_03_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Helmet_01_basic_03_Crafting\", 1)",
-        "name_male": "DURABLE LIME SPEED MODULAR HELMET",
-        "image_male": "catalog/head/Items.Helmet_01_basic_03_Crafting_male.jpeg",
-        "name_female": "DURABLE LIME SPEED MODULAR HELMET",
-        "image_female": "catalog/head/Items.Helmet_01_basic_03_Crafting_female.jpeg"
     },
     "Items.Scarf_03_old_03": {
         "command": "Game.AddToInventory(\"Items.Scarf_03_old_03\", 1)",
@@ -685,13 +566,6 @@
         "name_female": "EPOXY BALLISTIC MASK WITH TITANIUM-REINFORCED VISOR",
         "image_female": "catalog/head/Items.Helmet_12_rich_04_female.jpeg"
     },
-    "Items.VHard_50_IntRef_Head": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_IntRef_Head\", 1)",
-        "name_male": "EPOXY BALLISTIC MASK WITH TITANIUM-REINFORCED VISOR",
-        "image_male": "catalog/head/Items.VHard_50_IntRef_Head_male.jpeg",
-        "name_female": "EPOXY BALLISTIC MASK WITH TITANIUM-REINFORCED VISOR",
-        "image_female": "catalog/head/Items.VHard_50_IntRef_Head_female.jpeg"
-    },
     "Items.Helmet_08_basic_04": {
         "command": "Game.AddToInventory(\"Items.Helmet_08_basic_04\", 1)",
         "name_male": "EPOXY CAMOUFLAGE HELMET",
@@ -719,13 +593,6 @@
         "image_male": "catalog/head/Items.Cap_02_old_02_male.jpeg",
         "name_female": "FADED NUSA FLAT CAP",
         "image_female": "catalog/head/Items.Cap_02_old_02_female.jpeg"
-    },
-    "Items.q301_fia_helmet": {
-        "command": "Game.AddToInventory(\"Items.q301_fia_helmet\", 1)",
-        "name_male": "FIA AGENT HELMET",
-        "image_male": "catalog/head/Items.q301_fia_helmet_male.jpeg",
-        "name_female": "FIA AGENT HELMET",
-        "image_female": "catalog/head/Items.q301_fia_helmet_female.jpeg"
     },
     "Items.Helmet_08_rich_03": {
         "command": "Game.AddToInventory(\"Items.Helmet_08_rich_03\", 1)",
@@ -771,7 +638,7 @@
     },
     "Items.Hat_05_old_04": {
         "command": "Game.AddToInventory(\"Items.Hat_05_old_04\", 1)",
-        "name_male": "-",
+        "name_male": "GLITZY LLAMA-WOOL BUCKET HAT",
         "image_male": "catalog/head/Items.Hat_05_old_04_male.jpeg",
         "name_female": "GLITZY LLAMA-WOOL BUCKET HAT",
         "image_female": "catalog/head/Items.Hat_05_old_04_female.jpeg"
@@ -789,13 +656,6 @@
         "image_male": "catalog/head/Items.Scarf_03_basic_03_male.jpeg",
         "name_female": "GRAFFITI THERMOSET SYNWEAVE HIJAB",
         "image_female": "catalog/head/Items.Scarf_03_basic_03_female.jpeg"
-    },
-    "Items.Scarf_03_basic_03_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Scarf_03_basic_03_Crafting\", 1)",
-        "name_male": "GRAFFITI THERMOSET SYNWEAVE HIJAB",
-        "image_male": "catalog/head/Items.Scarf_03_basic_03_Crafting_male.jpeg",
-        "name_female": "GRAFFITI THERMOSET SYNWEAVE HIJAB",
-        "image_female": "catalog/head/Items.Scarf_03_basic_03_Crafting_female.jpeg"
     },
     "Items.Scarf_03_rich_01": {
         "command": "Game.AddToInventory(\"Items.Scarf_03_rich_01\", 1)",
@@ -838,13 +698,6 @@
         "image_male": "catalog/head/Items.Helmet_11_basic_03_male.jpeg",
         "name_female": "HELMET WITH SONIC CHAMBER",
         "image_female": "catalog/head/Items.Helmet_11_basic_03_female.jpeg"
-    },
-    "Items.VHard_50_RefBody_Head": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_RefBody_Head\", 1)",
-        "name_male": "HELMET WITH SONIC CHAMBER",
-        "image_male": "catalog/head/Items.VHard_50_RefBody_Head_male.jpeg",
-        "name_female": "HELMET WITH SONIC CHAMBER",
-        "image_female": "catalog/head/Items.VHard_50_RefBody_Head_female.jpeg"
     },
     "Items.Helmet_11_old_02": {
         "command": "Game.AddToInventory(\"Items.Helmet_11_old_02\", 1)",
@@ -944,13 +797,6 @@
         "name_female": "LAMINATED SECURITY HARDHAT WITH HEADSET",
         "image_female": "catalog/head/Items.Helmet_03_basic_01_female.jpeg"
     },
-    "Items.Helmet_03_basic_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Helmet_03_basic_01_Crafting\", 1)",
-        "name_male": "LAMINATED SECURITY HARDHAT WITH HEADSET",
-        "image_male": "catalog/head/Items.Helmet_03_basic_01_Crafting_male.jpeg",
-        "name_female": "LAMINATED SECURITY HARDHAT WITH HEADSET",
-        "image_female": "catalog/head/Items.Helmet_03_basic_01_Crafting_female.jpeg"
-    },
     "Items.Helmet_07_basic_02": {
         "command": "Game.AddToInventory(\"Items.Helmet_07_basic_02\", 1)",
         "name_male": "LIGHT HARDENED POLYSTYRENE ARASAKA HELMET",
@@ -1035,13 +881,6 @@
         "name_female": "MIRAME REINFORCED-COMPOSITE COWBOY HAT",
         "image_female": "catalog/head/Items.Hat_02_rich_02_female.jpeg"
     },
-    "Items.Hat_02_rich_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Hat_02_rich_02_Crafting\", 1)",
-        "name_male": "M\u00cdRAME REINFORCED-COMPOSITE COWBOY HAT",
-        "image_male": "catalog/head/Items.Hat_02_rich_02_Crafting_male.jpeg",
-        "name_female": "M\u00cdRAME REINFORCED-COMPOSITE COWBOY HAT",
-        "image_female": "catalog/head/Items.Hat_02_rich_02_Crafting_female.jpeg"
-    },
     "Items.Balaclava_02_basic_01": {
         "command": "Game.AddToInventory(\"Items.Balaclava_02_basic_01\", 1)",
         "name_male": "MODACRYLIC TACTICAL BALACLAVA",
@@ -1090,13 +929,6 @@
         "image_male": "catalog/head/Items.Cap_03_basic_01_male.jpeg",
         "name_female": "MOX BEANIE",
         "image_female": "catalog/head/Items.Cap_03_basic_01_female.jpeg"
-    },
-    "Items.Hard_30_IntBody_Head": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_IntBody_Head\", 1)",
-        "name_male": "MOX BEANIE",
-        "image_male": "catalog/head/Items.Hard_30_IntBody_Head_male.jpeg",
-        "name_female": "MOX BEANIE",
-        "image_female": "catalog/head/Items.Hard_30_IntBody_Head_female.jpeg"
     },
     "Items.Helmet_03_rich_01": {
         "command": "Game.AddToInventory(\"Items.Helmet_03_rich_01\", 1)",
@@ -1308,20 +1140,6 @@
         "name_female": "PUNK BANDANA HEADBAND",
         "image_female": "catalog/head/Items.Scarf_02_old_02_female.jpeg"
     },
-    "Items.Hard_20_Intelligence_Head": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Intelligence_Head\", 1)",
-        "name_male": "PUNK BANDANA HEADBAND",
-        "image_male": "catalog/head/Items.Hard_20_Intelligence_Head_male.jpeg",
-        "name_female": "PUNK BANDANA HEADBAND",
-        "image_female": "catalog/head/Items.Hard_20_Intelligence_Head_female.jpeg"
-    },
-    "Items.Str_30_Cool_Assassin_Head": {
-        "command": "Game.AddToInventory(\"Items.Str_30_Cool_Assassin_Head\", 1)",
-        "name_male": "PUNK BANDANA HEADBAND",
-        "image_male": "catalog/head/Items.Str_30_Cool_Assassin_Head_male.jpeg",
-        "name_female": "PUNK BANDANA HEADBAND",
-        "image_female": "catalog/head/Items.Str_30_Cool_Assassin_Head_female.jpeg"
-    },
     "Items.Balaclava_02_basic_06": {
         "command": "Game.AddToInventory(\"Items.Balaclava_02_basic_06\", 1)",
         "name_male": "REFLECTIVE THERMOACTIVE BALACLAVA",
@@ -1350,13 +1168,6 @@
         "name_female": "REINFORCED-COTTON HEADBAND",
         "image_female": "catalog/head/Items.Scarf_02_basic_02_female.jpeg"
     },
-    "Items.SQ029_River_Romance_Shirt": {
-        "command": "Game.AddToInventory(\"Items.SQ029_River_Romance_Shirt\", 1)",
-        "name_male": "RIVER'S TANK TOP",
-        "image_male": "catalog/head/Items.SQ029_River_Romance_Shirt_male.jpeg",
-        "name_female": "RIVER'S TANK TOP",
-        "image_female": "catalog/head/Items.SQ029_River_Romance_Shirt_female.jpeg"
-    },
     "Items.Helmet_02_old_03": {
         "command": "Game.AddToInventory(\"Items.Helmet_02_old_03\", 1)",
         "name_male": "RUSTY ASSAULT HELMET",
@@ -1378,47 +1189,12 @@
         "name_female": "RUSTY SECURITY HARDHAT",
         "image_female": "catalog/head/Items.Helmet_03_old_02_female.jpeg"
     },
-    "Items.Hard_20_Body_Head": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Body_Head\", 1)",
-        "name_male": "RUSTY SECURITY HARDHAT",
-        "image_male": "catalog/head/Items.Hard_20_Body_Head_male.jpeg",
-        "name_female": "RUSTY SECURITY HARDHAT",
-        "image_female": "catalog/head/Items.Hard_20_Body_Head_female.jpeg"
-    },
-    "Items.Hard_30_BodyTech_Head": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_BodyTech_Head\", 1)",
-        "name_male": "RUSTY SECURITY HARDHAT",
-        "image_male": "catalog/head/Items.Hard_30_BodyTech_Head_male.jpeg",
-        "name_female": "RUSTY SECURITY HARDHAT",
-        "image_female": "catalog/head/Items.Hard_30_BodyTech_Head_female.jpeg"
-    },
-    "Items.Str_10_Tank_Head": {
-        "command": "Game.AddToInventory(\"Items.Str_10_Tank_Head\", 1)",
-        "name_male": "RUSTY SECURITY HARDHAT",
-        "image_male": "catalog/head/Items.Str_10_Tank_Head_male.jpeg",
-        "name_female": "RUSTY SECURITY HARDHAT",
-        "image_female": "catalog/head/Items.Str_10_Tank_Head_female.jpeg"
-    },
-    "Items.Str_5_Tank_Head": {
-        "command": "Game.AddToInventory(\"Items.Str_5_Tank_Head\", 1)",
-        "name_male": "RUSTY SECURITY HARDHAT",
-        "image_male": "catalog/head/Items.Str_5_Tank_Head_male.jpeg",
-        "name_female": "RUSTY SECURITY HARDHAT",
-        "image_female": "catalog/head/Items.Str_5_Tank_Head_female.jpeg"
-    },
     "Items.Balaclava_01_rich_02": {
         "command": "Game.AddToInventory(\"Items.Balaclava_01_rich_02\", 1)",
         "name_male": "SAEKO'S DARKERNET TACTICAL BALACLAVA WITH NANOTUBING",
         "image_male": "catalog/head/Items.Balaclava_01_rich_02_male.jpeg",
         "name_female": "SAEKO'S DARKERNET TACTICAL BALACLAVA WITH NANOTUBING",
         "image_female": "catalog/head/Items.Balaclava_01_rich_02_female.jpeg"
-    },
-    "Items.Proficiency_Scarf_02_rich_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_Scarf_02_rich_01_Crafting\", 1)",
-        "name_male": "SANDY BOA SHOCK-ABSORBENT HEADBAND",
-        "image_male": "catalog/head/Items.Proficiency_Scarf_02_rich_01_Crafting_male.jpeg",
-        "name_female": "SANDY BOA SHOCK-ABSORBENT HEADBAND",
-        "image_female": "catalog/head/Items.Proficiency_Scarf_02_rich_01_Crafting_female.jpeg"
     },
     "Items.Scarf_02_rich_01": {
         "command": "Game.AddToInventory(\"Items.Scarf_02_rich_01\", 1)",
@@ -1490,13 +1266,6 @@
         "name_female": "SOLID STRAW-WOVEN TRILBY",
         "image_female": "catalog/head/Items.Hat_01_basic_02_female.jpeg"
     },
-    "Items.Weak_20_Cool_Head": {
-        "command": "Game.AddToInventory(\"Items.Weak_20_Cool_Head\", 1)",
-        "name_male": "SOLID STRAW-WOVEN TRILBY",
-        "image_male": "catalog/head/Items.Weak_20_Cool_Head_male.jpeg",
-        "name_female": "SOLID STRAW-WOVEN TRILBY",
-        "image_female": "catalog/head/Items.Weak_20_Cool_Head_female.jpeg"
-    },
     "Items.Q203_Spacesuit_Helmet": {
         "command": "Game.AddToInventory(\"Items.Q203_Spacesuit_Helmet\", 1)",
         "name_male": "SPACESUIT HELMET",
@@ -1517,13 +1286,6 @@
         "image_male": "catalog/head/Items.Helmet_04_basic_02_male.jpeg",
         "name_female": "STEEL MICROPLATED KABUTO",
         "image_female": "catalog/head/Items.Helmet_04_basic_02_female.jpeg"
-    },
-    "Items.Proficiency_Helmet_04_basic_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_Helmet_04_basic_02_Crafting\", 1)",
-        "name_male": "STEEL MICROPLATED KABUTO",
-        "image_male": "catalog/head/Items.Proficiency_Helmet_04_basic_02_Crafting_male.jpeg",
-        "name_female": "STEEL MICROPLATED KABUTO",
-        "image_female": "catalog/head/Items.Proficiency_Helmet_04_basic_02_Crafting_female.jpeg"
     },
     "Items.Cap_01_rich_01": {
         "command": "Game.AddToInventory(\"Items.Cap_01_rich_01\", 1)",
@@ -1566,13 +1328,6 @@
         "image_male": "catalog/head/Items.Cap_02_basic_01_male.jpeg",
         "name_female": "STYLISH LEATHER FLAT CAP WITH LIGHT ARMOR LAYER",
         "image_female": "catalog/head/Items.Cap_02_basic_01_female.jpeg"
-    },
-    "Items.Cap_02_basic_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Cap_02_basic_01_Crafting\", 1)",
-        "name_male": "STYLISH LEATHER FLAT CAP WITH LIGHT ARMOR LAYER",
-        "image_male": "catalog/head/Items.Cap_02_basic_01_Crafting_male.jpeg",
-        "name_female": "STYLISH LEATHER FLAT CAP WITH LIGHT ARMOR LAYER",
-        "image_female": "catalog/head/Items.Cap_02_basic_01_Crafting_female.jpeg"
     },
     "Items.Helmet_02_rich_03": {
         "command": "Game.AddToInventory(\"Items.Helmet_02_rich_03\", 1)",
@@ -1644,13 +1399,6 @@
         "name_female": "TEN70 BADA55 POLYCARBONATE BANDANA",
         "image_female": "catalog/head/Items.Scarf_01_rich_01_female.jpeg"
     },
-    "Items.Scarf_01_rich_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Scarf_01_rich_01_Crafting\", 1)",
-        "name_male": "TEN70 BADA55 POLYCARBONATE BANDANA",
-        "image_male": "catalog/head/Items.Scarf_01_rich_01_Crafting_male.jpeg",
-        "name_female": "TEN70 BADA55 POLYCARBONATE BANDANA",
-        "image_female": "catalog/head/Items.Scarf_01_rich_01_Crafting_female.jpeg"
-    },
     "Items.Hat_05_rich_02": {
         "command": "Game.AddToInventory(\"Items.Hat_05_rich_02\", 1)",
         "name_male": "THERMOACTIVE POLYESTER BUCKET HAT",
@@ -1721,20 +1469,6 @@
         "name_female": "UPGRADED FARMER HAT WITH GAUGE",
         "image_female": "catalog/head/Items.Hat_03_basic_02_female.jpeg"
     },
-    "Items.Avg_10_Int_Netrunner_Head": {
-        "command": "Game.AddToInventory(\"Items.Avg_10_Int_Netrunner_Head\", 1)",
-        "name_male": "UPGRADED FARMER HAT WITH GAUGE",
-        "image_male": "catalog/head/Items.Avg_10_Int_Netrunner_Head_male.jpeg",
-        "name_female": "UPGRADED FARMER HAT WITH GAUGE",
-        "image_female": "catalog/head/Items.Avg_10_Int_Netrunner_Head_female.jpeg"
-    },
-    "Items.Hat_03_basic_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Hat_03_basic_02_Crafting\", 1)",
-        "name_male": "UPGRADED FARMER HAT WITH GAUGE",
-        "image_male": "catalog/head/Items.Hat_03_basic_02_Crafting_male.jpeg",
-        "name_female": "UPGRADED FARMER HAT WITH GAUGE",
-        "image_female": "catalog/head/Items.Hat_03_basic_02_Crafting_female.jpeg"
-    },
     "Items.Helmet_02_old_04": {
         "command": "Game.AddToInventory(\"Items.Helmet_02_old_04\", 1)",
         "name_male": "VETERAN'S HELMET",
@@ -1748,13 +1482,6 @@
         "image_male": "catalog/head/Items.Helmet_10_old_01_male.jpeg",
         "name_female": "VINTAGE NETRUNNER HELMET",
         "image_female": "catalog/head/Items.Helmet_10_old_01_female.jpeg"
-    },
-    "Items.VHard_50_CoolRef_Head": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_CoolRef_Head\", 1)",
-        "name_male": "VINTAGE NETRUNNER HELMET",
-        "image_male": "catalog/head/Items.VHard_50_CoolRef_Head_male.jpeg",
-        "name_female": "VINTAGE NETRUNNER HELMET",
-        "image_female": "catalog/head/Items.VHard_50_CoolRef_Head_female.jpeg"
     },
     "Items.Scarf_03_rich_02": {
         "command": "Game.AddToInventory(\"Items.Scarf_03_rich_02\", 1)",
@@ -1825,12 +1552,5 @@
         "image_male": "catalog/head/Items.Helmet_09_old_01_male.jpeg",
         "name_female": "WORN SURPLUS HELMET",
         "image_female": "catalog/head/Items.Helmet_09_old_01_female.jpeg"
-    },
-    "Items.VHard_50_BodyCool_Head": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_BodyCool_Head\", 1)",
-        "name_male": "WORN SURPLUS HELMET",
-        "image_male": "catalog/head/Items.VHard_50_BodyCool_Head_male.jpeg",
-        "name_female": "WORN SURPLUS HELMET",
-        "image_female": "catalog/head/Items.VHard_50_BodyCool_Head_female.jpeg"
     }
 }

@@ -27,9 +27,9 @@ div {
 }
 
 .itemDiv {
-    width: 22.75vw;
+    width: 23vw;
     height: auto;
-    padding: 0.5vw 1vw 0vw 1vw;
+    padding: 0.25vw 0.75vw 0vw 0.75vw;
 }
 
 .image {
@@ -40,6 +40,13 @@ div {
 .slot-button {
     padding: 0.5vw;
     border-radius: 0.5vw;
+}
+
+.loadingScreen {
+    color: white;
+    font-size:xx-large;
+    text-align: center;
+    padding-top: 22vw;
 }
 
 #catalog {

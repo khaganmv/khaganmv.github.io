@@ -29,6 +29,7 @@ const buttons = {
 };
 
 var active = "face";
+var loadingScreen = undefined;
 
 
 
@@ -89,12 +90,21 @@ async function initCatalog() {
     }
 }
 
+function initLoadingScreen() {
+    const catalog = document.getElementById("catalog");
+    loadingScreen = document.createElement("div");
+    loadingScreen.textContent = "Loading...";
+    loadingScreen.className = "loadingScreen";
+    catalog.appendChild(loadingScreen);
+}
+
 function initSubcatalogs() {
     const catalog = document.getElementById("catalog");
 
     for (var slot in subcatalogs) {
         const subcatalog = document.createElement("div");
         subcatalog.className = "subcatalog";
+        subcatalog.style.display = "none";
         subcatalogs[slot] = subcatalog;
 
         for (var item in jsonCatalog[slot]) {
@@ -104,12 +114,13 @@ function initSubcatalogs() {
 
             itemDiv.className = "itemDiv";
             textDiv.textContent = jsonCatalog[slot][item]["command"];
+            // textDiv.textContent = jsonCatalog[slot][item]["name_male"];
             textDiv.style.color = "white";
             textDiv.style.display = "none";
             img.src = jsonCatalog[slot][item]["image_male"];
             img.className = "image";
 
-            itemDiv.addEventListener("click", () => {
+            img.addEventListener("click", () => {
                 if (textDiv.style.display === "none") {
                     textDiv.style.display = "initial";
                 } else {
@@ -120,10 +131,6 @@ function initSubcatalogs() {
             itemDiv.appendChild(img);
             itemDiv.appendChild(textDiv);
             subcatalog.appendChild(itemDiv);
-        }
-
-        if (slot !== "face") {
-            subcatalog.style.display = "none";
         }
 
         catalog.appendChild(subcatalog);
@@ -154,21 +161,31 @@ function initButtons() {
         const slot = buttonToSlot(button.textContent);
         buttons[slot] = button;
     }
-
-    for (var i = 0; i < footer.children.length; i++) {
-        const button = footer.children[i];
-
-        button.addEventListener("click", () => {
-            setActiveSubcatalog(button);
-        });
-    }
 }
 
 async function main() {
     await initCatalog();
+    initLoadingScreen();
     initSubcatalogs();
     initButtons();
-    buttons[active].classList.toggle("activeButton");
+    
+    Promise
+    .all(Array.from(document.images)
+    .filter(img => !img.complete)
+    .map(img => new Promise(resolve => { img.onload = img.onerror = resolve; })))
+    .then(() => {
+        loadingScreen.style.display = "none";
+        subcatalogs[active].style.display = "flex";
+        buttons[active].classList.toggle("activeButton");
+
+        for (var i = 0; i < footer.children.length; i++) {
+            const button = footer.children[i];
+    
+            button.addEventListener("click", () => {
+                setActiveSubcatalog(button);
+            });
+        }
+    });
 }
 
 

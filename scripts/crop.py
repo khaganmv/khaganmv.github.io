@@ -1,9 +1,10 @@
 import os
 from PIL import Image
 import threading
+import sys
 
 
-SLOT = "face"
+SLOT = sys.argv[1]
 DIR = "catalog/" + SLOT + "/"
 
 
