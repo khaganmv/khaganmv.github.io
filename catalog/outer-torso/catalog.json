@@ -13,13 +13,6 @@
         "name_female": "5HI3LD SUPERB COMBATWEAVE ARAMID BREASTPLATE",
         "image_female": "catalog/outer-torso/Items.Vest_13_rich_04_female.jpeg"
     },
-    "Items.Vest_13_rich_04_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Vest_13_rich_04_Crafting\", 1)",
-        "name_male": "5HI3LD SUPERB COMBATWEAVE ARAMID BREASTPLATE",
-        "image_male": "catalog/outer-torso/Items.Vest_13_rich_04_Crafting_male.jpeg",
-        "name_female": "5HI3LD SUPERB COMBATWEAVE ARAMID BREASTPLATE",
-        "image_female": "catalog/outer-torso/Items.Vest_13_rich_04_Crafting_female.jpeg"
-    },
     "Items.Jacket_17_old_03": {
         "command": "Game.AddToInventory(\"Items.Jacket_17_old_03\", 1)",
         "name_male": "6TH STREET ARMOR-PLATED COMBAT JACKET",
@@ -125,13 +118,6 @@
         "name_female": "AMETHYSPEED NANOPLASTIC RALLY BOLERO",
         "image_female": "catalog/outer-torso/Items.Jacket_10_basic_01_female.jpeg"
     },
-    "Items.Weak_20_Cool_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Weak_20_Cool_OuterTorso\", 1)",
-        "name_male": "AMETHYSPEED NANOPLASTIC RALLY BOLERO",
-        "image_male": "catalog/outer-torso/Items.Weak_20_Cool_OuterTorso_male.jpeg",
-        "name_female": "AMETHYSPEED NANOPLASTIC RALLY BOLERO",
-        "image_female": "catalog/outer-torso/Items.Weak_20_Cool_OuterTorso_female.jpeg"
-    },
     "Items.Vest_18_rich_02": {
         "command": "Game.AddToInventory(\"Items.Vest_18_rich_02\", 1)",
         "name_male": "ANHELO BLANCO PUNCTURE-RESISTANT WESTERN FRINGE VEST",
@@ -223,13 +209,6 @@
         "name_female": "AQUA UNIVERSE LUXE ARAMID-WEAVE SHIRT",
         "image_female": "catalog/outer-torso/Items.LooseShirt_02_rich_01_female.jpeg"
     },
-    "Items.Proficiency_LooseShirt_02_rich_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_LooseShirt_02_rich_01_Crafting\", 1)",
-        "name_male": "AQUA UNIVERSE LUXE ARAMID-WEAVE SHIRT",
-        "image_male": "catalog/outer-torso/Items.Proficiency_LooseShirt_02_rich_01_Crafting_male.jpeg",
-        "name_female": "AQUA UNIVERSE LUXE ARAMID-WEAVE SHIRT",
-        "image_female": "catalog/outer-torso/Items.Proficiency_LooseShirt_02_rich_01_Crafting_female.jpeg"
-    },
     "Items.Vest_22_basic_04": {
         "command": "Game.AddToInventory(\"Items.Vest_22_basic_04\", 1)",
         "name_male": "ARAMID COMPOSITE BALLISTIC VEST",
@@ -307,13 +286,6 @@
         "name_female": "ARASAKA ULTRALIGHT HYBRID TACTICAL HARNESS",
         "image_female": "catalog/outer-torso/Items.Vest_06_rich_03_female.jpeg"
     },
-    "Items.VHard_50_IntRef_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_IntRef_OuterTorso\", 1)",
-        "name_male": "ARASAKA ULTRALIGHT HYBRID TACTICAL HARNESS",
-        "image_male": "catalog/outer-torso/Items.VHard_50_IntRef_OuterTorso_male.jpeg",
-        "name_female": "ARASAKA ULTRALIGHT HYBRID TACTICAL HARNESS",
-        "image_female": "catalog/outer-torso/Items.VHard_50_IntRef_OuterTorso_female.jpeg"
-    },
     "Items.Jacket_14_rich_02": {
         "command": "Game.AddToInventory(\"Items.Jacket_14_rich_02\", 1)",
         "name_male": "ARCTIC LYCHEE BOLERO TUNGSTEN MIROPLATED BOMBER",
@@ -327,13 +299,6 @@
         "image_male": "catalog/outer-torso/Items.Vest_21_basic_02_male.jpeg",
         "name_female": "ARCTIC QUICK-RELEASE TAC VEST",
         "image_female": "catalog/outer-torso/Items.Vest_21_basic_02_female.jpeg"
-    },
-    "Items.VHard_50_TechCool_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_TechCool_OuterTorso\", 1)",
-        "name_male": "ARCTIC QUICK-RELEASE TAC VEST",
-        "image_male": "catalog/outer-torso/Items.VHard_50_TechCool_OuterTorso_male.jpeg",
-        "name_female": "ARCTIC QUICK-RELEASE TAC VEST",
-        "image_female": "catalog/outer-torso/Items.VHard_50_TechCool_OuterTorso_female.jpeg"
     },
     "Items.Vest_21_basic_04": {
         "command": "Game.AddToInventory(\"Items.Vest_21_basic_04\", 1)",
@@ -397,20 +362,6 @@
         "image_male": "catalog/outer-torso/Items.Jacket_03_basic_01_male.jpeg",
         "name_female": "AT-AK COMPOSITE-LINED EDGERUNNER",
         "image_female": "catalog/outer-torso/Items.Jacket_03_basic_01_female.jpeg"
-    },
-    "Items.Hard_30_IntBody_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_IntBody_OuterTorso\", 1)",
-        "name_male": "AT-AK COMPOSITE-LINED EDGERUNNER",
-        "image_male": "catalog/outer-torso/Items.Hard_30_IntBody_OuterTorso_male.jpeg",
-        "name_female": "AT-AK COMPOSITE-LINED EDGERUNNER",
-        "image_female": "catalog/outer-torso/Items.Hard_30_IntBody_OuterTorso_female.jpeg"
-    },
-    "Items.Weak_30_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Weak_30_OuterTorso\", 1)",
-        "name_male": "AT-AK COMPOSITE-LINED EDGERUNNER",
-        "image_male": "catalog/outer-torso/Items.Weak_30_OuterTorso_male.jpeg",
-        "name_female": "AT-AK COMPOSITE-LINED EDGERUNNER",
-        "image_female": "catalog/outer-torso/Items.Weak_30_OuterTorso_female.jpeg"
     },
     "Items.Jacket_10_rich_01": {
         "command": "Game.AddToInventory(\"Items.Jacket_10_rich_01\", 1)",
@@ -923,13 +874,6 @@
         "name_female": "CYAN MULTIRESIST EVENING JACKET",
         "image_female": "catalog/outer-torso/Items.FormalJacket_04_basic_02_female.jpeg"
     },
-    "Items.FormalJacket_04_basic_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.FormalJacket_04_basic_02_Crafting\", 1)",
-        "name_male": "CYAN MULTIRESIST EVENING JACKET",
-        "image_male": "catalog/outer-torso/Items.FormalJacket_04_basic_02_Crafting_male.jpeg",
-        "name_female": "CYAN MULTIRESIST EVENING JACKET",
-        "image_female": "catalog/outer-torso/Items.FormalJacket_04_basic_02_Crafting_female.jpeg"
-    },
     "Items.Vest_11_rich_01": {
         "command": "Game.AddToInventory(\"Items.Vest_11_rich_01\", 1)",
         "name_male": "CYAN THERMOSET COMBAT CAMO VEST",
@@ -972,13 +916,6 @@
         "name_female": "DEADLY LAGOON ARMORED SYN-SILK POZER-JACKET",
         "image_female": "catalog/outer-torso/Items.Jacket_17_rich_06_female.jpeg"
     },
-    "Items.Jacket_17_rich_06_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Jacket_17_rich_06_Crafting\", 1)",
-        "name_male": "DEADLY LAGOON ARMORED SYN-SILK POZER-JACKET",
-        "image_male": "catalog/outer-torso/Items.Jacket_17_rich_06_Crafting_male.jpeg",
-        "name_female": "DEADLY LAGOON ARMORED SYN-SILK POZER-JACKET",
-        "image_female": "catalog/outer-torso/Items.Jacket_17_rich_06_Crafting_female.jpeg"
-    },
     "Items.Vest_06_rich_02": {
         "command": "Game.AddToInventory(\"Items.Vest_06_rich_02\", 1)",
         "name_male": "DECADENCIA VERDE BULLETPROOF TACTICAL HARNESS",
@@ -1007,13 +944,6 @@
         "name_female": "DENIM MESH WESTERN SHIRT",
         "image_female": "catalog/outer-torso/Items.LooseShirt_02_basic_02_female.jpeg"
     },
-    "Items.Normal_20_Melee_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Melee_OuterTorso\", 1)",
-        "name_male": "DENIM MESH WESTERN SHIRT",
-        "image_male": "catalog/outer-torso/Items.Normal_20_Melee_OuterTorso_male.jpeg",
-        "name_female": "DENIM MESH WESTERN SHIRT",
-        "image_female": "catalog/outer-torso/Items.Normal_20_Melee_OuterTorso_female.jpeg"
-    },
     "Items.Coat_06_basic_03": {
         "command": "Game.AddToInventory(\"Items.Coat_06_basic_03\", 1)",
         "name_male": "DENIM SILKIE FINISHED WITH WATER-GLASS FIBER",
@@ -1034,13 +964,6 @@
         "image_male": "catalog/outer-torso/Items.Jacket_01_rich_01_male.jpeg",
         "name_female": "DENKI-SHIN THERMOSET HYBRID CRYSTALJOCK BOMBER",
         "image_female": "catalog/outer-torso/Items.Jacket_01_rich_01_female.jpeg"
-    },
-    "Items.Jacket_01_rich_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Jacket_01_rich_01_Crafting\", 1)",
-        "name_male": "DENKI-SHIN THERMOSET HYBRID CRYSTALJOCK BOMBER",
-        "image_male": "catalog/outer-torso/Items.Jacket_01_rich_01_Crafting_male.jpeg",
-        "name_female": "DENKI-SHIN THERMOSET HYBRID CRYSTALJOCK BOMBER",
-        "image_female": "catalog/outer-torso/Items.Jacket_01_rich_01_Crafting_female.jpeg"
     },
     "Items.Vest_21_old_02": {
         "command": "Game.AddToInventory(\"Items.Vest_21_old_02\", 1)",
@@ -1174,13 +1097,6 @@
         "image_male": "catalog/outer-torso/Items.FormalJacket_02_basic_02_male.jpeg",
         "name_female": "DURABLE SYNSILK BLAZER",
         "image_female": "catalog/outer-torso/Items.FormalJacket_02_basic_02_female.jpeg"
-    },
-    "Items.FormalJacket_02_basic_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.FormalJacket_02_basic_02_Crafting\", 1)",
-        "name_male": "DURABLE SYNSILK BLAZER",
-        "image_male": "catalog/outer-torso/Items.FormalJacket_02_basic_02_Crafting_male.jpeg",
-        "name_female": "DURABLE SYNSILK BLAZER",
-        "image_female": "catalog/outer-torso/Items.FormalJacket_02_basic_02_Crafting_female.jpeg"
     },
     "Items.Coat_03_basic_01": {
         "command": "Game.AddToInventory(\"Items.Coat_03_basic_01\", 1)",
@@ -1511,13 +1427,6 @@
         "name_female": "GLOSSY 2-PIECE WITH WATERPROOF SEAMS",
         "image_female": "catalog/outer-torso/Items.FormalJacket_06_basic_05_female.jpeg"
     },
-    "Items.VHard_50_CoolRef_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_CoolRef_OuterTorso\", 1)",
-        "name_male": "GLOSSY 2-PIECE WITH WATERPROOF SEAMS",
-        "image_male": "catalog/outer-torso/Items.VHard_50_CoolRef_OuterTorso_male.jpeg",
-        "name_female": "GLOSSY 2-PIECE WITH WATERPROOF SEAMS",
-        "image_female": "catalog/outer-torso/Items.VHard_50_CoolRef_OuterTorso_female.jpeg"
-    },
     "Items.Jacket_09_rich_01": {
         "command": "Game.AddToInventory(\"Items.Jacket_09_rich_01\", 1)",
         "name_male": "GOLDEN AGE TRILAYER COMPOSITE MOTORCYCLE JACKET",
@@ -1553,20 +1462,6 @@
         "name_female": "GRAFFITI CARBON-COMPOSITE EDGERUNNER",
         "image_female": "catalog/outer-torso/Items.Jacket_03_basic_02_female.jpeg"
     },
-    "Items.Hard_20_Intelligence_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Intelligence_OuterTorso\", 1)",
-        "name_male": "GRAFFITI CARBON-COMPOSITE EDGERUNNER",
-        "image_male": "catalog/outer-torso/Items.Hard_20_Intelligence_OuterTorso_male.jpeg",
-        "name_female": "GRAFFITI CARBON-COMPOSITE EDGERUNNER",
-        "image_female": "catalog/outer-torso/Items.Hard_20_Intelligence_OuterTorso_female.jpeg"
-    },
-    "Items.Str_30_Cool_Assassin_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Str_30_Cool_Assassin_OuterTorso\", 1)",
-        "name_male": "GRAFFITI CARBON-COMPOSITE EDGERUNNER",
-        "image_male": "catalog/outer-torso/Items.Str_30_Cool_Assassin_OuterTorso_male.jpeg",
-        "name_female": "GRAFFITI CARBON-COMPOSITE EDGERUNNER",
-        "image_female": "catalog/outer-torso/Items.Str_30_Cool_Assassin_OuterTorso_female.jpeg"
-    },
     "Items.Vest_07_old_03": {
         "command": "Game.AddToInventory(\"Items.Vest_07_old_03\", 1)",
         "name_male": "GRAFFITI DETACHABLE COLLAR",
@@ -1601,13 +1496,6 @@
         "image_male": "catalog/outer-torso/Items.Dress_01_rich_03_male.jpeg",
         "name_female": "GREEN VIPER DOUBLE-NANOWEAVE PENCIL DRESS",
         "image_female": "catalog/outer-torso/Items.Dress_01_rich_03_female.jpeg"
-    },
-    "Items.Dress_01_rich_03_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Dress_01_rich_03_Crafting\", 1)",
-        "name_male": "GREEN VIPER DOUBLE-NANOWEAVE PENCIL DRESS",
-        "image_male": "catalog/outer-torso/Items.Dress_01_rich_03_Crafting_male.jpeg",
-        "name_female": "GREEN VIPER DOUBLE-NANOWEAVE PENCIL DRESS",
-        "image_female": "catalog/outer-torso/Items.Dress_01_rich_03_Crafting_female.jpeg"
     },
     "Items.Coat_05_rich_01": {
         "command": "Game.AddToInventory(\"Items.Coat_05_rich_01\", 1)",
@@ -1735,13 +1623,6 @@
         "name_female": "HEBI TSUKAI CASHMERE-NANOFIBER SHIRT",
         "image_female": "catalog/outer-torso/Items.LooseShirt_01_rich_02_female.jpeg"
     },
-    "Items.LooseShirt_01_rich_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.LooseShirt_01_rich_02_Crafting\", 1)",
-        "name_male": "HEBI TSUKAI CASHMERE-NANOFIBER SHIRT",
-        "image_male": "catalog/outer-torso/Items.LooseShirt_01_rich_02_Crafting_male.jpeg",
-        "name_female": "HEBI TSUKAI CASHMERE-NANOFIBER SHIRT",
-        "image_female": "catalog/outer-torso/Items.LooseShirt_01_rich_02_Crafting_female.jpeg"
-    },
     "Items.Dress_03_rich_06": {
         "command": "Game.AddToInventory(\"Items.Dress_03_rich_06\", 1)",
         "name_male": "HIGH-UTILITY DRESS WITH ANTI-FRAG INSERTS",
@@ -1847,26 +1728,12 @@
         "name_female": "INNER FLAME FLAME-RESISTANT ROCKERJACK",
         "image_female": "catalog/outer-torso/Items.Jacket_06_basic_01_female.jpeg"
     },
-    "Items.Proficiency_Jacket_06_basic_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_Jacket_06_basic_01_Crafting\", 1)",
-        "name_male": "INNER FLAME FLAME-RESISTANT ROCKERJACK",
-        "image_male": "catalog/outer-torso/Items.Proficiency_Jacket_06_basic_01_Crafting_male.jpeg",
-        "name_female": "INNER FLAME FLAME-RESISTANT ROCKERJACK",
-        "image_female": "catalog/outer-torso/Items.Proficiency_Jacket_06_basic_01_Crafting_female.jpeg"
-    },
     "Items.Jacket_20_basic_07": {
         "command": "Game.AddToInventory(\"Items.Jacket_20_basic_07\", 1)",
         "name_male": "JACKETCEPTION DUOLAYER NANOWEAVE FLIGHT JACKET",
         "image_male": "catalog/outer-torso/Items.Jacket_20_basic_07_male.jpeg",
         "name_female": "JACKETCEPTION DUOLAYER NANOWEAVE FLIGHT JACKET",
         "image_female": "catalog/outer-torso/Items.Jacket_20_basic_07_female.jpeg"
-    },
-    "Items.sq032_dogtags": {
-        "command": "Game.AddToInventory(\"Items.sq032_dogtags\", 1)",
-        "name_male": "JOHNNY'S DOG TAGS",
-        "image_male": "catalog/outer-torso/Items.sq032_dogtags_male.jpeg",
-        "name_female": "JOHNNY'S DOG TAGS",
-        "image_female": "catalog/outer-torso/Items.sq032_dogtags_female.jpeg"
     },
     "Items.Vest_17_basic_01": {
         "command": "Game.AddToInventory(\"Items.Vest_17_basic_01\", 1)",
@@ -2043,13 +1910,6 @@
         "name_female": "LIGHT CHERRY JINN ANTI-SHRAPNEL DENIM JACKET",
         "image_female": "catalog/outer-torso/Items.Jacket_12_rich_02_female.jpeg"
     },
-    "Items.Q301_Nomad_MA_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Q301_Nomad_MA_OuterTorso\", 1)",
-        "name_male": "LIGHT CHERRY JINN ANTI-SHRAPNEL DENIM JACKET",
-        "image_male": "catalog/outer-torso/Items.Q301_Nomad_MA_OuterTorso_male.jpeg",
-        "name_female": "LIGHT CHERRY JINN ANTI-SHRAPNEL DENIM JACKET",
-        "image_female": "catalog/outer-torso/Items.Q301_Nomad_MA_OuterTorso_female.jpeg"
-    },
     "Items.Jacket_13_basic_03": {
         "command": "Game.AddToInventory(\"Items.Jacket_13_basic_03\", 1)",
         "name_male": "LIGHT SPIRIT ANIMAL CHEM-RESISTANT BOMBER",
@@ -2070,13 +1930,6 @@
         "image_male": "catalog/outer-torso/Items.Jumpsuit_02_rich_03_male.jpeg",
         "name_female": "LIGHTNING RIDER REINFORCED RACING SUIT",
         "image_female": "catalog/outer-torso/Items.Jumpsuit_02_rich_03_female.jpeg"
-    },
-    "Items.Proficiency_Jumpsuit_02_rich_03_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_Jumpsuit_02_rich_03_Crafting\", 1)",
-        "name_male": "LIGHTNING RIDER REINFORCED RACING SUIT",
-        "image_male": "catalog/outer-torso/Items.Proficiency_Jumpsuit_02_rich_03_Crafting_male.jpeg",
-        "name_female": "LIGHTNING RIDER REINFORCED RACING SUIT",
-        "image_female": "catalog/outer-torso/Items.Proficiency_Jumpsuit_02_rich_03_Crafting_female.jpeg"
     },
     "Items.Dress_03_basic_04": {
         "command": "Game.AddToInventory(\"Items.Dress_03_basic_04\", 1)",
@@ -2140,27 +1993,6 @@
         "image_male": "catalog/outer-torso/Items.Jacket_19_basic_04_male.jpeg",
         "name_female": "LUMINESCENT PUNK JACKET",
         "image_female": "catalog/outer-torso/Items.Jacket_19_basic_04_female.jpeg"
-    },
-    "Items.Jacket_19_basic_04_DLC_Legendary": {
-        "command": "Game.AddToInventory(\"Items.Jacket_19_basic_04_DLC_Legendary\", 1)",
-        "name_male": "LUMINESCENT PUNK JACKET",
-        "image_male": "catalog/outer-torso/Items.Jacket_19_basic_04_DLC_Legendary_male.jpeg",
-        "name_female": "LUMINESCENT PUNK JACKET",
-        "image_female": "catalog/outer-torso/Items.Jacket_19_basic_04_DLC_Legendary_female.jpeg"
-    },
-    "Items.Jacket_19_basic_04_Crafted": {
-        "command": "Game.AddToInventory(\"Items.Jacket_19_basic_04_Crafted\", 1)",
-        "name_male": "LUMINESCENT PUNK JACKET",
-        "image_male": "catalog/outer-torso/Items.Jacket_19_basic_04_Crafted_male.jpeg",
-        "name_female": "LUMINESCENT PUNK JACKET",
-        "image_female": "catalog/outer-torso/Items.Jacket_19_basic_04_Crafted_female.jpeg"
-    },
-    "Items.Jacket_19_basic_04_DLC_Epic": {
-        "command": "Game.AddToInventory(\"Items.Jacket_19_basic_04_DLC_Epic\", 1)",
-        "name_male": "LUMINESCENT PUNK JACKET",
-        "image_male": "catalog/outer-torso/Items.Jacket_19_basic_04_DLC_Epic_male.jpeg",
-        "name_female": "LUMINESCENT PUNK JACKET",
-        "image_female": "catalog/outer-torso/Items.Jacket_19_basic_04_DLC_Epic_female.jpeg"
     },
     "Items.Coat_05_old_02": {
         "command": "Game.AddToInventory(\"Items.Coat_05_old_02\", 1)",
@@ -2232,13 +2064,6 @@
         "name_female": "MELTING CERAMIC MEMBRANE POZER-JACKET",
         "image_female": "catalog/outer-torso/Items.Jacket_17_basic_04_female.jpeg"
     },
-    "Items.sq030_diving_suit_male": {
-        "command": "Game.AddToInventory(\"Items.sq030_diving_suit_male\", 1)",
-        "name_male": "MEN'S DIVING SUIT  [BROKEN]",
-        "image_male": "catalog/outer-torso/Items.sq030_diving_suit_male_male.jpeg",
-        "name_female": "MEN'S DIVING SUIT  [BROKEN]",
-        "image_female": "catalog/outer-torso/Items.sq030_diving_suit_male_female.jpeg"
-    },
     "Items.Jacket_08_old_02": {
         "command": "Game.AddToInventory(\"Items.Jacket_08_old_02\", 1)",
         "name_male": "MICROPLATED PUNK SHORT-SLEEVE JACKET",
@@ -2259,13 +2084,6 @@
         "image_male": "catalog/outer-torso/Items.Jacket_10_basic_02_male.jpeg",
         "name_female": "MIDORI TORA STURDY RALLY BOLERO",
         "image_female": "catalog/outer-torso/Items.Jacket_10_basic_02_female.jpeg"
-    },
-    "Items.Hard_30_Reflex_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_Reflex_OuterTorso\", 1)",
-        "name_male": "MIDORI TORA STURDY RALLY BOLERO",
-        "image_male": "catalog/outer-torso/Items.Hard_30_Reflex_OuterTorso_male.jpeg",
-        "name_female": "MIDORI TORA STURDY RALLY BOLERO",
-        "image_female": "catalog/outer-torso/Items.Hard_30_Reflex_OuterTorso_female.jpeg"
     },
     "Items.Jacket_20_basic_02": {
         "command": "Game.AddToInventory(\"Items.Jacket_20_basic_02\", 1)",
@@ -2337,33 +2155,12 @@
         "name_female": "MILITECH ULTRALIGHT ARAMID BREASTPLATE",
         "image_female": "catalog/outer-torso/Items.Vest_13_basic_01_female.jpeg"
     },
-    "Items.Q301_Corpo_MA_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Q301_Corpo_MA_OuterTorso\", 1)",
-        "name_male": "MILITECH ULTRALIGHT ARAMID BREASTPLATE",
-        "image_male": "catalog/outer-torso/Items.Q301_Corpo_MA_OuterTorso_male.jpeg",
-        "name_female": "MILITECH ULTRALIGHT ARAMID BREASTPLATE",
-        "image_female": "catalog/outer-torso/Items.Q301_Corpo_MA_OuterTorso_female.jpeg"
-    },
-    "Items.Q301_Corpo_WA_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Q301_Corpo_WA_OuterTorso\", 1)",
-        "name_male": "MILITECH ULTRALIGHT ARAMID BREASTPLATE",
-        "image_male": "catalog/outer-torso/Items.Q301_Corpo_WA_OuterTorso_male.jpeg",
-        "name_female": "MILITECH ULTRALIGHT ARAMID BREASTPLATE",
-        "image_female": "catalog/outer-torso/Items.Q301_Corpo_WA_OuterTorso_female.jpeg"
-    },
     "Items.Coat_04_rich_02": {
         "command": "Game.AddToInventory(\"Items.Coat_04_rich_02\", 1)",
         "name_male": "MILKY GOLD TRENCH COAT WITH BULLETPROOF TRIWEAVE",
         "image_male": "catalog/outer-torso/Items.Coat_04_rich_02_male.jpeg",
         "name_female": "MILKY GOLD TRENCH COAT WITH BULLETPROOF TRIWEAVE",
         "image_female": "catalog/outer-torso/Items.Coat_04_rich_02_female.jpeg"
-    },
-    "Items.Coat_04_rich_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Coat_04_rich_02_Crafting\", 1)",
-        "name_male": "MILKY GOLD TRENCH COAT WITH BULLETPROOF TRIWEAVE",
-        "image_male": "catalog/outer-torso/Items.Coat_04_rich_02_Crafting_male.jpeg",
-        "name_female": "MILKY GOLD TRENCH COAT WITH BULLETPROOF TRIWEAVE",
-        "image_female": "catalog/outer-torso/Items.Coat_04_rich_02_Crafting_female.jpeg"
     },
     "Items.Jacket_11_basic_01": {
         "command": "Game.AddToInventory(\"Items.Jacket_11_basic_01\", 1)",
@@ -2378,13 +2175,6 @@
         "image_male": "catalog/outer-torso/Items.Jacket_25_rich_05_male.jpeg",
         "name_female": "MINIMALIST BOLERO BLAZER",
         "image_female": "catalog/outer-torso/Items.Jacket_25_rich_05_female.jpeg"
-    },
-    "Items.VHard_50_RefTech_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_RefTech_OuterTorso\", 1)",
-        "name_male": "MODULAR SELF-EXTINGUISHING BALLISTIC VEST",
-        "image_male": "catalog/outer-torso/Items.VHard_50_RefTech_OuterTorso_male.jpeg",
-        "name_female": "MODULAR SELF-EXTINGUISHING BALLISTIC VEST",
-        "image_female": "catalog/outer-torso/Items.VHard_50_RefTech_OuterTorso_female.jpeg"
     },
     "Items.Vest_22_basic_01": {
         "command": "Game.AddToInventory(\"Items.Vest_22_basic_01\", 1)",
@@ -2477,27 +2267,6 @@
         "name_female": "MULTILAYERED SYN-LEATHER DELTAJOCK JACKET",
         "image_female": "catalog/outer-torso/Items.Jacket_20_basic_01_female.jpeg"
     },
-    "Items.Jacket_20_basic_01_DLC_Epic": {
-        "command": "Game.AddToInventory(\"Items.Jacket_20_basic_01_DLC_Epic\", 1)",
-        "name_male": "MULTILAYERED SYN-LEATHER DELTAJOCK JACKET",
-        "image_male": "catalog/outer-torso/Items.Jacket_20_basic_01_DLC_Epic_male.jpeg",
-        "name_female": "MULTILAYERED SYN-LEATHER DELTAJOCK JACKET",
-        "image_female": "catalog/outer-torso/Items.Jacket_20_basic_01_DLC_Epic_female.jpeg"
-    },
-    "Items.Jacket_20_basic_01_DLC_Legendary": {
-        "command": "Game.AddToInventory(\"Items.Jacket_20_basic_01_DLC_Legendary\", 1)",
-        "name_male": "MULTILAYERED SYN-LEATHER DELTAJOCK JACKET",
-        "image_male": "catalog/outer-torso/Items.Jacket_20_basic_01_DLC_Legendary_male.jpeg",
-        "name_female": "MULTILAYERED SYN-LEATHER DELTAJOCK JACKET",
-        "image_female": "catalog/outer-torso/Items.Jacket_20_basic_01_DLC_Legendary_female.jpeg"
-    },
-    "Items.Jacket_20_basic_01_Crafted": {
-        "command": "Game.AddToInventory(\"Items.Jacket_20_basic_01_Crafted\", 1)",
-        "name_male": "MULTILAYERED SYN-LEATHER DELTAJOCK JACKET",
-        "image_male": "catalog/outer-torso/Items.Jacket_20_basic_01_Crafted_male.jpeg",
-        "name_female": "MULTILAYERED SYN-LEATHER DELTAJOCK JACKET",
-        "image_female": "catalog/outer-torso/Items.Jacket_20_basic_01_Crafted_female.jpeg"
-    },
     "Items.Vest_24_basic_05": {
         "command": "Game.AddToInventory(\"Items.Vest_24_basic_05\", 1)",
         "name_male": "MULTIPURPOSE UTILITY CHEST HOLSTER",
@@ -2567,34 +2336,6 @@
         "image_male": "catalog/outer-torso/Items.Vest_03_basic_01_male.jpeg",
         "name_female": "NCPD REINFORCED BALLISTIC VEST",
         "image_female": "catalog/outer-torso/Items.Vest_03_basic_01_female.jpeg"
-    },
-    "Items.Hard_20_Body_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Body_OuterTorso\", 1)",
-        "name_male": "NCPD REINFORCED BALLISTIC VEST",
-        "image_male": "catalog/outer-torso/Items.Hard_20_Body_OuterTorso_male.jpeg",
-        "name_female": "NCPD REINFORCED BALLISTIC VEST",
-        "image_female": "catalog/outer-torso/Items.Hard_20_Body_OuterTorso_female.jpeg"
-    },
-    "Items.Hard_30_BodyTech_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_BodyTech_OuterTorso\", 1)",
-        "name_male": "NCPD REINFORCED BALLISTIC VEST",
-        "image_male": "catalog/outer-torso/Items.Hard_30_BodyTech_OuterTorso_male.jpeg",
-        "name_female": "NCPD REINFORCED BALLISTIC VEST",
-        "image_female": "catalog/outer-torso/Items.Hard_30_BodyTech_OuterTorso_female.jpeg"
-    },
-    "Items.Str_10_Tank_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Str_10_Tank_OuterTorso\", 1)",
-        "name_male": "NCPD REINFORCED BALLISTIC VEST",
-        "image_male": "catalog/outer-torso/Items.Str_10_Tank_OuterTorso_male.jpeg",
-        "name_female": "NCPD REINFORCED BALLISTIC VEST",
-        "image_female": "catalog/outer-torso/Items.Str_10_Tank_OuterTorso_female.jpeg"
-    },
-    "Items.Str_5_Tank_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Str_5_Tank_OuterTorso\", 1)",
-        "name_male": "NCPD REINFORCED BALLISTIC VEST",
-        "image_male": "catalog/outer-torso/Items.Str_5_Tank_OuterTorso_male.jpeg",
-        "name_female": "NCPD REINFORCED BALLISTIC VEST",
-        "image_female": "catalog/outer-torso/Items.Str_5_Tank_OuterTorso_female.jpeg"
     },
     "Items.Jacket_11_rich_01": {
         "command": "Game.AddToInventory(\"Items.Jacket_11_rich_01\", 1)",
@@ -2679,13 +2420,6 @@
         "image_male": "catalog/outer-torso/Items.Vest_21_rich_01_male.jpeg",
         "name_female": "OFFICIAL BARGHEST TAC VEST",
         "image_female": "catalog/outer-torso/Items.Vest_21_rich_01_female.jpeg"
-    },
-    "Items.VHard_50_BodyCool_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_BodyCool_OuterTorso\", 1)",
-        "name_male": "OFFICIAL BARGHEST TAC VEST",
-        "image_male": "catalog/outer-torso/Items.VHard_50_BodyCool_OuterTorso_male.jpeg",
-        "name_female": "OFFICIAL BARGHEST TAC VEST",
-        "image_female": "catalog/outer-torso/Items.VHard_50_BodyCool_OuterTorso_female.jpeg"
     },
     "Items.Dress_03_rich_03": {
         "command": "Game.AddToInventory(\"Items.Dress_03_rich_03\", 1)",
@@ -2897,13 +2631,6 @@
         "name_female": "POLYAMIDE JUMPSUIT",
         "image_female": "catalog/outer-torso/Items.Jumpsuit_01_basic_02_female.jpeg"
     },
-    "Items.Avg_10_Int_Netrunner_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Avg_10_Int_Netrunner_OuterTorso\", 1)",
-        "name_male": "POLYAMIDE JUMPSUIT",
-        "image_male": "catalog/outer-torso/Items.Avg_10_Int_Netrunner_OuterTorso_male.jpeg",
-        "name_female": "POLYAMIDE JUMPSUIT",
-        "image_female": "catalog/outer-torso/Items.Avg_10_Int_Netrunner_OuterTorso_female.jpeg"
-    },
     "Items.Jumpsuit_01_old_03": {
         "command": "Game.AddToInventory(\"Items.Jumpsuit_01_old_03\", 1)",
         "name_male": "POLYAMIDE-BLEND JUMPSUIT WITH MICROMESH",
@@ -2938,13 +2665,6 @@
         "image_male": "catalog/outer-torso/Items.Techie_01_Set_Vest_male.jpeg",
         "name_female": "POLYCARBONATE NANOWEAVE TECHIE HARNESS",
         "image_female": "catalog/outer-torso/Items.Techie_01_Set_Vest_female.jpeg"
-    },
-    "Items.Proficiency_Vest_18_basic_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_Vest_18_basic_01_Crafting\", 1)",
-        "name_male": "POLYCARBONATE WESTERN FRINGE VEST",
-        "image_male": "catalog/outer-torso/Items.Proficiency_Vest_18_basic_01_Crafting_male.jpeg",
-        "name_female": "POLYCARBONATE WESTERN FRINGE VEST",
-        "image_female": "catalog/outer-torso/Items.Proficiency_Vest_18_basic_01_Crafting_female.jpeg"
     },
     "Items.Vest_18_basic_01": {
         "command": "Game.AddToInventory(\"Items.Vest_18_basic_01\", 1)",
@@ -3001,13 +2721,6 @@
         "image_male": "catalog/outer-torso/Items.Vest_21_rich_04_male.jpeg",
         "name_female": "PROFESSIONAL TAC VEST WITH LOW INFRARED EMISSION",
         "image_female": "catalog/outer-torso/Items.Vest_21_rich_04_female.jpeg"
-    },
-    "Items.VHard_50_RefBody_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_RefBody_OuterTorso\", 1)",
-        "name_male": "PROFESSIONAL TAC VEST WITH LOW INFRARED EMISSION",
-        "image_male": "catalog/outer-torso/Items.VHard_50_RefBody_OuterTorso_male.jpeg",
-        "name_female": "PROFESSIONAL TAC VEST WITH LOW INFRARED EMISSION",
-        "image_female": "catalog/outer-torso/Items.VHard_50_RefBody_OuterTorso_female.jpeg"
     },
     "Items.Jacket_25_basic_05": {
         "command": "Game.AddToInventory(\"Items.Jacket_25_basic_05\", 1)",
@@ -3191,20 +2904,6 @@
         "name_female": "REPLICA OF JOHNNY'S SAMURAI JACKET",
         "image_female": "catalog/outer-torso/Items.SQ031_Samurai_Jacket_female.jpeg"
     },
-    "Items.SQ031_Samurai_Jacket_Epic": {
-        "command": "Game.AddToInventory(\"Items.SQ031_Samurai_Jacket_Epic\", 1)",
-        "name_male": "REPLICA OF JOHNNY'S SAMURAI JACKET",
-        "image_male": "catalog/outer-torso/Items.SQ031_Samurai_Jacket_Epic_male.jpeg",
-        "name_female": "REPLICA OF JOHNNY'S SAMURAI JACKET",
-        "image_female": "catalog/outer-torso/Items.SQ031_Samurai_Jacket_Epic_female.jpeg"
-    },
-    "Items.SQ031_Samurai_Jacket_Legendary": {
-        "command": "Game.AddToInventory(\"Items.SQ031_Samurai_Jacket_Legendary\", 1)",
-        "name_male": "REPLICA OF JOHNNY'S SAMURAI JACKET",
-        "image_male": "catalog/outer-torso/Items.SQ031_Samurai_Jacket_Legendary_male.jpeg",
-        "name_female": "REPLICA OF JOHNNY'S SAMURAI JACKET",
-        "image_female": "catalog/outer-torso/Items.SQ031_Samurai_Jacket_Legendary_female.jpeg"
-    },
     "Items.Jacket_20_rich_02": {
         "command": "Game.AddToInventory(\"Items.Jacket_20_rich_02\", 1)",
         "name_male": "ROBOSKIN 2.0 ANTI-SHRAPNEL DELTAJOCK JACKET",
@@ -3239,20 +2938,6 @@
         "image_male": "catalog/outer-torso/Items.Jacket_01_old_01_male.jpeg",
         "name_female": "ROCKER'S HEART CRYSTALJOCK BOMBER",
         "image_female": "catalog/outer-torso/Items.Jacket_01_old_01_female.jpeg"
-    },
-    "Items.Q301_Street_MA_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Q301_Street_MA_OuterTorso\", 1)",
-        "name_male": "ROCKER'S HEART CRYSTALJOCK BOMBER",
-        "image_male": "catalog/outer-torso/Items.Q301_Street_MA_OuterTorso_male.jpeg",
-        "name_female": "ROCKER'S HEART CRYSTALJOCK BOMBER",
-        "image_female": "catalog/outer-torso/Items.Q301_Street_MA_OuterTorso_female.jpeg"
-    },
-    "Items.Q301_Street_WA_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Q301_Street_WA_OuterTorso\", 1)",
-        "name_male": "ROCKER'S HEART CRYSTALJOCK BOMBER",
-        "image_male": "catalog/outer-torso/Items.Q301_Street_WA_OuterTorso_male.jpeg",
-        "name_female": "ROCKER'S HEART CRYSTALJOCK BOMBER",
-        "image_female": "catalog/outer-torso/Items.Q301_Street_WA_OuterTorso_female.jpeg"
     },
     "Items.Vest_20_rich_02": {
         "command": "Game.AddToInventory(\"Items.Vest_20_rich_02\", 1)",
@@ -3295,13 +2980,6 @@
         "image_male": "catalog/outer-torso/Items.Jacket_12_rich_01_male.jpeg",
         "name_female": "SALAMANDER EAZY-BREATHE TARP-WEAVE JACKET",
         "image_female": "catalog/outer-torso/Items.Jacket_12_rich_01_female.jpeg"
-    },
-    "Items.Q301_Nomad_WA_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Q301_Nomad_WA_OuterTorso\", 1)",
-        "name_male": "SALAMANDER EAZY-BREATHE TARP-WEAVE JACKET",
-        "image_male": "catalog/outer-torso/Items.Q301_Nomad_WA_OuterTorso_male.jpeg",
-        "name_female": "SALAMANDER EAZY-BREATHE TARP-WEAVE JACKET",
-        "image_female": "catalog/outer-torso/Items.Q301_Nomad_WA_OuterTorso_female.jpeg"
     },
     "Items.LooseShirt_02_rich_02": {
         "command": "Game.AddToInventory(\"Items.LooseShirt_02_rich_02\", 1)",
@@ -3456,13 +3134,6 @@
         "image_male": "catalog/outer-torso/Items.Vest_20_rich_01_male.jpeg",
         "name_female": "SILVEROCK BULLETPROOF-LAMINATE BIKER VEST",
         "image_female": "catalog/outer-torso/Items.Vest_20_rich_01_female.jpeg"
-    },
-    "Items.Vest_20_rich_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Vest_20_rich_01_Crafting\", 1)",
-        "name_male": "SILVEROCK BULLETPROOF-LAMINATE BIKER VEST",
-        "image_male": "catalog/outer-torso/Items.Vest_20_rich_01_Crafting_male.jpeg",
-        "name_female": "SILVEROCK BULLETPROOF-LAMINATE BIKER VEST",
-        "image_female": "catalog/outer-torso/Items.Vest_20_rich_01_Crafting_female.jpeg"
     },
     "Items.Jacket_14_basic_01": {
         "command": "Game.AddToInventory(\"Items.Jacket_14_basic_01\", 1)",
@@ -3652,13 +3323,6 @@
         "image_male": "catalog/outer-torso/Items.Coat_01_basic_03_male.jpeg",
         "name_female": "STYLISH TEN70 DAEMON HUNTER COAT",
         "image_female": "catalog/outer-torso/Items.Coat_01_basic_03_female.jpeg"
-    },
-    "Items.Coat_01_basic_03_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Coat_01_basic_03_Crafting\", 1)",
-        "name_male": "STYLISH TEN70 DAEMON HUNTER COAT",
-        "image_male": "catalog/outer-torso/Items.Coat_01_basic_03_Crafting_male.jpeg",
-        "name_female": "STYLISH TEN70 DAEMON HUNTER COAT",
-        "image_female": "catalog/outer-torso/Items.Coat_01_basic_03_Crafting_female.jpeg"
     },
     "Items.Coat_01_rich_03": {
         "command": "Game.AddToInventory(\"Items.Coat_01_rich_03\", 1)",
@@ -3856,13 +3520,6 @@
         "name_female": "TIMEWORN TRENCH COAT",
         "image_female": "catalog/outer-torso/Items.Coat_04_old_02_female.jpeg"
     },
-    "Items.VHard_50_IntTech_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_IntTech_OuterTorso\", 1)",
-        "name_male": "TIMEWORN TRENCH COAT",
-        "image_male": "catalog/outer-torso/Items.VHard_50_IntTech_OuterTorso_male.jpeg",
-        "name_female": "TIMEWORN TRENCH COAT",
-        "image_female": "catalog/outer-torso/Items.VHard_50_IntTech_OuterTorso_female.jpeg"
-    },
     "Items.Jacket_17_rich_02": {
         "command": "Game.AddToInventory(\"Items.Jacket_17_rich_02\", 1)",
         "name_male": "TORERO REAL ULTRAREACTIVE LAMINATED POZER-JACKET",
@@ -3876,41 +3533,6 @@
         "image_male": "catalog/outer-torso/Items.Jacket_01_basic_01_male.jpeg",
         "name_female": "TORIKKUSUTA ARAMID-WEAVE CRYSTALJOCK BOMBER",
         "image_female": "catalog/outer-torso/Items.Jacket_01_basic_01_female.jpeg"
-    },
-    "Items.Hard_20_Reflex_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Reflex_OuterTorso\", 1)",
-        "name_male": "TORIKKUSUT\u0100 ARAMID-WEAVE CRYSTALJOCK BOMBER",
-        "image_male": "catalog/outer-torso/Items.Hard_20_Reflex_OuterTorso_male.jpeg",
-        "name_female": "TORIKKUSUT\u0100 ARAMID-WEAVE CRYSTALJOCK BOMBER",
-        "image_female": "catalog/outer-torso/Items.Hard_20_Reflex_OuterTorso_female.jpeg"
-    },
-    "Items.Normal_20_Netrunner_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Netrunner_OuterTorso\", 1)",
-        "name_male": "TORIKKUSUT\u0100 ARAMID-WEAVE CRYSTALJOCK BOMBER",
-        "image_male": "catalog/outer-torso/Items.Normal_20_Netrunner_OuterTorso_male.jpeg",
-        "name_female": "TORIKKUSUT\u0100 ARAMID-WEAVE CRYSTALJOCK BOMBER",
-        "image_female": "catalog/outer-torso/Items.Normal_20_Netrunner_OuterTorso_female.jpeg"
-    },
-    "Items.Story_5_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Story_5_OuterTorso\", 1)",
-        "name_male": "TORIKKUSUT\u0100 ARAMID-WEAVE CRYSTALJOCK BOMBER",
-        "image_male": "catalog/outer-torso/Items.Story_5_OuterTorso_male.jpeg",
-        "name_female": "TORIKKUSUT\u0100 ARAMID-WEAVE CRYSTALJOCK BOMBER",
-        "image_female": "catalog/outer-torso/Items.Story_5_OuterTorso_female.jpeg"
-    },
-    "Items.Weak_10_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Weak_10_OuterTorso\", 1)",
-        "name_male": "TORIKKUSUT\u0100 ARAMID-WEAVE CRYSTALJOCK BOMBER",
-        "image_male": "catalog/outer-torso/Items.Weak_10_OuterTorso_male.jpeg",
-        "name_female": "TORIKKUSUT\u0100 ARAMID-WEAVE CRYSTALJOCK BOMBER",
-        "image_female": "catalog/outer-torso/Items.Weak_10_OuterTorso_female.jpeg"
-    },
-    "TEST.ItemPass_OuterChestArmor": {
-        "command": "Game.AddToInventory(\"TEST.ItemPass_OuterChestArmor\", 1)",
-        "name_male": "TORIKKUSUT\u0100 ARAMID-WEAVE CRYSTALJOCK BOMBER",
-        "image_male": "catalog/outer-torso/TEST.ItemPass_OuterChestArmor_male.jpeg",
-        "name_female": "TORIKKUSUT\u0100 ARAMID-WEAVE CRYSTALJOCK BOMBER",
-        "image_female": "catalog/outer-torso/TEST.ItemPass_OuterChestArmor_female.jpeg"
     },
     "Items.Vest_08_rich_02": {
         "command": "Game.AddToInventory(\"Items.Vest_08_rich_02\", 1)",
@@ -4122,26 +3744,12 @@
         "name_female": "VIRTUGLOW COMPOSITE BALLISTIC VEST",
         "image_female": "catalog/outer-torso/Items.Vest_04_rich_01_female.jpeg"
     },
-    "Items.Normal_20_Ranged_OuterTorso": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Ranged_OuterTorso\", 1)",
-        "name_male": "VIRTUGLOW COMPOSITE BALLISTIC VEST",
-        "image_male": "catalog/outer-torso/Items.Normal_20_Ranged_OuterTorso_male.jpeg",
-        "name_female": "VIRTUGLOW COMPOSITE BALLISTIC VEST",
-        "image_female": "catalog/outer-torso/Items.Normal_20_Ranged_OuterTorso_female.jpeg"
-    },
     "Items.Jacket_17_basic_03": {
         "command": "Game.AddToInventory(\"Items.Jacket_17_basic_03\", 1)",
         "name_male": "VOODOO BOYS ANTI-INTERFERENCE NETRUNNER JACKET",
         "image_male": "catalog/outer-torso/Items.Jacket_17_basic_03_male.jpeg",
         "name_female": "VOODOO BOYS ANTI-INTERFERENCE NETRUNNER JACKET",
         "image_female": "catalog/outer-torso/Items.Jacket_17_basic_03_female.jpeg"
-    },
-    "Items.Q000_Corpo_FormalJacket2": {
-        "command": "Game.AddToInventory(\"Items.Q000_Corpo_FormalJacket2\", 1)",
-        "name_male": "V'S OFFICE BLAZER",
-        "image_male": "catalog/outer-torso/Items.Q000_Corpo_FormalJacket2_male.jpeg",
-        "name_female": "V'S OFFICE BLAZER",
-        "image_female": "catalog/outer-torso/Items.Q000_Corpo_FormalJacket2_female.jpeg"
     },
     "Items.Q000_Corpo_FormalJacket": {
         "command": "Game.AddToInventory(\"Items.Q000_Corpo_FormalJacket\", 1)",
@@ -4234,33 +3842,12 @@
         "name_female": "WIND-RESISTANT HALF-ZIP WITH SYNTHETIC PADDING",
         "image_female": "catalog/outer-torso/Items.Coat_05_old_05_female.jpeg"
     },
-    "Items.GOG_DLC_Jacket_Crafted": {
-        "command": "Game.AddToInventory(\"Items.GOG_DLC_Jacket_Crafted\", 1)",
-        "name_male": "WOLF SCHOOL JACKET",
-        "image_male": "catalog/outer-torso/Items.GOG_DLC_Jacket_Crafted_male.jpeg",
-        "name_female": "WOLF SCHOOL JACKET",
-        "image_female": "catalog/outer-torso/Items.GOG_DLC_Jacket_Crafted_female.jpeg"
-    },
     "Items.GOG_DLC_Jacket": {
         "command": "Game.AddToInventory(\"Items.GOG_DLC_Jacket\", 1)",
         "name_male": "WOLF SCHOOL JACKET",
         "image_male": "catalog/outer-torso/Items.GOG_DLC_Jacket_male.jpeg",
         "name_female": "WOLF SCHOOL JACKET",
         "image_female": "catalog/outer-torso/Items.GOG_DLC_Jacket_female.jpeg"
-    },
-    "Items.GOG_DLC_Jacket_Epic": {
-        "command": "Game.AddToInventory(\"Items.GOG_DLC_Jacket_Epic\", 1)",
-        "name_male": "WOLF SCHOOL JACKET",
-        "image_male": "catalog/outer-torso/Items.GOG_DLC_Jacket_Epic_male.jpeg",
-        "name_female": "WOLF SCHOOL JACKET",
-        "image_female": "catalog/outer-torso/Items.GOG_DLC_Jacket_Epic_female.jpeg"
-    },
-    "Items.GOG_DLC_Jacket_Legendary": {
-        "command": "Game.AddToInventory(\"Items.GOG_DLC_Jacket_Legendary\", 1)",
-        "name_male": "WOLF SCHOOL JACKET",
-        "image_male": "catalog/outer-torso/Items.GOG_DLC_Jacket_Legendary_male.jpeg",
-        "name_female": "WOLF SCHOOL JACKET",
-        "image_female": "catalog/outer-torso/Items.GOG_DLC_Jacket_Legendary_female.jpeg"
     },
     "Items.FormalJacket_01_basic_02": {
         "command": "Game.AddToInventory(\"Items.FormalJacket_01_basic_02\", 1)",

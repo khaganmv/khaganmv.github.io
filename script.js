@@ -115,6 +115,7 @@ function initSubcatalogs() {
             itemDiv.className = "itemDiv";
             textDiv.textContent = jsonCatalog[slot][item]["command"];
             // textDiv.textContent = jsonCatalog[slot][item]["name_male"];
+            textDiv.className = "textDiv";
             textDiv.style.color = "white";
             textDiv.style.display = "none";
             img.src = jsonCatalog[slot][item]["image_male"];

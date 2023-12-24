@@ -4,10 +4,6 @@
     color: white;
 }
 
-td:first-child {
-    font-family: Consolas, monaco, monospace;
-}
-
 div {
     text-align: center;
 }
@@ -47,6 +43,10 @@ div {
     font-size:xx-large;
     text-align: center;
     padding-top: 22vw;
+}
+
+.textDiv {
+    font-family: Consolas, monaco, monospace;
 }
 
 #catalog {
