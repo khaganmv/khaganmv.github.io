@@ -10,9 +10,9 @@ DIR = "catalog/" + SLOT + "/"
 
 def crop_image(file):
     image = Image.open(DIR + file)
-    left = 420
-    right = 1500
-    top = 0
+    left = 510 if SLOT == "feet" else 420
+    right = 1410 if SLOT == "feet" else 1500
+    top = 180 if SLOT == "feet" else 0
     bottom = 1080
     cropped = image.crop((left, top, right, bottom))
     cropped.convert("RGB").save(DIR + file.rsplit(".", 1)[0] + ".jpeg")

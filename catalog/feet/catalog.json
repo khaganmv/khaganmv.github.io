@@ -6,13 +6,6 @@
         "name_female": "ABENDSTERN POLYCARBONATE DRESS WEDGES",
         "image_female": "catalog/feet/Items.FormalShoes_03_rich_01_female.jpeg"
     },
-    "Items.FormalShoes_03_rich_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.FormalShoes_03_rich_01_Crafting\", 1)",
-        "name_male": "ABENDSTERN POLYCARBONATE DRESS WEDGES",
-        "image_male": "catalog/feet/Items.FormalShoes_03_rich_01_Crafting_male.jpeg",
-        "name_female": "ABENDSTERN POLYCARBONATE DRESS WEDGES",
-        "image_female": "catalog/feet/Items.FormalShoes_03_rich_01_Crafting_female.jpeg"
-    },
     "Items.Boots_11_old_01": {
         "command": "Game.AddToInventory(\"Items.Boots_11_old_01\", 1)",
         "name_male": "ANTI-CHEM WINTER WORK BOOTS",
@@ -26,20 +19,6 @@
         "image_male": "catalog/feet/Items.CasualShoes_02_old_02_male.jpeg",
         "name_female": "ANTI-PUNCTURE NANOWEAVE TONGUES",
         "image_female": "catalog/feet/Items.CasualShoes_02_old_02_female.jpeg"
-    },
-    "Items.Hard_30_IntBody_Feet": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_IntBody_Feet\", 1)",
-        "name_male": "ANTI-PUNCTURE NANOWEAVE TONGUES",
-        "image_male": "catalog/feet/Items.Hard_30_IntBody_Feet_male.jpeg",
-        "name_female": "ANTI-PUNCTURE NANOWEAVE TONGUES",
-        "image_female": "catalog/feet/Items.Hard_30_IntBody_Feet_female.jpeg"
-    },
-    "Items.Hard_30_Reflex_Feet": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_Reflex_Feet\", 1)",
-        "name_male": "ANTI-PUNCTURE NANOWEAVE TONGUES",
-        "image_male": "catalog/feet/Items.Hard_30_Reflex_Feet_male.jpeg",
-        "name_female": "ANTI-PUNCTURE NANOWEAVE TONGUES",
-        "image_female": "catalog/feet/Items.Hard_30_Reflex_Feet_female.jpeg"
     },
     "Items.CasualShoes_06_old_01": {
         "command": "Game.AddToInventory(\"Items.CasualShoes_06_old_01\", 1)",
@@ -75,13 +54,6 @@
         "image_male": "catalog/feet/Items.CasualShoes_01_basic_02_male.jpeg",
         "name_female": "BLACKWALL SYNTHETIC PUNK HIGH-TOPS",
         "image_female": "catalog/feet/Items.CasualShoes_01_basic_02_female.jpeg"
-    },
-    "Items.Normal_20_Melee_Feet": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Melee_Feet\", 1)",
-        "name_male": "BLACKWALL SYNTHETIC PUNK HIGH-TOPS",
-        "image_male": "catalog/feet/Items.Normal_20_Melee_Feet_male.jpeg",
-        "name_female": "BLACKWALL SYNTHETIC PUNK HIGH-TOPS",
-        "image_female": "catalog/feet/Items.Normal_20_Melee_Feet_female.jpeg"
     },
     "Items.Boots_08_old_02": {
         "command": "Game.AddToInventory(\"Items.Boots_08_old_02\", 1)",
@@ -139,13 +111,6 @@
         "name_female": "CHAMAN METALLIQUE STREET SHOES WITH THERMOACTIVE ALLOYS",
         "image_female": "catalog/feet/Items.CasualShoes_06_rich_01_female.jpeg"
     },
-    "Items.Q301_Street_MA_Boots": {
-        "command": "Game.AddToInventory(\"Items.Q301_Street_MA_Boots\", 1)",
-        "name_male": "CHAMAN M\u00c9TALLIQUE STREET SHOES WITH THERMOACTIVE ALLOYS",
-        "image_male": "catalog/feet/Items.Q301_Street_MA_Boots_male.jpeg",
-        "name_female": "CHAMAN M\u00c9TALLIQUE STREET SHOES WITH THERMOACTIVE ALLOYS",
-        "image_female": "catalog/feet/Items.Q301_Street_MA_Boots_female.jpeg"
-    },
     "Items.Boots_07_rich_01": {
         "command": "Game.AddToInventory(\"Items.Boots_07_rich_01\", 1)",
         "name_male": "CLARET SHINE ARMORED LACELESS STEEL-TOES",
@@ -159,13 +124,6 @@
         "image_male": "catalog/feet/Items.FormalShoes_02_basic_02_male.jpeg",
         "name_female": "CLASSIC EVENING PUMPS WITH POLYCARBONATE SUPPORT",
         "image_female": "catalog/feet/Items.FormalShoes_02_basic_02_female.jpeg"
-    },
-    "Items.Proficiency_FormalShoes_02_basic_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_FormalShoes_02_basic_02_Crafting\", 1)",
-        "name_male": "CLASSIC DRESS SHOES WITH POLYCARBONATE SUPPORT",
-        "image_male": "catalog/feet/Items.Proficiency_FormalShoes_02_basic_02_Crafting_male.jpeg",
-        "name_female": "CLASSIC EVENING PUMPS WITH POLYCARBONATE SUPPORT",
-        "image_female": "catalog/feet/Items.Proficiency_FormalShoes_02_basic_02_Crafting_female.jpeg"
     },
     "Items.Boots_04_basic_02": {
         "command": "Game.AddToInventory(\"Items.Boots_04_basic_02\", 1)",
@@ -209,13 +167,6 @@
         "name_female": "CRYSTAL LILY EVENING PUMPS WITH EXTRA-DURABLE SOLES",
         "image_female": "catalog/feet/Items.FormalShoes_02_rich_03_female.jpeg"
     },
-    "Items.Proficiency_FormalShoes_02_rich_03_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_FormalShoes_02_rich_03_Crafting\", 1)",
-        "name_male": "CRISTAL LILY EVENING SHOES WITH EXTRA-DURABLE SOLES",
-        "image_male": "catalog/feet/Items.Proficiency_FormalShoes_02_rich_03_Crafting_male.jpeg",
-        "name_female": "CRYSTAL LILY EVENING PUMPS WITH EXTRA-DURABLE SOLES",
-        "image_female": "catalog/feet/Items.Proficiency_FormalShoes_02_rich_03_Crafting_female.jpeg"
-    },
     "Items.Techie_01_Set_Shoes": {
         "command": "Game.AddToInventory(\"Items.Techie_01_Set_Shoes\", 1)",
         "name_male": "CUSHIONED ARAMID-SOLE TECHIE SHOES",
@@ -243,13 +194,6 @@
         "image_male": "catalog/feet/Items.Boots_12_rich_01_male.jpeg",
         "name_female": "DESIGNER FLEETS WITH ACID-RESISTANT UPPERS",
         "image_female": "catalog/feet/Items.Boots_12_rich_01_female.jpeg"
-    },
-    "Items.VHard_50_BodyCool_Feet": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_BodyCool_Feet\", 1)",
-        "name_male": "DESIGNER FLEETS WITH ACID-RESISTANT UPPERS",
-        "image_male": "catalog/feet/Items.VHard_50_BodyCool_Feet_male.jpeg",
-        "name_female": "DESIGNER FLEETS WITH ACID-RESISTANT UPPERS",
-        "image_female": "catalog/feet/Items.VHard_50_BodyCool_Feet_female.jpeg"
     },
     "Items.FormalShoes_02_basic_03": {
         "command": "Game.AddToInventory(\"Items.FormalShoes_02_basic_03\", 1)",
@@ -285,13 +229,6 @@
         "image_male": "catalog/feet/Items.CasualShoes_02_basic_01_male.jpeg",
         "name_female": "ENHANCED DAEMON HUNTER TONGUES",
         "image_female": "catalog/feet/Items.CasualShoes_02_basic_01_female.jpeg"
-    },
-    "Items.CasualShoes_02_basic_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.CasualShoes_02_basic_01_Crafting\", 1)",
-        "name_male": "ENHANCED DAEMON HUNTER TONGUES",
-        "image_male": "catalog/feet/Items.CasualShoes_02_basic_01_Crafting_male.jpeg",
-        "name_female": "ENHANCED DAEMON HUNTER TONGUES",
-        "image_female": "catalog/feet/Items.CasualShoes_02_basic_01_Crafting_female.jpeg"
     },
     "Items.Corporate_01_Set_FormalShoes": {
         "command": "Game.AddToInventory(\"Items.Corporate_01_Set_FormalShoes\", 1)",
@@ -335,20 +272,6 @@
         "name_female": "FRAYED UNDERWATER WORK BOOTS",
         "image_female": "catalog/feet/Items.Boots_06_old_02_female.jpeg"
     },
-    "Items.Normal_20_Ranged_Feet": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Ranged_Feet\", 1)",
-        "name_male": "FRAYED UNDERWATER WORK BOOTS",
-        "image_male": "catalog/feet/Items.Normal_20_Ranged_Feet_male.jpeg",
-        "name_female": "FRAYED UNDERWATER WORK BOOTS",
-        "image_female": "catalog/feet/Items.Normal_20_Ranged_Feet_female.jpeg"
-    },
-    "Items.Weak_20_Cool_Feet": {
-        "command": "Game.AddToInventory(\"Items.Weak_20_Cool_Feet\", 1)",
-        "name_male": "FRAYED UNDERWATER WORK BOOTS",
-        "image_male": "catalog/feet/Items.Weak_20_Cool_Feet_male.jpeg",
-        "name_female": "FRAYED UNDERWATER WORK BOOTS",
-        "image_female": "catalog/feet/Items.Weak_20_Cool_Feet_female.jpeg"
-    },
     "Items.Boots_10_rich_01": {
         "command": "Game.AddToInventory(\"Items.Boots_10_rich_01\", 1)",
         "name_male": "GHOST TOWN COWBOY BOOTS WITH HEAT-RESISTANT HEELS",
@@ -370,13 +293,6 @@
         "name_female": "GLITTER LACELESS STURDY-STITCHED STEEL-TOES",
         "image_female": "catalog/feet/Items.Boots_07_basic_01_female.jpeg"
     },
-    "Items.Boots_07_basic_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Boots_07_basic_01_Crafting\", 1)",
-        "name_male": "GLITTER LACELESS STURDY-STITCHED STEEL-TOES",
-        "image_male": "catalog/feet/Items.Boots_07_basic_01_Crafting_male.jpeg",
-        "name_female": "GLITTER LACELESS STURDY-STITCHED STEEL-TOES",
-        "image_female": "catalog/feet/Items.Boots_07_basic_01_Crafting_female.jpeg"
-    },
     "Items.Solo_01_Set_Boots": {
         "command": "Game.AddToInventory(\"Items.Solo_01_Set_Boots\", 1)",
         "name_male": "GOLD-TIPPED MANGANESE STEEL SOLO BOOTS",
@@ -390,13 +306,6 @@
         "image_male": "catalog/feet/Items.CasualShoes_05_basic_03_male.jpeg",
         "name_female": "GREEN GRAFFITI ARMOR-COATED ATHLETIC SHOES",
         "image_female": "catalog/feet/Items.CasualShoes_05_basic_03_female.jpeg"
-    },
-    "Items.CasualShoes_05_basic_03_Crafting": {
-        "command": "Game.AddToInventory(\"Items.CasualShoes_05_basic_03_Crafting\", 1)",
-        "name_male": "GREEN GRAFFITI ARMOR-COATED ATHLETIC SHOES",
-        "image_male": "catalog/feet/Items.CasualShoes_05_basic_03_Crafting_male.jpeg",
-        "name_female": "GREEN GRAFFITI ARMOR-COATED ATHLETIC SHOES",
-        "image_female": "catalog/feet/Items.CasualShoes_05_basic_03_Crafting_female.jpeg"
     },
     "Items.Boots_02_rich_02": {
         "command": "Game.AddToInventory(\"Items.Boots_02_rich_02\", 1)",
@@ -447,13 +356,6 @@
         "name_female": "HEAVY-DUTY BIKER EXO-JACKS",
         "image_female": "catalog/feet/Items.Boots_09_basic_01_female.jpeg"
     },
-    "Items.VHard_50_IntRef_Feet": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_IntRef_Feet\", 1)",
-        "name_male": "HEAVY-DUTY BIKER EXO-JACKS",
-        "image_male": "catalog/feet/Items.VHard_50_IntRef_Feet_male.jpeg",
-        "name_female": "HEAVY-DUTY BIKER EXO-JACKS",
-        "image_female": "catalog/feet/Items.VHard_50_IntRef_Feet_female.jpeg"
-    },
     "Items.Boots_04_basic_03": {
         "command": "Game.AddToInventory(\"Items.Boots_04_basic_03\", 1)",
         "name_male": "HEAVY-DUTY NEW MURICA COMBAT BOOTS",
@@ -474,13 +376,6 @@
         "image_male": "catalog/feet/Items.Boots_12_basic_03_male.jpeg",
         "name_female": "HIKING BOOTS WITH SELF-CLEANING SOLES",
         "image_female": "catalog/feet/Items.Boots_12_basic_03_female.jpeg"
-    },
-    "Items.VHard_50_IntTech_Feet": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_IntTech_Feet\", 1)",
-        "name_male": "HIKING BOOTS WITH SELF-CLEANING SOLES",
-        "image_male": "catalog/feet/Items.VHard_50_IntTech_Feet_male.jpeg",
-        "name_female": "HIKING BOOTS WITH SELF-CLEANING SOLES",
-        "image_female": "catalog/feet/Items.VHard_50_IntTech_Feet_female.jpeg"
     },
     "Items.Boots_12_rich_02": {
         "command": "Game.AddToInventory(\"Items.Boots_12_rich_02\", 1)",
@@ -503,27 +398,6 @@
         "name_female": "JOHNNY'S BOOTS",
         "image_female": "catalog/feet/Items.Q204_Epilogue_Boots_female.jpeg"
     },
-    "Items.Q005_Johnny_Shoes": {
-        "command": "Game.AddToInventory(\"Items.Q005_Johnny_Shoes\", 1)",
-        "name_male": "JOHNNY'S SHOES",
-        "image_male": "catalog/feet/Items.Q005_Johnny_Shoes_male.jpeg",
-        "name_female": "JOHNNY'S SHOES",
-        "image_female": "catalog/feet/Items.Q005_Johnny_Shoes_female.jpeg"
-    },
-    "Items.Q005_Johnny_Shoes_Epic": {
-        "command": "Game.AddToInventory(\"Items.Q005_Johnny_Shoes_Epic\", 1)",
-        "name_male": "JOHNNY'S SHOES",
-        "image_male": "catalog/feet/Items.Q005_Johnny_Shoes_Epic_male.jpeg",
-        "name_female": "JOHNNY'S SHOES",
-        "image_female": "catalog/feet/Items.Q005_Johnny_Shoes_Epic_female.jpeg"
-    },
-    "Items.Q005_Johnny_Shoes_Legendary": {
-        "command": "Game.AddToInventory(\"Items.Q005_Johnny_Shoes_Legendary\", 1)",
-        "name_male": "JOHNNY'S SHOES",
-        "image_male": "catalog/feet/Items.Q005_Johnny_Shoes_Legendary_male.jpeg",
-        "name_female": "JOHNNY'S SHOES",
-        "image_female": "catalog/feet/Items.Q005_Johnny_Shoes_Legendary_female.jpeg"
-    },
     "Items.CasualShoes_07_rich_01": {
         "command": "Game.AddToInventory(\"Items.CasualShoes_07_rich_01\", 1)",
         "name_male": "KASHUU HANTEN KICKS WITH MODIFIED POLYAMIDE",
@@ -537,13 +411,6 @@
         "image_male": "catalog/feet/Items.FormalShoes_02_rich_02_male.jpeg",
         "name_female": "LEZARD BEIGE LEATHER-COMPOSITE FORMAL PUMP",
         "image_female": "catalog/feet/Items.FormalShoes_02_rich_02_female.jpeg"
-    },
-    "Items.Avg_10_Int_Netrunner_Feet": {
-        "command": "Game.AddToInventory(\"Items.Avg_10_Int_Netrunner_Feet\", 1)",
-        "name_male": "L\u00c9ZARD BEIGE LEATHER-COMPOSITE FORMAL PUMPS",
-        "image_male": "catalog/feet/Items.Avg_10_Int_Netrunner_Feet_male.jpeg",
-        "name_female": "L\u00c9ZARD BEIGE LEATHER-COMPOSITE FORMAL PUMPS",
-        "image_female": "catalog/feet/Items.Avg_10_Int_Netrunner_Feet_female.jpeg"
     },
     "Items.CasualShoes_07_basic_02": {
         "command": "Game.AddToInventory(\"Items.CasualShoes_07_basic_02\", 1)",
@@ -601,13 +468,6 @@
         "name_female": "MIDDAY GLOW POLYCARBONATE FORMAL PUMPS",
         "image_female": "catalog/feet/Items.FormalShoes_01_rich_02_female.jpeg"
     },
-    "Items.FormalShoes_01_rich_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.FormalShoes_01_rich_02_Crafting\", 1)",
-        "name_male": "MIDDAY GLOW POLYCARBONATE FORMAL PUMPS",
-        "image_male": "catalog/feet/Items.FormalShoes_01_rich_02_Crafting_male.jpeg",
-        "name_female": "MIDDAY GLOW POLYCARBONATE FORMAL PUMPS",
-        "image_female": "catalog/feet/Items.FormalShoes_01_rich_02_Crafting_female.jpeg"
-    },
     "Items.Boots_12_basic_06": {
         "command": "Game.AddToInventory(\"Items.Boots_12_basic_06\", 1)",
         "name_male": "MILITARY SHOES WITH SHOCK-ABSORBENT INSOLE",
@@ -615,26 +475,12 @@
         "name_female": "MILITARY SHOES WITH SHOCK-ABSORBENT INSOLE",
         "image_female": "catalog/feet/Items.Boots_12_basic_06_female.jpeg"
     },
-    "Items.q005_militech_shoes": {
-        "command": "Game.AddToInventory(\"Items.q005_militech_shoes\", 1)",
-        "name_male": "MILITECH SHOES [BROKEN]",
-        "image_male": "catalog/feet/Items.q005_militech_shoes_male.jpeg",
-        "name_female": "MILITECH SHOES [BROKEN]",
-        "image_female": "catalog/feet/Items.q005_militech_shoes_female.jpeg"
-    },
     "Items.Boots_09_rich_01": {
         "command": "Game.AddToInventory(\"Items.Boots_09_rich_01\", 1)",
         "name_male": "MILITOXIC CERAMIC-LAYER COMBAT EXO-JACKS",
         "image_male": "catalog/feet/Items.Boots_09_rich_01_male.jpeg",
         "name_female": "MILITOXIC CERAMIC-LAYER COMBAT EXO-JACKS",
         "image_female": "catalog/feet/Items.Boots_09_rich_01_female.jpeg"
-    },
-    "Items.Boots_09_rich_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Boots_09_rich_01_Crafting\", 1)",
-        "name_male": "MILITOXIC CERAMIC-LAYER COMBAT EXO-JACKS",
-        "image_male": "catalog/feet/Items.Boots_09_rich_01_Crafting_male.jpeg",
-        "name_female": "MILITOXIC CERAMIC-LAYER COMBAT EXO-JACKS",
-        "image_female": "catalog/feet/Items.Boots_09_rich_01_Crafting_female.jpeg"
     },
     "Items.CasualShoes_02_basic_02": {
         "command": "Game.AddToInventory(\"Items.CasualShoes_02_basic_02\", 1)",
@@ -670,13 +516,6 @@
         "image_male": "catalog/feet/Items.Boots_12_basic_04_male.jpeg",
         "name_female": "NO-SLIP HYDROPHOBIC FLEETS",
         "image_female": "catalog/feet/Items.Boots_12_basic_04_female.jpeg"
-    },
-    "Items.VHard_50_TechCool_Feet": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_TechCool_Feet\", 1)",
-        "name_male": "NO-SLIP HYDROPHOBIC FLEETS",
-        "image_male": "catalog/feet/Items.VHard_50_TechCool_Feet_male.jpeg",
-        "name_female": "NO-SLIP HYDROPHOBIC FLEETS",
-        "image_female": "catalog/feet/Items.VHard_50_TechCool_Feet_female.jpeg"
     },
     "Items.Twitch_Drop_Boots": {
         "command": "Game.AddToInventory(\"Items.Twitch_Drop_Boots\", 1)",
@@ -719,13 +558,6 @@
         "image_male": "catalog/feet/Items.Boots_11_rich_01_male.jpeg",
         "name_female": "PIXEL NEIGE SNOW BOOTS WITH CANVAS DUOLAYER",
         "image_female": "catalog/feet/Items.Boots_11_rich_01_female.jpeg"
-    },
-    "Items.Proficiency_Boots_11_rich_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_Boots_11_rich_01_Crafting\", 1)",
-        "name_male": "PIXEL NEIGE SNOW BOOTS WITH CANVAS DUOLAYER",
-        "image_male": "catalog/feet/Items.Proficiency_Boots_11_rich_01_Crafting_male.jpeg",
-        "name_female": "PIXEL NEIGE SNOW BOOTS WITH CANVAS DUOLAYER",
-        "image_female": "catalog/feet/Items.Proficiency_Boots_11_rich_01_Crafting_female.jpeg"
     },
     "Items.Boots_06_old_01": {
         "command": "Game.AddToInventory(\"Items.Boots_06_old_01\", 1)",
@@ -776,13 +608,6 @@
         "name_female": "REINFORCED BIKER BOOTS",
         "image_female": "catalog/feet/Items.Boots_03_basic_02_female.jpeg"
     },
-    "Items.Boots_03_basic_02_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Boots_03_basic_02_Crafting\", 1)",
-        "name_male": "REINFORCED BIKER BOOTS",
-        "image_male": "catalog/feet/Items.Boots_03_basic_02_Crafting_male.jpeg",
-        "name_female": "REINFORCED BIKER BOOTS",
-        "image_female": "catalog/feet/Items.Boots_03_basic_02_Crafting_female.jpeg"
-    },
     "Items.FormalShoes_03_basic_01": {
         "command": "Game.AddToInventory(\"Items.FormalShoes_03_basic_01\", 1)",
         "name_male": "REINFORCED OFFICE SHOES",
@@ -832,13 +657,6 @@
         "name_female": "REINFORCED-LEATHER OFFICE PUMPS",
         "image_female": "catalog/feet/Items.FormalShoes_02_basic_01_female.jpeg"
     },
-    "Items.VHard_50_CoolRef_Feet": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_CoolRef_Feet\", 1)",
-        "name_male": "REINFORCED-LEATHER OFFICE PUMPS",
-        "image_male": "catalog/feet/Items.VHard_50_CoolRef_Feet_male.jpeg",
-        "name_female": "REINFORCED-LEATHER OFFICE PUMPS",
-        "image_female": "catalog/feet/Items.VHard_50_CoolRef_Feet_female.jpeg"
-    },
     "Items.Boots_11_old_02": {
         "command": "Game.AddToInventory(\"Items.Boots_11_old_02\", 1)",
         "name_male": "REPAIRED ZOLOTOY PUKH SNOW BOOTS",
@@ -852,20 +670,6 @@
         "image_male": "catalog/feet/Items.Boots_08_old_01_male.jpeg",
         "name_female": "REPURPOSED MILITARY BOOTS",
         "image_female": "catalog/feet/Items.Boots_08_old_01_female.jpeg"
-    },
-    "Items.VHard_50_RefTech_Feet": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_RefTech_Feet\", 1)",
-        "name_male": "RETROTHRUSTERS (FROM ROGUE)",
-        "image_male": "catalog/feet/Items.VHard_50_RefTech_Feet_male.jpeg",
-        "name_female": "RETROTHRUSTERS (FROM ROGUE)",
-        "image_female": "catalog/feet/Items.VHard_50_RefTech_Feet_female.jpeg"
-    },
-    "Items.VHard_50_RefBody_Feet": {
-        "command": "Game.AddToInventory(\"Items.VHard_50_RefBody_Feet\", 1)",
-        "name_male": "RETROTHRUSTERS (FROM ROGUE)",
-        "image_male": "catalog/feet/Items.VHard_50_RefBody_Feet_male.jpeg",
-        "name_female": "RETROTHRUSTERS (FROM ROGUE)",
-        "image_female": "catalog/feet/Items.VHard_50_RefBody_Feet_female.jpeg"
     },
     "Items.q115_thrusters": {
         "command": "Game.AddToInventory(\"Items.q115_thrusters\", 1)",
@@ -888,13 +692,6 @@
         "name_female": "ROBUST SPUNKY MONKEY KICKS",
         "image_female": "catalog/feet/Items.CasualShoes_07_basic_01_female.jpeg"
     },
-    "Items.Proficiency_CasualShoes_07_basic_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.Proficiency_CasualShoes_07_basic_01_Crafting\", 1)",
-        "name_male": "ROBUST SPUNKY MONKEY KICKS",
-        "image_male": "catalog/feet/Items.Proficiency_CasualShoes_07_basic_01_Crafting_male.jpeg",
-        "name_female": "ROBUST SPUNKY MONKEY KICKS",
-        "image_female": "catalog/feet/Items.Proficiency_CasualShoes_07_basic_01_Crafting_female.jpeg"
-    },
     "Items.Boots_06_rich_01": {
         "command": "Game.AddToInventory(\"Items.Boots_06_rich_01\", 1)",
         "name_male": "ROSTIGER TEICH THERMOACTIVE PUFFED WORK BOOTS",
@@ -916,20 +713,6 @@
         "name_female": "RUBBER-REINFORCED COWBOY BOOTS",
         "image_female": "catalog/feet/Items.Boots_10_old_01_female.jpeg"
     },
-    "Items.Q301_Nomad_MA_Boots": {
-        "command": "Game.AddToInventory(\"Items.Q301_Nomad_MA_Boots\", 1)",
-        "name_male": "RUBBER-REINFORCED COWBOY BOOTS",
-        "image_male": "catalog/feet/Items.Q301_Nomad_MA_Boots_male.jpeg",
-        "name_female": "RUBBER-REINFORCED COWBOY BOOTS",
-        "image_female": "catalog/feet/Items.Q301_Nomad_MA_Boots_female.jpeg"
-    },
-    "Items.Q301_Nomad_WA_Boots": {
-        "command": "Game.AddToInventory(\"Items.Q301_Nomad_WA_Boots\", 1)",
-        "name_male": "RUBBER-REINFORCED COWBOY BOOTS",
-        "image_male": "catalog/feet/Items.Q301_Nomad_WA_Boots_male.jpeg",
-        "name_female": "RUBBER-REINFORCED COWBOY BOOTS",
-        "image_female": "catalog/feet/Items.Q301_Nomad_WA_Boots_female.jpeg"
-    },
     "Items.Boots_03_old_02": {
         "command": "Game.AddToInventory(\"Items.Boots_03_old_02\", 1)",
         "name_male": "RUBBER-REINFORCED TACTICAL BOOTS",
@@ -950,48 +733,6 @@
         "image_male": "catalog/feet/Items.CasualShoes_06_old_02_male.jpeg",
         "name_female": "SHOCK-ABSORBENT STREET SHOES",
         "image_female": "catalog/feet/Items.CasualShoes_06_old_02_female.jpeg"
-    },
-    "Items.Hard_20_Reflex_Feet": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Reflex_Feet\", 1)",
-        "name_male": "SHOCK-ABSORBENT STREET SHOES",
-        "image_male": "catalog/feet/Items.Hard_20_Reflex_Feet_male.jpeg",
-        "name_female": "SHOCK-ABSORBENT STREET SHOES",
-        "image_female": "catalog/feet/Items.Hard_20_Reflex_Feet_female.jpeg"
-    },
-    "Items.Normal_20_Netrunner_Feet": {
-        "command": "Game.AddToInventory(\"Items.Normal_20_Netrunner_Feet\", 1)",
-        "name_male": "SHOCK-ABSORBENT STREET SHOES",
-        "image_male": "catalog/feet/Items.Normal_20_Netrunner_Feet_male.jpeg",
-        "name_female": "SHOCK-ABSORBENT STREET SHOES",
-        "image_female": "catalog/feet/Items.Normal_20_Netrunner_Feet_female.jpeg"
-    },
-    "Items.Q301_Street_WA_Boots": {
-        "command": "Game.AddToInventory(\"Items.Q301_Street_WA_Boots\", 1)",
-        "name_male": "SHOCK-ABSORBENT STREET SHOES",
-        "image_male": "catalog/feet/Items.Q301_Street_WA_Boots_male.jpeg",
-        "name_female": "SHOCK-ABSORBENT STREET SHOES",
-        "image_female": "catalog/feet/Items.Q301_Street_WA_Boots_female.jpeg"
-    },
-    "Items.Story_5_Feet": {
-        "command": "Game.AddToInventory(\"Items.Story_5_Feet\", 1)",
-        "name_male": "SHOCK-ABSORBENT STREET SHOES",
-        "image_male": "catalog/feet/Items.Story_5_Feet_male.jpeg",
-        "name_female": "SHOCK-ABSORBENT STREET SHOES",
-        "image_female": "catalog/feet/Items.Story_5_Feet_female.jpeg"
-    },
-    "Items.Weak_10_Feet": {
-        "command": "Game.AddToInventory(\"Items.Weak_10_Feet\", 1)",
-        "name_male": "SHOCK-ABSORBENT STREET SHOES",
-        "image_male": "catalog/feet/Items.Weak_10_Feet_male.jpeg",
-        "name_female": "SHOCK-ABSORBENT STREET SHOES",
-        "image_female": "catalog/feet/Items.Weak_10_Feet_female.jpeg"
-    },
-    "Items.Weak_30_Feet": {
-        "command": "Game.AddToInventory(\"Items.Weak_30_Feet\", 1)",
-        "name_male": "SHOCK-ABSORBENT STREET SHOES",
-        "image_male": "catalog/feet/Items.Weak_30_Feet_male.jpeg",
-        "name_female": "SHOCK-ABSORBENT STREET SHOES",
-        "image_female": "catalog/feet/Items.Weak_30_Feet_female.jpeg"
     },
     "Items.FormalShoes_01_rich_01": {
         "command": "Game.AddToInventory(\"Items.FormalShoes_01_rich_01\", 1)",
@@ -1035,34 +776,6 @@
         "name_female": "STEEL-TOE ROCKER BOOTS",
         "image_female": "catalog/feet/Items.Boots_04_basic_01_female.jpeg"
     },
-    "Items.Hard_20_Body_Feet": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Body_Feet\", 1)",
-        "name_male": "STEEL-TOE ROCKER BOOTS",
-        "image_male": "catalog/feet/Items.Hard_20_Body_Feet_male.jpeg",
-        "name_female": "STEEL-TOE ROCKER BOOTS",
-        "image_female": "catalog/feet/Items.Hard_20_Body_Feet_female.jpeg"
-    },
-    "Items.Hard_30_BodyTech_Feet": {
-        "command": "Game.AddToInventory(\"Items.Hard_30_BodyTech_Feet\", 1)",
-        "name_male": "STEEL-TOE ROCKER BOOTS",
-        "image_male": "catalog/feet/Items.Hard_30_BodyTech_Feet_male.jpeg",
-        "name_female": "STEEL-TOE ROCKER BOOTS",
-        "image_female": "catalog/feet/Items.Hard_30_BodyTech_Feet_female.jpeg"
-    },
-    "Items.Str_10_Tank_Feet": {
-        "command": "Game.AddToInventory(\"Items.Str_10_Tank_Feet\", 1)",
-        "name_male": "STEEL-TOE ROCKER BOOTS",
-        "image_male": "catalog/feet/Items.Str_10_Tank_Feet_male.jpeg",
-        "name_female": "STEEL-TOE ROCKER BOOTS",
-        "image_female": "catalog/feet/Items.Str_10_Tank_Feet_female.jpeg"
-    },
-    "Items.Str_5_Tank_Feet": {
-        "command": "Game.AddToInventory(\"Items.Str_5_Tank_Feet\", 1)",
-        "name_male": "STEEL-TOE ROCKER BOOTS",
-        "image_male": "catalog/feet/Items.Str_5_Tank_Feet_male.jpeg",
-        "name_female": "STEEL-TOE ROCKER BOOTS",
-        "image_female": "catalog/feet/Items.Str_5_Tank_Feet_female.jpeg"
-    },
     "Items.Boots_01_rich_01": {
         "command": "Game.AddToInventory(\"Items.Boots_01_rich_01\", 1)",
         "name_male": "STREET KING ANKLE BOOTS WITH REINFORCED STITCHING",
@@ -1083,20 +796,6 @@
         "image_male": "catalog/feet/Items.CasualShoes_01_basic_05_male.jpeg",
         "name_female": "STREET TACTICAL-FIBER HIGH-TOPS",
         "image_female": "catalog/feet/Items.CasualShoes_01_basic_05_female.jpeg"
-    },
-    "Items.Hard_20_Intelligence_Feet": {
-        "command": "Game.AddToInventory(\"Items.Hard_20_Intelligence_Feet\", 1)",
-        "name_male": "STREET TACTICAL-FIBER HIGH-TOPS",
-        "image_male": "catalog/feet/Items.Hard_20_Intelligence_Feet_male.jpeg",
-        "name_female": "STREET TACTICAL-FIBER HIGH-TOPS",
-        "image_female": "catalog/feet/Items.Hard_20_Intelligence_Feet_female.jpeg"
-    },
-    "Items.Str_30_Cool_Assassin_Feet": {
-        "command": "Game.AddToInventory(\"Items.Str_30_Cool_Assassin_Feet\", 1)",
-        "name_male": "STREET TACTICAL-FIBER HIGH-TOPS",
-        "image_male": "catalog/feet/Items.Str_30_Cool_Assassin_Feet_male.jpeg",
-        "name_female": "STREET TACTICAL-FIBER HIGH-TOPS",
-        "image_female": "catalog/feet/Items.Str_30_Cool_Assassin_Feet_female.jpeg"
     },
     "Items.Boots_07_old_01": {
         "command": "Game.AddToInventory(\"Items.Boots_07_old_01\", 1)",
@@ -1132,20 +831,6 @@
         "image_male": "catalog/feet/Items.CasualShoes_01_basic_01_male.jpeg",
         "name_female": "SUNNY AMMO SYNTHETIC HIGH-TOPS",
         "image_female": "catalog/feet/Items.CasualShoes_01_basic_01_female.jpeg"
-    },
-    "Items.CasualShoes_01_basic_01_Crafting": {
-        "command": "Game.AddToInventory(\"Items.CasualShoes_01_basic_01_Crafting\", 1)",
-        "name_male": "SUNNY AMMO SYNTHETIC HIGH-TOPS",
-        "image_male": "catalog/feet/Items.CasualShoes_01_basic_01_Crafting_male.jpeg",
-        "name_female": "SUNNY AMMO SYNTHETIC HIGH-TOPS",
-        "image_female": "catalog/feet/Items.CasualShoes_01_basic_01_Crafting_female.jpeg"
-    },
-    "TEST.ItemPass_FeetArmor": {
-        "command": "Game.AddToInventory(\"TEST.ItemPass_FeetArmor\", 1)",
-        "name_male": "SUNNY AMMO SYNTHETIC HIGH-TOPS",
-        "image_male": "catalog/feet/TEST.ItemPass_FeetArmor_male.jpeg",
-        "name_female": "SUNNY AMMO SYNTHETIC HIGH-TOPS",
-        "image_female": "catalog/feet/TEST.ItemPass_FeetArmor_female.jpeg"
     },
     "Items.CasualShoes_05_rich_02": {
         "command": "Game.AddToInventory(\"Items.CasualShoes_05_rich_02\", 1)",
@@ -1237,20 +922,6 @@
         "image_male": "catalog/feet/Items.Boots_02_basic_02_male.jpeg",
         "name_female": "VARNISHED ROCKER SHORTIES WITH EXTRA PROTECTION",
         "image_female": "catalog/feet/Items.Boots_02_basic_02_female.jpeg"
-    },
-    "Items.Q301_Corpo_MA_Boots": {
-        "command": "Game.AddToInventory(\"Items.Q301_Corpo_MA_Boots\", 1)",
-        "name_male": "VARNISHED ROCKER SHORTIES WITH EXTRA PROTECTION",
-        "image_male": "catalog/feet/Items.Q301_Corpo_MA_Boots_male.jpeg",
-        "name_female": "VARNISHED ROCKER SHORTIES WITH EXTRA PROTECTION",
-        "image_female": "catalog/feet/Items.Q301_Corpo_MA_Boots_female.jpeg"
-    },
-    "Items.Q301_Corpo_WA_Boots": {
-        "command": "Game.AddToInventory(\"Items.Q301_Corpo_WA_Boots\", 1)",
-        "name_male": "VARNISHED ROCKER SHORTIES WITH EXTRA PROTECTION",
-        "image_male": "catalog/feet/Items.Q301_Corpo_WA_Boots_male.jpeg",
-        "name_female": "VARNISHED ROCKER SHORTIES WITH EXTRA PROTECTION",
-        "image_female": "catalog/feet/Items.Q301_Corpo_WA_Boots_female.jpeg"
     },
     "Items.Q203_Epilogue_Boots": {
         "command": "Game.AddToInventory(\"Items.Q203_Epilogue_Boots\", 1)",
