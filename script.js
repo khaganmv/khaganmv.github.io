@@ -5,6 +5,8 @@ const jsonCatalog = {
     "inner-torso": undefined, 
     "legs": undefined, 
     "outer-torso": undefined, 
+    "dress": undefined,
+    "jumpsuit": undefined,
     "outfit": undefined,
 };
 
@@ -15,6 +17,8 @@ const subcatalogs = {
     "inner-torso": undefined, 
     "legs": undefined, 
     "outer-torso": undefined, 
+    "dress": undefined,
+    "jumpsuit": undefined,
     "outfit": undefined,
 };
 
@@ -24,7 +28,9 @@ const buttons = {
     "head": undefined, 
     "inner-torso": undefined, 
     "legs": undefined, 
-    "outer-torso": undefined, 
+    "outer-torso": undefined,
+    "dress": undefined,
+    "jumpsuit": undefined, 
     "outfit": undefined,
 };
 
@@ -48,6 +54,10 @@ function buttonToSlot(button) {
             return "legs";
         case "Outer Torso":
             return "outer-torso";
+        case "Dress":
+            return "dress";
+        case "Jumpsuit":
+            return "jumpsuit";
         case "Outfit":
             return "outfit";
         default:
@@ -70,6 +80,10 @@ function slotToButton(slot) {
             return "Legs";
         case "outer-torso":
             return "Outer Torso";
+        case "dress":
+            return "Dress";
+        case "jumpsuit":
+            return "Jumpsuit";
         case "outfit":
             return "Outfit";
         default:
@@ -188,8 +202,6 @@ async function main() {
         }
     });
 }
-
-
 
 
 main();

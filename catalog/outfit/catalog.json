@@ -13,13 +13,6 @@
         "name_female": "AGUILAR'S SUIT",
         "image_female": "catalog/outfit/Items.MQ304_assassin_outfit_female.jpeg"
     },
-    "Items.MQ304_assassin_outfit_ow": {
-        "command": "Game.AddToInventory(\"Items.MQ304_assassin_outfit_ow\", 1)",
-        "name_male": "AGUILAR'S SUIT",
-        "image_male": "catalog/outfit/Items.MQ304_assassin_outfit_ow_male.jpeg",
-        "name_female": "AGUILAR'S SUIT",
-        "image_female": "catalog/outfit/Items.MQ304_assassin_outfit_ow_female.jpeg"
-    },
     "Items.Jumpsuit_03_old_01": {
         "command": "Game.AddToInventory(\"Items.Jumpsuit_03_old_01\", 1)",
         "name_male": "ARASAKA HAZMAT SUIT",
@@ -111,13 +104,6 @@
         "name_female": "NETRUNNER SUIT",
         "image_female": "catalog/outfit/Items.Q304_netrunner_outfit_female.jpeg"
     },
-    "Items.Q304_netrunner_outfit_ow": {
-        "command": "Game.AddToInventory(\"Items.Q304_netrunner_outfit_ow\", 1)",
-        "name_male": "NETRUNNER SUIT",
-        "image_male": "catalog/outfit/Items.Q304_netrunner_outfit_ow_male.jpeg",
-        "name_female": "NETRUNNER SUIT",
-        "image_female": "catalog/outfit/Items.Q304_netrunner_outfit_ow_female.jpeg"
-    },
     "Items.Q301_nusa_agent": {
         "command": "Game.AddToInventory(\"Items.Q301_nusa_agent\", 1)",
         "name_male": "NUSA SUIT",
@@ -181,13 +167,6 @@
         "name_female": "STYLISH SUIT",
         "image_female": "catalog/outfit/Items.Q303_party_outfit_female.jpeg"
     },
-    "Items.Q303_party_outfit_ow": {
-        "command": "Game.AddToInventory(\"Items.Q303_party_outfit_ow\", 1)",
-        "name_male": "STYLISH SUIT",
-        "image_male": "catalog/outfit/Items.Q303_party_outfit_ow_male.jpeg",
-        "name_female": "STYLISH SUIT",
-        "image_female": "catalog/outfit/Items.Q303_party_outfit_ow_female.jpeg"
-    },
     "Items.Q303_diving_suit": {
         "command": "Game.AddToInventory(\"Items.Q303_diving_suit\", 1)",
         "name_male": "TACTICAL DIVING SUIT",
@@ -201,13 +180,6 @@
         "image_male": "catalog/outfit/Items.Q303_diving_suit_ow_male.jpeg",
         "name_female": "TACTICAL DIVING SUIT",
         "image_female": "catalog/outfit/Items.Q303_diving_suit_ow_female.jpeg"
-    },
-    "Items.Q303_diving_suit_ow_helmet": {
-        "command": "Game.AddToInventory(\"Items.Q303_diving_suit_ow_helmet\", 1)",
-        "name_male": "TACTICAL DIVING SUIT",
-        "image_male": "catalog/outfit/Items.Q303_diving_suit_ow_helmet_male.jpeg",
-        "name_female": "TACTICAL DIVING SUIT",
-        "image_female": "catalog/outfit/Items.Q303_diving_suit_ow_helmet_female.jpeg"
     },
     "Items.Trauma_Team_Outfit": {
         "command": "Game.AddToInventory(\"Items.Trauma_Team_Outfit\", 1)",
@@ -243,12 +215,5 @@
         "image_male": "catalog/outfit/Items.Q000_half_StreetKid_male.jpeg",
         "name_female": "V'S URBAN OUTFIT",
         "image_female": "catalog/outfit/Items.Q000_half_StreetKid_female.jpeg"
-    },
-    "Items.sq030_diving_suit_female": {
-        "command": "Game.AddToInventory(\"Items.sq030_diving_suit_female\", 1)",
-        "name_male": "WOMEN'S DIVING SUIT  [BROKEN]",
-        "image_male": "catalog/outfit/Items.sq030_diving_suit_female_male.jpeg",
-        "name_female": "WOMEN'S DIVING SUIT  [BROKEN]",
-        "image_female": "catalog/outfit/Items.sq030_diving_suit_female_female.jpeg"
     }
 }

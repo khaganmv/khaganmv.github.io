@@ -1,0 +1,310 @@
+{
+    "Items.Dress_02_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Dress_02_basic_02\", 1)",
+        "name_male": "ARASAKA POLYAMIDE CORPORATE DRESS",
+        "image_male": "catalog/dress/Items.Dress_02_basic_02_male.jpeg",
+        "name_female": "ARASAKA POLYAMIDE CORPORATE DRESS",
+        "image_female": "catalog/dress/Items.Dress_02_basic_02_female.jpeg"
+    },
+    "Items.Dress_03_rich_04": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_rich_04\", 1)",
+        "name_male": "BIOSYNTHETIC SPIDER SILK DRESS",
+        "image_male": "catalog/dress/Items.Dress_03_rich_04_male.jpeg",
+        "name_female": "BIOSYNTHETIC SPIDER SILK DRESS",
+        "image_female": "catalog/dress/Items.Dress_03_rich_04_female.jpeg"
+    },
+    "Items.Dress_02_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Dress_02_rich_02\", 1)",
+        "name_male": "BRASS HARMONY COMPOSITE-REINFORCED FORMAL DRESS",
+        "image_male": "catalog/dress/Items.Dress_02_rich_02_male.jpeg",
+        "name_female": "BRASS HARMONY COMPOSITE-REINFORCED FORMAL DRESS",
+        "image_female": "catalog/dress/Items.Dress_02_rich_02_female.jpeg"
+    },
+    "Items.Dress_04_basic_06": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_basic_06\", 1)",
+        "name_male": "BREATHABLE BPA-FREE DRESS",
+        "image_male": "catalog/dress/Items.Dress_04_basic_06_male.jpeg",
+        "name_female": "BREATHABLE BPA-FREE DRESS",
+        "image_female": "catalog/dress/Items.Dress_04_basic_06_female.jpeg"
+    },
+    "Items.Dress_03_rich_05": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_rich_05\", 1)",
+        "name_male": "CASHMERE DRESS WITH WELDED HEMS",
+        "image_male": "catalog/dress/Items.Dress_03_rich_05_male.jpeg",
+        "name_female": "CASHMERE DRESS WITH WELDED HEMS",
+        "image_female": "catalog/dress/Items.Dress_03_rich_05_female.jpeg"
+    },
+    "Items.Dress_03_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_basic_02\", 1)",
+        "name_male": "COCKTAIL DRESS WITH BIOPLASTIC FUR SLEEVES",
+        "image_male": "catalog/dress/Items.Dress_03_basic_02_male.jpeg",
+        "name_female": "COCKTAIL DRESS WITH BIOPLASTIC FUR SLEEVES",
+        "image_female": "catalog/dress/Items.Dress_03_basic_02_female.jpeg"
+    },
+    "Items.Dress_03_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_rich_01\", 1)",
+        "name_male": "COMPRESSION DRESS WITH STRETCH FABRIC",
+        "image_male": "catalog/dress/Items.Dress_03_rich_01_male.jpeg",
+        "name_female": "COMPRESSION DRESS WITH STRETCH FABRIC",
+        "image_female": "catalog/dress/Items.Dress_03_rich_01_female.jpeg"
+    },
+    "Items.Dress_01_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Dress_01_rich_02\", 1)",
+        "name_male": "DEMON RHAPSODY REACTIVE-LAYER PENCIL DRESS",
+        "image_male": "catalog/dress/Items.Dress_01_rich_02_male.jpeg",
+        "name_female": "DEMON RHAPSODY REACTIVE-LAYER PENCIL DRESS",
+        "image_female": "catalog/dress/Items.Dress_01_rich_02_female.jpeg"
+    },
+    "Items.Dress_04_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_basic_01\", 1)",
+        "name_male": "DRESS WITH CRYSTALLINE PROTECTIVE SLEEVES",
+        "image_male": "catalog/dress/Items.Dress_04_basic_01_male.jpeg",
+        "name_female": "DRESS WITH CRYSTALLINE PROTECTIVE SLEEVES",
+        "image_female": "catalog/dress/Items.Dress_04_basic_01_female.jpeg"
+    },
+    "Items.Dress_02_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Dress_02_basic_01\", 1)",
+        "name_male": "DURABLE SYNWEAVE CORPORATE DRESS",
+        "image_male": "catalog/dress/Items.Dress_02_basic_01_male.jpeg",
+        "name_female": "DURABLE SYNWEAVE CORPORATE DRESS",
+        "image_female": "catalog/dress/Items.Dress_02_basic_01_female.jpeg"
+    },
+    "Items.Dress_04_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_rich_03\", 1)",
+        "name_male": "ELASTIC PARA-ARAMID DRESS",
+        "image_male": "catalog/dress/Items.Dress_04_rich_03_male.jpeg",
+        "name_female": "ELASTIC PARA-ARAMID DRESS",
+        "image_female": "catalog/dress/Items.Dress_04_rich_03_female.jpeg"
+    },
+    "Items.Dress_01_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Dress_01_basic_03\", 1)",
+        "name_male": "ELEGANT HYBRID-LINING PENCIL DRESS",
+        "image_male": "catalog/dress/Items.Dress_01_basic_03_male.jpeg",
+        "name_female": "ELEGANT HYBRID-LINING PENCIL DRESS",
+        "image_female": "catalog/dress/Items.Dress_01_basic_03_female.jpeg"
+    },
+    "Items.Dress_04_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_rich_01\", 1)",
+        "name_male": "FITTED 14-CARAT GOLD LAM\u00c9 DRESS",
+        "image_male": "catalog/dress/Items.Dress_04_rich_01_male.jpeg",
+        "name_female": "FITTED 14-CARAT GOLD LAM\u00c9 DRESS",
+        "image_female": "catalog/dress/Items.Dress_04_rich_01_female.jpeg"
+    },
+    "Items.Dress_04_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_rich_02\", 1)",
+        "name_male": "FITTED SHARKSKIN DRESS",
+        "image_male": "catalog/dress/Items.Dress_04_rich_02_male.jpeg",
+        "name_female": "FITTED SHARKSKIN DRESS",
+        "image_female": "catalog/dress/Items.Dress_04_rich_02_female.jpeg"
+    },
+    "Items.Dress_03_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_basic_01\", 1)",
+        "name_male": "FLAME-RETARDANT SPACER-FABRIC DRESS",
+        "image_male": "catalog/dress/Items.Dress_03_basic_01_male.jpeg",
+        "name_female": "FLAME-RETARDANT SPACER-FABRIC DRESS",
+        "image_female": "catalog/dress/Items.Dress_03_basic_01_female.jpeg"
+    },
+    "Items.Dress_03_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_basic_03\", 1)",
+        "name_male": "FORM-FITTING MICROFIBER DRESS",
+        "image_male": "catalog/dress/Items.Dress_03_basic_03_male.jpeg",
+        "name_female": "FORM-FITTING MICROFIBER DRESS",
+        "image_female": "catalog/dress/Items.Dress_03_basic_03_female.jpeg"
+    },
+    "Items.Dress_04_old_03": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_old_03\", 1)",
+        "name_male": "FRAYED POLYURETHANE DRESS",
+        "image_male": "catalog/dress/Items.Dress_04_old_03_male.jpeg",
+        "name_female": "FRAYED POLYURETHANE DRESS",
+        "image_female": "catalog/dress/Items.Dress_04_old_03_female.jpeg"
+    },
+    "Items.Dress_01_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Dress_01_rich_03\", 1)",
+        "name_male": "GREEN VIPER DOUBLE-NANOWEAVE PENCIL DRESS",
+        "image_male": "catalog/dress/Items.Dress_01_rich_03_male.jpeg",
+        "name_female": "GREEN VIPER DOUBLE-NANOWEAVE PENCIL DRESS",
+        "image_female": "catalog/dress/Items.Dress_01_rich_03_female.jpeg"
+    },
+    "Items.Dress_03_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_rich_02\", 1)",
+        "name_male": "HAUTE COUTURE PINEAPPLE-LEATHER DRESS",
+        "image_male": "catalog/dress/Items.Dress_03_rich_02_male.jpeg",
+        "name_female": "HAUTE COUTURE PINEAPPLE-LEATHER DRESS",
+        "image_female": "catalog/dress/Items.Dress_03_rich_02_female.jpeg"
+    },
+    "Items.Dress_04_rich_04": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_rich_04\", 1)",
+        "name_male": "HEAT-RESISTANT DRESS WITH LEAD-GLASS SLEEVES",
+        "image_male": "catalog/dress/Items.Dress_04_rich_04_male.jpeg",
+        "name_female": "HEAT-RESISTANT DRESS WITH LEAD-GLASS SLEEVES",
+        "image_female": "catalog/dress/Items.Dress_04_rich_04_female.jpeg"
+    },
+    "Items.Dress_03_rich_06": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_rich_06\", 1)",
+        "name_male": "HIGH-UTILITY DRESS WITH ANTI-FRAG INSERTS",
+        "image_male": "catalog/dress/Items.Dress_03_rich_06_male.jpeg",
+        "name_female": "HIGH-UTILITY DRESS WITH ANTI-FRAG INSERTS",
+        "image_female": "catalog/dress/Items.Dress_03_rich_06_female.jpeg"
+    },
+    "Items.Dress_03_rich_08": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_rich_08\", 1)",
+        "name_male": "HYGROSCOPIC DRESS WITH BEJEWELED SLEEVES",
+        "image_male": "catalog/dress/Items.Dress_03_rich_08_male.jpeg",
+        "name_female": "HYGROSCOPIC DRESS WITH BEJEWELED SLEEVES",
+        "image_female": "catalog/dress/Items.Dress_03_rich_08_female.jpeg"
+    },
+    "Items.Dress_04_basic_04": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_basic_04\", 1)",
+        "name_male": "HYPOALLERGENIC DRESS WITH BETULIN COATING",
+        "image_male": "catalog/dress/Items.Dress_04_basic_04_male.jpeg",
+        "name_female": "HYPOALLERGENIC DRESS WITH BETULIN COATING",
+        "image_female": "catalog/dress/Items.Dress_04_basic_04_female.jpeg"
+    },
+    "Items.Dress_01_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Dress_01_rich_01\", 1)",
+        "name_male": "LADY IN WHITE HYBRID-WEAVE PENCIL DRESS",
+        "image_male": "catalog/dress/Items.Dress_01_rich_01_male.jpeg",
+        "name_female": "LADY IN WHITE HYBRID-WEAVE PENCIL DRESS",
+        "image_female": "catalog/dress/Items.Dress_01_rich_01_female.jpeg"
+    },
+    "Items.Dress_04_rich_05": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_rich_05\", 1)",
+        "name_male": "LASER-CUT DRESS WITH IMPREGNATED FLUOCARBON",
+        "image_male": "catalog/dress/Items.Dress_04_rich_05_male.jpeg",
+        "name_female": "LASER-CUT DRESS WITH IMPREGNATED FLUOCARBON",
+        "image_female": "catalog/dress/Items.Dress_04_rich_05_female.jpeg"
+    },
+    "Items.Dress_03_basic_04": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_basic_04\", 1)",
+        "name_male": "LIGHTWEIGHT SEERSUCKER PANELED DRESS",
+        "image_male": "catalog/dress/Items.Dress_03_basic_04_male.jpeg",
+        "name_female": "LIGHTWEIGHT SEERSUCKER PANELED DRESS",
+        "image_female": "catalog/dress/Items.Dress_03_basic_04_female.jpeg"
+    },
+    "Items.Dress_04_basic_05": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_basic_05\", 1)",
+        "name_male": "NYLON-COTTON DRESS WITH PADDING",
+        "image_male": "catalog/dress/Items.Dress_04_basic_05_male.jpeg",
+        "name_female": "NYLON-COTTON DRESS WITH PADDING",
+        "image_female": "catalog/dress/Items.Dress_04_basic_05_female.jpeg"
+    },
+    "Items.Dress_03_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_rich_03\", 1)",
+        "name_male": "OFF-WHITE DRESS WITH GOLD INLAY",
+        "image_male": "catalog/dress/Items.Dress_03_rich_03_male.jpeg",
+        "name_female": "OFF-WHITE DRESS WITH GOLD INLAY",
+        "image_female": "catalog/dress/Items.Dress_03_rich_03_female.jpeg"
+    },
+    "Items.Dress_02_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Dress_02_rich_01\", 1)",
+        "name_male": "PHOENIX FORMAL DRESS WITH MICROARMOR LAYER",
+        "image_male": "catalog/dress/Items.Dress_02_rich_01_male.jpeg",
+        "name_female": "PHOENIX FORMAL DRESS WITH MICROARMOR LAYER",
+        "image_female": "catalog/dress/Items.Dress_02_rich_01_female.jpeg"
+    },
+    "Items.Dress_04_basic_08": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_basic_08\", 1)",
+        "name_male": "PINK LIQUI-RUBBER DRESS",
+        "image_male": "catalog/dress/Items.Dress_04_basic_08_male.jpeg",
+        "name_female": "PINK LIQUI-RUBBER DRESS",
+        "image_female": "catalog/dress/Items.Dress_04_basic_08_female.jpeg"
+    },
+    "Items.Dress_04_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_basic_03\", 1)",
+        "name_male": "PRACTICAL DRESS WITH TECH MEMBRANE",
+        "image_male": "catalog/dress/Items.Dress_04_basic_03_male.jpeg",
+        "name_female": "PRACTICAL DRESS WITH TECH MEMBRANE",
+        "image_female": "catalog/dress/Items.Dress_04_basic_03_female.jpeg"
+    },
+    "Items.Dress_04_old_01": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_old_01\", 1)",
+        "name_male": "ROCKER DRESS WITH REINFORCED BODICE",
+        "image_male": "catalog/dress/Items.Dress_04_old_01_male.jpeg",
+        "name_female": "ROCKER DRESS WITH REINFORCED BODICE",
+        "image_female": "catalog/dress/Items.Dress_04_old_01_female.jpeg"
+    },
+    "Items.Dress_01_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Dress_01_basic_02\", 1)",
+        "name_male": "ROZOVAYA REKA PENCIL DRESS WITH PROTECTIVE MEMBRANE",
+        "image_male": "catalog/dress/Items.Dress_01_basic_02_male.jpeg",
+        "name_female": "ROZOVAYA REKA PENCIL DRESS WITH PROTECTIVE MEMBRANE",
+        "image_female": "catalog/dress/Items.Dress_01_basic_02_female.jpeg"
+    },
+    "Items.Dress_02_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Dress_02_rich_03\", 1)",
+        "name_male": "SCHWARZE LIMETTE ARAMID-FABRIC DRESS",
+        "image_male": "catalog/dress/Items.Dress_02_rich_03_male.jpeg",
+        "name_female": "SCHWARZE LIMETTE ARAMID-FABRIC DRESS",
+        "image_female": "catalog/dress/Items.Dress_02_rich_03_female.jpeg"
+    },
+    "Items.Dress_03_rich_07": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_rich_07\", 1)",
+        "name_male": "SEA SILK APPLIQU\u00c9 DRESS",
+        "image_male": "catalog/dress/Items.Dress_03_rich_07_male.jpeg",
+        "name_female": "SEA SILK APPLIQU\u00c9 DRESS",
+        "image_female": "catalog/dress/Items.Dress_03_rich_07_female.jpeg"
+    },
+    "Items.Dress_03_basic_05": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_basic_05\", 1)",
+        "name_male": "SHEATH DRESS WITH ULTRASONIC QUILTING",
+        "image_male": "catalog/dress/Items.Dress_03_basic_05_male.jpeg",
+        "name_female": "SHEATH DRESS WITH ULTRASONIC QUILTING",
+        "image_female": "catalog/dress/Items.Dress_03_basic_05_female.jpeg"
+    },
+    "Items.Dress_03_basic_06": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_basic_06\", 1)",
+        "name_male": "SLIM-FIT DRESS WITH THERMOACTIVE MEMBRANE",
+        "image_male": "catalog/dress/Items.Dress_03_basic_06_male.jpeg",
+        "name_female": "SLIM-FIT DRESS WITH THERMOACTIVE MEMBRANE",
+        "image_female": "catalog/dress/Items.Dress_03_basic_06_female.jpeg"
+    },
+    "Items.Dress_02_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Dress_02_basic_03\", 1)",
+        "name_male": "SPOTTED ARMOR-COATED CORPORATE DRESS",
+        "image_male": "catalog/dress/Items.Dress_02_basic_03_male.jpeg",
+        "name_female": "SPOTTED ARMOR-COATED CORPORATE DRESS",
+        "image_female": "catalog/dress/Items.Dress_02_basic_03_female.jpeg"
+    },
+    "Items.Dress_04_basic_07": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_basic_07\", 1)",
+        "name_male": "STAIN-RESISTANT DRESS WITH TAPED SEAMS",
+        "image_male": "catalog/dress/Items.Dress_04_basic_07_male.jpeg",
+        "name_female": "STAIN-RESISTANT DRESS WITH TAPED SEAMS",
+        "image_female": "catalog/dress/Items.Dress_04_basic_07_female.jpeg"
+    },
+    "Items.Dress_03_basic_07": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_basic_07\", 1)",
+        "name_male": "STREETWEAR DRESS WITH WELDED HEMS",
+        "image_male": "catalog/dress/Items.Dress_03_basic_07_male.jpeg",
+        "name_female": "STREETWEAR DRESS WITH WELDED HEMS",
+        "image_female": "catalog/dress/Items.Dress_03_basic_07_female.jpeg"
+    },
+    "Items.Dress_03_basic_08": {
+        "command": "Game.AddToInventory(\"Items.Dress_03_basic_08\", 1)",
+        "name_male": "SYNTHETIC OIL-RESISTANT EVENING DRESS",
+        "image_male": "catalog/dress/Items.Dress_03_basic_08_male.jpeg",
+        "name_female": "SYNTHETIC OIL-RESISTANT EVENING DRESS",
+        "image_female": "catalog/dress/Items.Dress_03_basic_08_female.jpeg"
+    },
+    "Items.Dress_04_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_basic_02\", 1)",
+        "name_male": "THERMAL 2.5-LAYER RAYON DRESS",
+        "image_male": "catalog/dress/Items.Dress_04_basic_02_male.jpeg",
+        "name_female": "THERMAL 2.5-LAYER RAYON DRESS",
+        "image_female": "catalog/dress/Items.Dress_04_basic_02_female.jpeg"
+    },
+    "Items.Dress_01_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Dress_01_basic_01\", 1)",
+        "name_male": "VICTORIAN ROSE ANTI-SHRAPNEL PENCIL DRESS",
+        "image_male": "catalog/dress/Items.Dress_01_basic_01_male.jpeg",
+        "name_female": "VICTORIAN ROSE ANTI-SHRAPNEL PENCIL DRESS",
+        "image_female": "catalog/dress/Items.Dress_01_basic_01_female.jpeg"
+    },
+    "Items.Dress_04_old_02": {
+        "command": "Game.AddToInventory(\"Items.Dress_04_old_02\", 1)",
+        "name_male": "WELL-WORN THINK DENIM DRESS",
+        "image_male": "catalog/dress/Items.Dress_04_old_02_male.jpeg",
+        "name_female": "WELL-WORN THINK DENIM DRESS",
+        "image_female": "catalog/dress/Items.Dress_04_old_02_female.jpeg"
+    }
+}

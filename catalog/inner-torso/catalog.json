@@ -41,13 +41,6 @@
         "name_female": "ANTI-CHEM SYNFABRIC TANK TOP",
         "image_female": "catalog/inner-torso/Items.TShirt_01_old_01_female.jpeg"
     },
-    "Items.TightJumpsuit_02_basic_03": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_basic_03\", 1)",
-        "name_male": "ANTISTATIC CHEM-RESISTANT UNITARD",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_02_basic_03_male.jpeg",
-        "name_female": "ANTISTATIC CHEM-RESISTANT UNITARD",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_basic_03_female.jpeg"
-    },
     "Items.Shirt_02_old_01": {
         "command": "Game.AddToInventory(\"Items.Shirt_02_old_01\", 1)",
         "name_male": "ARAMID-WEAVE TACTICAL TURTLENECK",
@@ -132,13 +125,6 @@
         "name_female": "BRAINDANCE BLUE TRILAYER LONG-SLEEVE",
         "image_female": "catalog/inner-torso/Items.Shirt_01_basic_01_female.jpeg"
     },
-    "Items.TightJumpsuit_02_basic_04": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_basic_04\", 1)",
-        "name_male": "BREATHABLE UNITARD WITH MICOPORE FOIL",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_02_basic_04_male.jpeg",
-        "name_female": "BREATHABLE UNITARD WITH MICOPORE FOIL",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_basic_04_female.jpeg"
-    },
     "Items.Tshirt_12_old_06": {
         "command": "Game.AddToInventory(\"Items.Tshirt_12_old_06\", 1)",
         "name_male": "CAMO T-SHIRT WITH COPPER MICROFIBER",
@@ -173,13 +159,6 @@
         "image_male": "catalog/inner-torso/Items.FormalShirt_01_old_02_male.jpeg",
         "name_female": "CLASSY PASTEL SHIRT AND VEST",
         "image_female": "catalog/inner-torso/Items.FormalShirt_01_old_02_female.jpeg"
-    },
-    "Items.TightJumpsuit_01_rich_01": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_01_rich_01\", 1)",
-        "name_male": "COMPOSITE ARASAKA NETRUNNING NANOWEAVE SUIT",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_01_rich_01_male.jpeg",
-        "name_female": "COMPOSITE ARASAKA NETRUNNING NANOWEAVE SUIT",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_01_rich_01_female.jpeg"
     },
     "Items.Shirt_03_basic_02": {
         "command": "Game.AddToInventory(\"Items.Shirt_03_basic_02\", 1)",
@@ -265,13 +244,6 @@
         "name_female": "DURABLE LASER-CUT LAMINATE T-SHIRT",
         "image_female": "catalog/inner-torso/Items.Tshirt_12_basic_06_female.jpeg"
     },
-    "Items.TightJumpsuit_02_rich_04": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_rich_04\", 1)",
-        "name_male": "DURABLE UNITARD WITH ANTI-SHRAPNEL WEAVE",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_02_rich_04_male.jpeg",
-        "name_female": "DURABLE UNITARD WITH ANTI-SHRAPNEL WEAVE",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_rich_04_female.jpeg"
-    },
     "Items.FormalShirt_01_rich_04": {
         "command": "Game.AddToInventory(\"Items.FormalShirt_01_rich_04\", 1)",
         "name_male": "EL DORADO ARAMID-WEAVE DRESS SHIRT AND VEST",
@@ -285,20 +257,6 @@
         "image_male": "catalog/inner-torso/Items.Shirt_02_old_03_male.jpeg",
         "name_female": "ELASTIC MICROPLATED SPORTY TURTLENECK",
         "image_female": "catalog/inner-torso/Items.Shirt_02_old_03_female.jpeg"
-    },
-    "Items.TightJumpsuit_02_basic_01": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_basic_01\", 1)",
-        "name_male": "ELASTIC UNITARD WITH BREATHABLE MESH",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_02_basic_01_male.jpeg",
-        "name_female": "ELASTIC UNITARD WITH BREATHABLE MESH",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_basic_01_female.jpeg"
-    },
-    "Items.TightJumpsuit_02_rich_05": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_rich_05\", 1)",
-        "name_male": "ELEGANT UNITARD WITH BALLISTIC LINING",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_02_rich_05_male.jpeg",
-        "name_female": "ELEGANT UNITARD WITH BALLISTIC LINING",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_rich_05_female.jpeg"
     },
     "Items.TShirt_03_basic_02": {
         "command": "Game.AddToInventory(\"Items.TShirt_03_basic_02\", 1)",
@@ -405,13 +363,6 @@
         "name_female": "HEAT-RESISTANT ARAMID-WEAVE FIXER BUSTIER",
         "image_female": "catalog/inner-torso/Items.Fixer_01_Set_TShirt_female.jpeg"
     },
-    "Items.Netrunner_01_Set_Jumpsuit": {
-        "command": "Game.AddToInventory(\"Items.Netrunner_01_Set_Jumpsuit\", 1)",
-        "name_male": "HEAT-RESISTANT HYBRIDWEAVE NETRUNNING SUIT",
-        "image_male": "catalog/inner-torso/Items.Netrunner_01_Set_Jumpsuit_male.jpeg",
-        "name_female": "HEAT-RESISTANT HYBRIDWEAVE NETRUNNING SUIT",
-        "image_female": "catalog/inner-torso/Items.Netrunner_01_Set_Jumpsuit_female.jpeg"
-    },
     "Items.Media_01_Set_Shirt": {
         "command": "Game.AddToInventory(\"Items.Media_01_Set_Shirt\", 1)",
         "name_male": "HEAT-RESISTANT NANOWEAVE MEDIA SHIRT",
@@ -440,13 +391,6 @@
         "name_female": "HOSPITAL SHIRT",
         "image_female": "catalog/inner-torso/Items.Q201_SpaceHospitalShirt_female.jpeg"
     },
-    "Items.TightJumpsuit_02_rich_06": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_rich_06\", 1)",
-        "name_male": "HYBRID UNITARD OF FLAME-RETARDANT SPANDEX",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_02_rich_06_male.jpeg",
-        "name_female": "HYBRID UNITARD OF FLAME-RETARDANT SPANDEX",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_rich_06_female.jpeg"
-    },
     "Items.Q204_Epilogue_TShirt": {
         "command": "Game.AddToInventory(\"Items.Q204_Epilogue_TShirt\", 1)",
         "name_male": "JOHNNY'S SHIRT",
@@ -467,20 +411,6 @@
         "image_male": "catalog/inner-torso/Items.TShirt_08_basic_01_male.jpeg",
         "name_female": "KNOTTED ARMOR WEAVE TANK",
         "image_female": "catalog/inner-torso/Items.TShirt_08_basic_01_female.jpeg"
-    },
-    "Items.TightJumpsuit_02_rich_01": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_rich_01\", 1)",
-        "name_male": "LASER-CUT ULTRATHIN UNITARD",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_02_rich_01_male.jpeg",
-        "name_female": "LASER-CUT ULTRATHIN UNITARD",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_rich_01_female.jpeg"
-    },
-    "Items.TightJumpsuit_01_basic_02": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_01_basic_02\", 1)",
-        "name_male": "LIGHT ELASTOMER NETRUNNING SUIT",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_01_basic_02_male.jpeg",
-        "name_female": "LIGHT ELASTOMER NETRUNNING SUIT",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_01_basic_02_female.jpeg"
     },
     "Items.Shirt_02_rich_01": {
         "command": "Game.AddToInventory(\"Items.Shirt_02_rich_01\", 1)",
@@ -531,13 +461,6 @@
         "name_female": "MELTING HOTTIE TANK TOP",
         "image_female": "catalog/inner-torso/Items.TShirt_01_basic_02_female.jpeg"
     },
-    "Items.TightJumpsuit_01_basic_01": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_01_basic_01\", 1)",
-        "name_male": "MILITARY-GRADE ARAMID NETRUNNING SUIT",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_01_basic_01_male.jpeg",
-        "name_female": "MILITARY-GRADE ARAMID NETRUNNING SUIT",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_01_basic_01_female.jpeg"
-    },
     "Items.TShirt_03_old_03": {
         "command": "Game.AddToInventory(\"Items.TShirt_03_old_03\", 1)",
         "name_male": "MOX ULTRALIGHT TANK TOP WITH MICROMESH LAYER",
@@ -573,13 +496,6 @@
         "name_female": "NIPPON COMPOSITE-COATED MUSCLE TANK",
         "image_female": "catalog/inner-torso/Items.TShirt_06_basic_01_female.jpeg"
     },
-    "Items.TightJumpsuit_02_basic_02": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_basic_02\", 1)",
-        "name_male": "NONSLIP UNITARD WITH HEAT-SEALED SEAMS",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_02_basic_02_male.jpeg",
-        "name_female": "NONSLIP UNITARD WITH HEAT-SEALED SEAMS",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_basic_02_female.jpeg"
-    },
     "Items.TShirt_06_old_02": {
         "command": "Game.AddToInventory(\"Items.TShirt_06_old_02\", 1)",
         "name_male": "OLD EMERALD SPEED MUSCLE TANK",
@@ -600,13 +516,6 @@
         "image_male": "catalog/inner-torso/Items.TShirt_02_old_02_male.jpeg",
         "name_female": "OLD HEX CAMO SHIRT",
         "image_female": "catalog/inner-torso/Items.TShirt_02_old_02_female.jpeg"
-    },
-    "Items.TightJumpsuit_01_old_02": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_01_old_02\", 1)",
-        "name_male": "OLD NETRUNNING SUIT",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_01_old_02_male.jpeg",
-        "name_female": "OLD NETRUNNING SUIT",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_01_old_02_female.jpeg"
     },
     "Items.Tshirt_12_old_08": {
         "command": "Game.AddToInventory(\"Items.Tshirt_12_old_08\", 1)",
@@ -685,13 +594,6 @@
         "name_female": "POLYCARBONATE NOMAD SHIRT WITH REINFORCED SEAMS",
         "image_female": "catalog/inner-torso/Items.Nomad_01_Set_TShirt_female.jpeg"
     },
-    "Items.TightJumpsuit_02_basic_05": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_basic_05\", 1)",
-        "name_male": "POLYETHYLENE CHEM-RESISTANT UNITARD",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_02_basic_05_male.jpeg",
-        "name_female": "POLYETHYLENE CHEM-RESISTANT UNITARD",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_basic_05_female.jpeg"
-    },
     "Items.Shirt_01_basic_02": {
         "command": "Game.AddToInventory(\"Items.Shirt_01_basic_02\", 1)",
         "name_male": "PSYCHO FLEXIWEAVE LONG-SLEEVE",
@@ -762,13 +664,6 @@
         "name_female": "QUICK-DRY COMPOSITE T-SHIRT",
         "image_female": "catalog/inner-torso/Items.Tshirt_12_old_04_female.jpeg"
     },
-    "Items.TightJumpsuit_01_rich_02": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_01_rich_02\", 1)",
-        "name_male": "RED ALERT ANTI-SURGE NETRUNNING SUIT",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_01_rich_02_male.jpeg",
-        "name_female": "RED ALERT ANTI-SURGE NETRUNNING SUIT",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_01_rich_02_female.jpeg"
-    },
     "Items.FormalShirt_02_basic_03": {
         "command": "Game.AddToInventory(\"Items.FormalShirt_02_basic_03\", 1)",
         "name_male": "RED LEOPARD BUTTON-UP WITH COMPOSITE INSERT",
@@ -797,13 +692,6 @@
         "name_female": "REINFORCED SPOTTED BRA",
         "image_female": "catalog/inner-torso/Items.Undershirt_02_basic_01_female.jpeg"
     },
-    "Items.TightJumpsuit_02_rich_03": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_rich_03\", 1)",
-        "name_male": "REINFORCED UNITARD WITH TUNGSTEN-SEQUIN COATING",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_02_rich_03_male.jpeg",
-        "name_female": "REINFORCED UNITARD WITH TUNGSTEN-SEQUIN COATING",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_rich_03_female.jpeg"
-    },
     "Items.TShirt_11_basic_01": {
         "command": "Game.AddToInventory(\"Items.TShirt_11_basic_01\", 1)",
         "name_male": "REINFORCED-SEAM SPORTY TANK TOP",
@@ -811,12 +699,12 @@
         "name_female": "REINFORCED-SEAM SPORTY TANK TOP",
         "image_female": "catalog/inner-torso/Items.TShirt_11_basic_01_female.jpeg"
     },
-    "Items.TightJumpsuit_02_basic_06": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_basic_06\", 1)",
-        "name_male": "REUSABLE NONWOVEN UNITARD",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_02_basic_06_male.jpeg",
-        "name_female": "REUSABLE NONWOVEN UNITARD",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_basic_06_female.jpeg"
+    "Items.SQ029_River_Romance_Shirt": {
+        "command": "Game.AddToInventory(\"Items.SQ029_River_Romance_Shirt\", 1)",
+        "name_male": "RIVER'S TANK TOP",
+        "image_male": "catalog/inner-torso/Items.SQ029_River_Romance_Shirt_male.jpeg",
+        "name_female": "RIVER'S TANK TOP",
+        "image_female": "catalog/inner-torso/Items.SQ029_River_Romance_Shirt_female.jpeg"
     },
     "Items.TShirt_09_basic_01": {
         "command": "Game.AddToInventory(\"Items.TShirt_09_basic_01\", 1)",
@@ -1049,13 +937,6 @@
         "name_female": "THERMODYNAMIC T-SHIRT WITH NANOTUBE LINING",
         "image_female": "catalog/inner-torso/Items.Tshirt_12_basic_01_female.jpeg"
     },
-    "Items.TightJumpsuit_02_basic_08": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_basic_08\", 1)",
-        "name_male": "THERMOPLASTIC ANTI-CORP UNITARD",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_02_basic_08_male.jpeg",
-        "name_female": "THERMOPLASTIC ANTI-CORP UNITARD",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_basic_08_female.jpeg"
-    },
     "Items.Tshirt_12_basic_03": {
         "command": "Game.AddToInventory(\"Items.Tshirt_12_basic_03\", 1)",
         "name_male": "THICK-WEAVE VISCOELASTIC T-SHIRT",
@@ -1104,13 +985,6 @@
         "image_male": "catalog/inner-torso/Items.TShirt_05_old_04_male.jpeg",
         "name_female": "TORN SYN-BLEND T-SHIRT",
         "image_female": "catalog/inner-torso/Items.TShirt_05_old_04_female.jpeg"
-    },
-    "Items.TightJumpsuit_02_basic_07": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_basic_07\", 1)",
-        "name_male": "TRILAYER NEOPRENE FOAM UNITARD",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_02_basic_07_male.jpeg",
-        "name_female": "TRILAYER NEOPRENE FOAM UNITARD",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_basic_07_female.jpeg"
     },
     "Items.Tshirt_12_basic_08": {
         "command": "Game.AddToInventory(\"Items.Tshirt_12_basic_08\", 1)",
@@ -1245,13 +1119,6 @@
         "name_female": "WATERPROOF OXFORD CLOTH T-SHIRT",
         "image_female": "catalog/inner-torso/Items.Tshirt_12_basic_05_female.jpeg"
     },
-    "Items.TightJumpsuit_02_rich_02": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_02_rich_02\", 1)",
-        "name_male": "WATER-REPELLENT POLYAMIDE UNITARD",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_02_rich_02_male.jpeg",
-        "name_female": "WATER-REPELLENT POLYAMIDE UNITARD",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_02_rich_02_female.jpeg"
-    },
     "Items.GOG_DLC_TShirt": {
         "command": "Game.AddToInventory(\"Items.GOG_DLC_TShirt\", 1)",
         "name_male": "WOLF SCHOOL T-SHIRT",
@@ -1272,13 +1139,6 @@
         "image_male": "catalog/inner-torso/Items.Shirt_03_old_03_male.jpeg",
         "name_female": "WORN MAELSTROM JACKET",
         "image_female": "catalog/inner-torso/Items.Shirt_03_old_03_female.jpeg"
-    },
-    "Items.TightJumpsuit_01_old_01": {
-        "command": "Game.AddToInventory(\"Items.TightJumpsuit_01_old_01\", 1)",
-        "name_male": "WORN NETRUNNING SUIT",
-        "image_male": "catalog/inner-torso/Items.TightJumpsuit_01_old_01_male.jpeg",
-        "name_female": "WORN NETRUNNING SUIT",
-        "image_female": "catalog/inner-torso/Items.TightJumpsuit_01_old_01_female.jpeg"
     },
     "Items.TShirt_03_old_02": {
         "command": "Game.AddToInventory(\"Items.TShirt_03_old_02\", 1)",
