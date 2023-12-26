@@ -165,8 +165,8 @@ function initButtons() {
 }
 
 async function main() {
-    await initCatalog();
     initLoadingScreen();
+    await initCatalog();
     initSubcatalogs();
     initButtons();
     

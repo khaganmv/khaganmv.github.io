@@ -15,7 +15,7 @@ images = [file for file in os.listdir(DIR) if file != "catalog.json"]
 if len(catalog) != len(images):
     print(f"error: image mismatch (catalog: {len(catalog)}, images: {len(images)})")
 else:
-    if SLOT == "face" or SLOT == "head" or SLOT == "inner-torso" or SLOT == "outer-torso":
+    if SLOT == "face" or SLOT == "head" or SLOT == "inner-torso" or SLOT == "outer-torso" or SLOT == "legs":
         for item, image in zip(catalog, images):
             image_male = catalog[item]["image_male"]
             os.rename(DIR + image, image_male.rsplit(".", 1)[0] + ".png")

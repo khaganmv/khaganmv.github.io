@@ -31,6 +31,11 @@ div {
 .image {
     width: 24vw;
     height: auto;
+    box-sizing: border-box;
+}
+
+.image:hover {
+    border: 0.125vw solid white;
 }
 
 .slot-button {
@@ -40,17 +45,19 @@ div {
 
 .loadingScreen {
     color: white;
-    font-size:xx-large;
+    font-size: xx-large;
     text-align: center;
     padding-top: 22vw;
 }
 
 .textDiv {
     font-family: Consolas, monaco, monospace;
+    color: white;
+    display: none;
 }
 
 #catalog {
-    background-color: rgb(40, 40, 40);
+    background-color: rgb(0, 0, 0);
     padding-bottom: 3vw;
 }
 
