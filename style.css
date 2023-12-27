@@ -22,38 +22,40 @@ div {
     max-width: 100vw;
 }
 
-.itemDiv {
-    width: 23vw;
-    height: auto;
-    padding: 0.25vw 0.75vw 0vw 0.75vw;
-}
-
-.image {
-    width: 24vw;
-    height: auto;
-    box-sizing: border-box;
-}
-
-.image:hover {
-    border: 0.125vw solid white;
-}
-
 .slot-button {
     padding: 0.5vw;
     border-radius: 0.5vw;
 }
 
 .loadingScreen {
-    color: white;
     font-size: xx-large;
     text-align: center;
     padding-top: 22vw;
 }
 
+.itemDiv {
+    width: 23vw;
+    height: auto;
+    padding: 0.5vw 0.75vw 0vw 0.75vw;
+}
+
+.titleDiv {
+    font-size: medium;
+    background-color: rgb(60, 60, 60);
+    width: 24vw;
+    padding-bottom: 0.25vw;
+}
+
 .textDiv {
     font-family: Consolas, monaco, monospace;
-    color: white;
-    display: none;
+    background-color: rgb(60, 60, 60);
+    width: 24vw;
+    padding-bottom: 0.25vw;
+}
+
+.image {
+    width: 24vw;
+    height: auto;
 }
 
 #catalog {

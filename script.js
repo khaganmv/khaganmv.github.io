@@ -123,27 +123,20 @@ function initSubcatalogs() {
 
         for (var item in jsonCatalog[slot]) {
             const itemDiv = document.createElement("div");
-            const textDiv = document.createElement("div");
             const img = document.createElement("img");
+            const titleDiv = document.createElement("div");
+            const textDiv = document.createElement("div");
 
-            itemDiv.className = "itemDiv";
-            textDiv.textContent = jsonCatalog[slot][item]["command"];
-            // textDiv.textContent = jsonCatalog[slot][item]["name_male"];
-            textDiv.className = "textDiv";
-            textDiv.style.color = "white";
-            textDiv.style.display = "none";
             img.src = jsonCatalog[slot][item]["image_male"];
             img.className = "image";
+            itemDiv.className = "itemDiv";
+            titleDiv.textContent = jsonCatalog[slot][item]["name_male"];
+            titleDiv.className = "titleDiv";
+            textDiv.textContent = jsonCatalog[slot][item]["command"];
+            textDiv.className = "textDiv";
 
-            img.addEventListener("click", () => {
-                if (textDiv.style.display === "none") {
-                    textDiv.style.display = "initial";
-                } else {
-                    textDiv.style.display = "none";
-                }
-            });
-            
             itemDiv.appendChild(img);
+            itemDiv.append(titleDiv);
             itemDiv.appendChild(textDiv);
             subcatalog.appendChild(itemDiv);
         }
